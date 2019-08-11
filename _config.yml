@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: The Column
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: A compendium of... nothing in particular
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://lh3.googleusercontent.com/_AjEAqSK3bIFTZhN5d8hs8CcwemcnE_0FRlJUHW-167MBuDganjwN-X80e_5cDHKuLH3BS8Yo2RffD5e9NFilZrLQNeAqQ9QNKVdiHlYqzIwg2gMPQfT9dwNwx7Ej18DGC7NBd9ybzvNiMUFIaH1ujZNtXHL8zg9ofa4QbrloChb8V70iEo40SuJ3XeFaeFblI7FhWtcfqmkQq9crhttyjrUF4OUF1vX958Bhu8tXIYAUopSOSasi-GZkHN8roCi_wHjHvdkQb2Cut87T5z2oOMvUMG3blQgziqcHY6D_spydhq7GWLsQGQZenrbn8er_2yNr_SS1X9B1gkhywZPA-9lKhhG2G8zNZyDXBxgHsy5FKfUlWwa7rzKMTWHhgbihcwSW11iLg8Ow1Y-5XpGvsZ5i5pG0-DASCzKx7_QWjsupH2-XV9jQ3uXUIrmAet_EXWsp1Fadj43Izj7zq8c26QCZLml2ypdDTZ20W96h1_9VxAt4VTSHPvBQVUpsUgvOJisTgpoW_UMuiZv_ulv8urSNhxG84hgU-CrEvflX8rd4f5kBGzO5PGoLXoeYVuX7LGqU63s7g4csdTLR9-jDFv1LHp_sKnDlMbGLpQCgFW_JvJr-Vzfd22Ez4TpmrIvRc0oWh68ZZqSIvG51F3fSNramIXegRaLRNPzFEkoPMjHzoBEixIS39RerzaXfHAf1ZYhbfrP54NGQtkskQ01r-Ki4g=s769-no
 
 #
 # Flags below are optional
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: aarongilly@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: 
+  instagram: 
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: RSS # just type anything here for a working RSS icon
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCYqBmrsF0OjZfe2TaaUjEbg # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://aarongilly.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
