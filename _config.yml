@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Aaron Gillespie"
+  avatar           : "/assets/images/Mugshot.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I'm just a boy, standing in front of a girl, asking her to Google what movie I'm referencing."
+  location         : "Midwest, USA"
+  email            : "aarongilly@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://aarongilly.com"
     - label: "Podcast"
-      icon: "fab fa-fw fa-podcast-square"
+      icon: "fab fa-fw fa-podcast"
       url: "https://wesceneamovie.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
