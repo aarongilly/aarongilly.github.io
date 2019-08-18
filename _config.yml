@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://aarongilly.com"
     - label: "Podcast"
-      icon: "fab fa-fw fa-podcast"
+      icon: "fab fa fa-podcast"
       url: "https://wesceneamovie.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
