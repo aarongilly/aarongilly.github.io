@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aaron Gillespie"
 description              : "A compendium of nothing in particular."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://aarongilly.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aarongilly/aarongilly.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Aaron Gillespie"
   avatar           : "/assets/images/Mugshot.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm just a boy, standing in front of a girl, asking her to Google what movie I'm referencing."
+  bio              : "Engineer. Writer. Husband. Joke maker. Data geek. Father."
   location         : "Midwest, USA"
   links:
     - label: "Email"
