@@ -1,5 +1,5 @@
 ---
-title:  "#379 - What is 'Healthy'?"
+title:  "#379 - Generalized Health Benchmark Test"
 header:
   image: /assets/images/fitness-metrics.png
   caption: "Selfie censored out of shame"
