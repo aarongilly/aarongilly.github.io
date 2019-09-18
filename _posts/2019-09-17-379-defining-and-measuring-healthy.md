@@ -1,6 +1,7 @@
 ---
 title:  "#379 - What is 'Healthy'?"
-  overlay_image: /assets/images/fitness-metrics.png
+header:
+  image: /assets/images/fitness-metrics.png
   caption: "Selfie censored out of shame"
 tags:
   - HEALTH
