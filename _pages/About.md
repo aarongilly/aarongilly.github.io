@@ -21,6 +21,6 @@ This blog has existed in one form or another for most of the past two decades, f
 - Google, although less and less so
 - whatever else Aaron feels like on a given day
 
-That's all. For now, at least. There are other things that need attention.
+# Other Projects
 
-Projects checking flag.
+[See this page.](https://aarongilly.com/_pages/Projects/)
