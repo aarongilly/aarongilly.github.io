@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /_pages/About
+  - title: "Projects"
+    url: /_pages/Projects
   - title: "Tags"
     url: /tags/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
