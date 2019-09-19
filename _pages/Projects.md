@@ -1,6 +1,7 @@
 ---
 title:  "Projects"
-layout: single
+permalink: /Projects/
+layout: archive
 ---
 
 This is a listing of (most of) my on-going projects. What they are. Why I do them. How I do them.
