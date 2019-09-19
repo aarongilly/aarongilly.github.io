@@ -22,3 +22,5 @@ This blog has existed in one form or another for most of the past two decades, f
 - whatever else Aaron feels like on a given day
 
 That's all. For now, at least. There are other things that need attention.
+
+Projects checking flag.

@@ -21,8 +21,9 @@ Stuff. [Relevant Post](https://aarongilly.com/377-challenges/)
 
 Stuff
 
-[Relevant Post](https://aarongilly.com/367-we-scene-movie/)
+Relevant post doesn't exist right now?
 
 # We Scene a Movie
 
-
+Stuff
+[Relevant Post](https://aarongilly.com/367-we-scene-movie/)
