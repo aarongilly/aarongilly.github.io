@@ -5,7 +5,7 @@ layout: single
 
 This is a listing of (most of) my on-going projects. What they are. Why I do them. How I do them.
 
-This is also a placeholder until I write more. #TODO WRITE MORE DUMMY
+This page isn't really "finished" yet.
 
 # The Life Tracker
 
