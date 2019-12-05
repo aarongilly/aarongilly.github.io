@@ -5,6 +5,8 @@ layout: single
 
 # The Author
 
+![About image]({{ site.url }}{{ site.baseurl }}/assets/images/about-image.jpg)
+
 This blog is owned, operated, & written by Aaron Gillespie. Not [this guy](https://en.wikipedia.org/wiki/Aaron_Gillespie), but a different Aaron Gillespie. One you don't know unless you know him.
 
 # The Column

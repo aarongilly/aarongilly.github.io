@@ -1,5 +1,5 @@
 ---
-title:  "Board"
+title:  "Lebo End"
 layout: single
 ---
 
