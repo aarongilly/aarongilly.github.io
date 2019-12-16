@@ -25,5 +25,3 @@ I think the Column (what I call this blog) and Gillespedia will probably morph t
 ![podcast logo]({{ site.url }}{{ site.baseurl }}/assets/images/WSaM.png)
 About a year ago I started a podcast with a couple of friends. We talk about movies, which I *think* is the single most common podcast topic that exists. See more on this 
 [relevant Post](https://aarongilly.com/367-we-scene-movie/).
-
-[Thing to be removed when I remember](https://aarongilly.com/_pages/Nick/)
