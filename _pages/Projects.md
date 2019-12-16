@@ -22,7 +22,7 @@ Recently I started a sister website to this one. The Column (my name for this bl
 I think the Column (what I call this blog) and Gillespedia will probably morph together over time. That may be a while off. I want to build the Gillespedia site from scratch; and I'm just not there yet.
 
 # We Scene a Movie
-![podcast logo]({{ site.url }}{{ site.baseurl }}/assets/images/WSaM.PNG)
+![podcast logo]({{ site.url }}{{ site.baseurl }}/assets/images/WSaM.png)
 About a year ago I started a podcast with a couple of friends. We talk about movies, which I *think* is the single most common podcast topic that exists. See more on this 
 [relevant Post](https://aarongilly.com/367-we-scene-movie/).
 
