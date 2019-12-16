@@ -109,13 +109,14 @@ analytics:
 author:
   name             : "Aaron Gillespie"
   avatar           : "/assets/images/Mugshot.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "In no particular order: person, engineer, bad-joke-maker, data geek, father, husband, movie fan, writer, and project-doer"
+  bio              : "In no particular order: 
+    person, engineer, bad-joke-maker, data geek, father, husband, movie fan, writer, and project-doer"
   location         : "Midwest, USA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:aarongilly@gmail.com"
-    - label: "Other Website"
+    - label: "Aaron's Public Knowledge Wiki"
       icon: "fas fa-fw fa-link"
       url: "https://www.gillespedia.com"
     - label: "Movie Podcast"
