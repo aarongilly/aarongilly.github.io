@@ -1,8 +1,7 @@
 ---
 title:  "#385 - System Architecture"
 header:
-  overlay_image: /assets/images/384-2020.jpg
-  caption: "Photo credit: [**Photo by Jamie Street on Unsplash**](https://unsplash.com/@jamie452?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  overlay_image: /assets/images/post-splash.jpg
 tags:
   - SELF IMPROVEMENT
   - PROJECTS
