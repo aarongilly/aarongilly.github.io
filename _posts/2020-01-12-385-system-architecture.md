@@ -54,7 +54,7 @@ This is a big topic. I could write a ton about this and not be done yet. To keep
  
  My Data Manifest is currently 60 items long. I suspect most people would want fewer tracking points, but I believe everybody could benefit from having at least a few entries.
 
- ## Data Journal
+## Data Journal
 If the Data Manifest is the recipe, the Data Journal is meal. It is the combined set of points tracked according to the Data Manifest. It is populated consistently and constantly, via manual and automated means. It tracks your habits and whatever measures you want it to. It acts as a journal, full of timestamped reflections about life. It can also be home to any other sort of event logging task you might find handy. Data Journaling is another big topic that I could write a ton about. Automation of said journal alone could be a whole book.
 
 ## Habits List
@@ -72,12 +72,10 @@ There literally is a book written about this - ["Getting Things Done" by David A
 The process starts with a 5 Year Plan. This plan gets reviewed & renewed each December, and after any major life-changing events (or, you know, whenever you want). It is more than a 5 year plan, though. It's a goal *identity*. It's a forcing an answer to the question "why?" in the long, medium, and short-term. 
 - Who you want to be in 5 years? 
 - Why do you want to be that person? (*identity statement*)
-Then it's a translation of that identity to an action plan, both in terms of milestones and systems needed to achieve them.
 - What has that person accomplished? By when? (*5 Year Plan*)
 - Where do I need to be in one year to be where I want in 5 Years?
 - What does that person *do* in order to be who they are, and accomplish those things? (*Habits List* and *Monthly Challenge List*).
 - What can I start doing today to get me there? What habits should I adopt?
-And finally, it's building a system to track, keep goals in focus, and keep you honest with yourself.
 - Of the list of things I can start doing, how can I track them? 
 - Are there any metrics or measures I can use to track my progress toward my goal identity? (*Data Manifest* and *Data Journal*)
 
