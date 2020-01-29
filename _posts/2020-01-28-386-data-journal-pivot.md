@@ -35,7 +35,7 @@ This annoyance played out in a multitude of spots. How many books/TV shows/Movie
 
 ## The Pivot
 
-In January I changed everything. All I did was change the data structure from a the standard intersection-of-row-and-column format to something more akin to a key:value pair... although in my case it's more of a "key:key:value" triple.
+In January I changed everything. All I did was change the data structure from a the standard intersection-of-row-and-column format to something more akin to a key:value pair... although in my case it's more of a "couple keys:value" triple.
 
 ![system architecture]({{ site.url }}{{ site.baseurl }}/assets/images/386-new.png)
 
