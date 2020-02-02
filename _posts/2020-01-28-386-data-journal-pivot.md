@@ -25,7 +25,7 @@ This structure offers many advantages. First it's how spreadsheets are *supposed
 
 There's one limitation that a standard spreadsheet applications fails to handle well... a limitation I decided I no longer wanted to live with: multiplicity.
 
-The intersection of a row and a column is one cell. One cell contains one value. One. You can try working around this limitation by using in-cell delimiters (e.g. commas), but you're always fighting an uphill battle. Here's a pretty simple scenario that played out last year - I wanted to know how many books I ready. There are formulas for counting things, there are formulas for counting things based on conditions, there are methods of counting "unique" things... but none of those built-in methods can possibly recognize that the sequence of days below only contains two books:
+The intersection of a row and a column is one cell. One cell contains one value. One. You can try working around this limitation by using in-cell delimiters (e.g. commas), but you're always fighting an uphill battle. Here's a pretty simple scenario that played out last year - I wanted to know how many books I read. There are formulas for counting things, there are formulas for counting things based on conditions, there are methods of counting "unique" things... but none of those built-in methods can possibly recognize that the sequence of days below only contains two books:
 
 - 1/1: "The Odyssey"  
 - 1/2: "The Odyssey, The Iliad"  
@@ -59,13 +59,15 @@ The new approach made things easier, but also more difficult.
 
 It's rare that things can be made better without an associated cost. These costs are ones I'm willing to live with, given the opportunities it affords me for automating inputs and the simplification (from a machine perspective) for grabbing a certain type of data from a certain period.
 
+I end January having achieved pretty much all of the ultimate mission of the whole Data Journal concept: *I want to build a permanently ongoing ledger of notes, measures, metrics, tasks, events, and other data which I can append throughout the day utilizing a number of automated and manual means.*
+
 # Top 5: Enhanced Features, Post Re-write
 
 1. I'm now using a completely custom WebApp interface instead of Google Forms. I can make it look like whatever I want, and pull in data to show in my nightly review.
 2. The Data Manifest brought clarity to what I'm tracking & why.
 3. I can track multiple little notes throughout the day, and do it as simply as saying "Okay Google, Journal ______" to any Assistant-capable device.
 4. Thanks to integration with Siri Shortcuts and automations, I can automatically track anything that can trigger automations on my phone. And I made a homescreen's worth of shortcuts for tracking various types of data.
-5. Thanks to the integration with IFTTT, I can automatically track ANYTHING that connects to IFTTT... the impact of this cannot be understated. I have automatic logging enabled for anytime I leave (or enter) my house, any task I check off in Todoist, any Instagram post I post, and any Column I post. Adding new automations (such as my RescueTime daily screen time summaries) can be done in a matter of seconds.
+5. Thanks to the integration with IFTTT, I can automatically track ANYTHING that connects to IFTTT... the impact of this cannot be overstated. I have automatic logging enabled for anytime I leave (or enter) my house, any task I check off in Todoist, any Instagram post I post, and any Column I post. Adding new automations (such as my RescueTime daily screen time summaries) can be done in a matter of seconds.
 
 # Quotes  
 > **Ideas are easy. Execution is everything.**  
