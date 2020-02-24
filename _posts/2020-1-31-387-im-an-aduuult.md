@@ -51,7 +51,7 @@ My wife and I just finished the 26th (and final) week of this book. It feels lik
 
 That plus we make dynamite food every day now.
 
-# **Top 5: Other Things I've Been Doing
+# Top 5: Other Things I've Been Doing
 
 1. Practicing guitar decently often
 2. Doing a workout routine that involves rolling dice (which I'm about to go do so I'm officially rushing this Top 5)
