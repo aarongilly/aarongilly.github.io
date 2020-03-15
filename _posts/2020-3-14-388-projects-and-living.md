@@ -32,7 +32,7 @@ By design the manifest doesn't have much content. It is a set of links to tools 
 
 My system starts with a 5 Year Plan. Like most good project plans, it is broken into various levels of granularity by temporal proximity. In non-thesaurus speak, it's more specific for the next few months, and increasingly vague as you go into the future. 
 
-![Goal Area Project Map]({{ site.url }}{{ site.baseurl }}/assets/images/388-timeline.PNG)
+![Goal Area Project Map]({{ site.url }}{{ site.baseurl }}/assets/images/388-timeline.png)
 
 My timeline is mostly (although not exclusively) my list of **goals**, plotted on a common axis. It's housed in Notion.
 
