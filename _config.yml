@@ -282,7 +282,7 @@ compress_html:
 
 # Collections
 collections:
-  gillepedia:
+  gillespedia:
     output: true
     permalink: /:collection/:path/
 
@@ -306,7 +306,7 @@ defaults:
     values: 
       layout: collection
       author_profile: true
-      
+
 
 # defaults:
 #   # _pages
