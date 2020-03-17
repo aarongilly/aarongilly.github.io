@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-SOMETEXTIADDEDFORFUN
+Aaron's Public Knowledge Wiki.

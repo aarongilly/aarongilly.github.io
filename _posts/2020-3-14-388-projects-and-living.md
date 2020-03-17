@@ -1,10 +1,12 @@
 ---
 title:  "#388 - Manifest of Projects, Areas, and Goals"
+excerpt: "A look at living with intent."
 header:
   overlay_image: /assets/images/post-splash.jpg
 tags:
   - SELF IMPROVEMENT
   - PROJECT
+
 ---
 
 # Intentional Living
