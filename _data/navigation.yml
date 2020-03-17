@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /_pages/About
-  - title: "Projects"
-    url: /_pages/Projects
+  - title: "Gillespedia"
+    url: /gillespedia/
   - title: "Tags"
     url: /tags/
   # - title: "Sample Collections"
