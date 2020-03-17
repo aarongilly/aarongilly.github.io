@@ -299,6 +299,14 @@ defaults:
       comments: # true
       share: # true
       related: true
+  # _gillespedia
+  - scope:
+      path: ""
+      type: gillespedia
+    values: 
+      layout: collection
+      author_profile: true
+      
 
 # defaults:
 #   # _pages
