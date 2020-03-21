@@ -2,7 +2,7 @@
 title: "Atomic Habits"
 excerpt: "A book by James Clear."
 header:
-    image: "{{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/habit-journal.jpg"
+    image: {{ site.url }}{{ site.baseurl }}"/assets/images/gillespedia/habit-journal.jpg"
     teaser: "https://jamesclear.com/wp-content/uploads/2019/09/AH-Preferred-Badge.png"
 ---
 
