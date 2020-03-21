@@ -2,8 +2,12 @@
 title: "Atomic Habits"
 excerpt: "A book by James Clear."
 header:
-    image: {{ site.url }}{{ site.baseurl }}"/assets/images/gillespedia/habit-journal.jpg"
+    image: /assets/images/gillespedia/habit-journal.jpg
     teaser: "https://jamesclear.com/wp-content/uploads/2019/09/AH-Preferred-Badge.png"
+tags:
+- Book Reports
+- Philosophy
+- Productivity
 ---
 
 I **really** like this book. It's the book that "The Power of Habit" should have been. My book review is too long.
