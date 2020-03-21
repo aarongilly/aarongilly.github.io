@@ -2,11 +2,13 @@
 title: "Atomic Habits"
 excerpt: "A book by James Clear."
 header:
-    image: "https://jamesclear.com/wp-content/uploads/2019/09/AH-Preferred-Badge.png"
+    image: "{{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/habit-journal.jpg"
     teaser: "https://jamesclear.com/wp-content/uploads/2019/09/AH-Preferred-Badge.png"
 ---
 
 I **really** like this book. It's the book that "The Power of Habit" should have been. My book review is too long.
+
+![Book cover]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/cover-atomic-habits.png)
 
 # Summary of the Summary
 
