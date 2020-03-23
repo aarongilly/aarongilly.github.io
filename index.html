@@ -3,12 +3,17 @@ layout: home
 author_profile: true
 ---
 
-Welcome to my website, {{site.base}}. I'm tinkering with it at the moment. Don't mind me.
+<style>
+    #test:hover{
+        font-style: italic;
+    }
+</style>
+
+Welcome to my website. I'm tinkering with it at the moment. Don't mind me.
 
 <img src="{{site.ur}}{{ site.baseurl }}/assets/images/index-banner.png">
 
-<div>This text is inside a div.</div>
 <div id="test">TEST</div>
 <script>
-    document.getElementById("test").textContent= "SCRIPTABLE!"
+    document.getElementById("test").textContent= "I'm interested in making this page more useful."
 </script>
