@@ -97,7 +97,7 @@ Basically just reflecting on what you've accomplished this year towards what you
 # Closing thoughts
 I want to write way more about all of the sections above. Then I want to write about how the systems could be reduced if you decide not to do the whole comprehensive list of processes and components. If this is the "high" level of keeping yourself accountable and on-track, there are natural "medium" and "low" level points that still offer a huge ROI that I think would be palatable to a larger audience.
 
-Obviously I don't have space to do that writing today. Honestly I'm on the fence about putting future writings about this specific topic on the Column at all. I doubt you readers, who come here looking for brief insights about Aaron and his musing aren't interested in multiple longform pieces about this one specific thing. If your interested, let me know.
+Obviously I don't have space to do that writing today. Honestly I'm on the fence about putting future writings about this specific topic on the Column at all. I doubt you readers, who come here looking for brief insights about Aaron and his musing aren't interested in multiple longform pieces about this one specific thing. If you're interested, let me know.
 
 # **Top 5: Very Specific Subcomponents/Subprocesses about which I could write for days**
 
