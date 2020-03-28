@@ -13,16 +13,8 @@ Welcome to my website. I'm tinkering with it at the moment. Don't mind me.
 
 <img src="{{site.ur}}{{ site.baseurl }}/assets/images/index-banner.png">
 
-
-
 <div id="test">TEST</div>
 <script>
     document.getElementById("test").textContent= "I'm interested in making this page more useful."
-    console.log("Fetching API Data...");
-    const jsonCheck = async () => {
-        const response = await fetch("https://script.google.com/macros/s/AKfycbxxfGNpuEBSGkDd9Kj_h4VhtN_uGu6j3UoIcI9XxeWvnwSQl04/exec?v=api");
-        await console.log(response);
-        const myJson = await response.json(); //extract JSON from the http response
-        console.log(myJson);
-    }
+    console.log("Oh hi.");
 </script>
