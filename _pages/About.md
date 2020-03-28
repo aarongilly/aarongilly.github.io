@@ -29,3 +29,5 @@ Gillespedia is a section of this website holding articles written by Aaron that 
 - Math
 - Productivity
 - Philosophy
+
+This website is hosted by GitHub Pages, utilizing the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme with almost no retooling.
