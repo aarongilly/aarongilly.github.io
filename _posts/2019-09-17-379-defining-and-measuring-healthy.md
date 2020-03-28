@@ -4,10 +4,8 @@ header:
   image: /assets/images/fitness-metrics.png
   caption: "Selfie censored out of shame"
 tags:
-  - HEALTH
-  - FITNESS
-  - QUANTIFIED SELF
-  - SELF IMPROVEMENT
+  - PROJECT
+  - FEATURE
 ---
 
 # What is "Healthy"?

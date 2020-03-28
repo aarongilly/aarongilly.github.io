@@ -4,7 +4,7 @@ header:
   overlay_image: /assets/images/post-splash.jpg
 tags:
   - SELF IMPROVEMENT
-  - PROJECTS
+  - PROJECT
   - FEATURE
 ---
 

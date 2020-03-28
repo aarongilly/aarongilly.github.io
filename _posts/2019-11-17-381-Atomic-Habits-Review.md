@@ -4,8 +4,7 @@ header:
   overlay_image: https://jamesclear.com/wp-content/uploads/2019/09/AH-Preferred-Badge.png
   caption: "Photo credit: [**James Clear**](http://www.jamesclear.com)"
 tags:
-  - HEALTH
-  - SELF IMPROVEMENT
+  - FEATURE
 ---
 
 Oh hey. I'm writing. I'm also watching **"Frozen"** for the first time in forever. Disney Plus is incredible and an absolute no-brainer as a person with a very young child... or as a person with eyes and ears connected to a heart.

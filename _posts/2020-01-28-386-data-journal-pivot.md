@@ -3,10 +3,8 @@ title:  "#386 - Data Journal Pivot"
 header:
   overlay_image: /assets/images/post-splash.jpg
 tags:
-  - SELF IMPROVEMENT
-  - PROJECTS
+  - PROJECT
   - FEATURE
-  - QUANTIFIED SELF
 ---
 
 January's 30 Day Challenge was to refactor the old "Life Tracker" into the "Data Journal" component of my new overall system. I wasn't sure how much effort this endeavor was going to take. It wasn't clear from the outset, but ultimately it was a burn-it-all-down undertaking. 
