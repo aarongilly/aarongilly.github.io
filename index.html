@@ -20,7 +20,7 @@ Welcome to my website. I'm tinkering with it at the moment. Don't mind me.
     document.getElementById("test").textContent= "I'm interested in making this page more useful."
     console.log("Fetching API Data...");
     const jsonCheck = async () => {
-        const response = await fetch("https://script.googleusercontent.com/macros/echo?user_content_key=CKYm_3hzZQfmreNzv8ijbdFSt8v-vHXXz_II4cfAyD6bL_ww7CIXJss9QNTy8lCDenMk4SLyCpcvZbS8r3JCYKrHcvJolXuGm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnMydLLoEe1nN1bgUPlMvwbPamVDPs0vGkgSZ6Q-yH89l0Dvzu1tFt-dcNxRfjkxjLi5jIWOz-mGw&lib=MwpNEOWREm-5x1PE74uAmV_ueLKhoaeOI?v=api", {"mode":"no-cors"});
+        const response = await fetch("https://script.google.com/macros/s/AKfycbxxfGNpuEBSGkDd9Kj_h4VhtN_uGu6j3UoIcI9XxeWvnwSQl04/exec?v=api");
         await console.log(response);
         const myJson = await response.json(); //extract JSON from the http response
         console.log(myJson);
