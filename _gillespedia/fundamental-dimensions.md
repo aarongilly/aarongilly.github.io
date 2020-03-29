@@ -6,7 +6,9 @@ header:
 mathjax: true
 ---
 
-In our physical world we've identified 5 basic dimensions: length, mass, time, temperature, and electric charge. (I think there are actually more if you get into string theory, but I'm definitely *not* getting into that). These dimensions and the units we measure them in are defined and maintained by [International Organization for Standardization](https://www.iso.org/home.html), and are the basis of the Metric system.
+In our physical world we've identified 6 basic dimensions: length, mass, time, temperature, electric charge, and luminous intensity.[^1] These dimensions and the units we measure them in are defined and maintained by [International Organization for Standardization](https://www.iso.org/home.html), and are the basis of the Metric system.
+
+## Base Units
 
 | Name                | Common Variable | SI Unit  | SI Symbol |
 |---------------------|-----------------|----------|-----------|
@@ -17,6 +19,8 @@ In our physical world we've identified 5 basic dimensions: length, mass, time, t
 | temperature         | T               | kelvin   | K         |
 | amount of substance | n               | mole     | mol       |
 | luminous intensity  | $$l_v$$         | candela  | cd        |
+
+Note: the ISO's standard base units include *electric current* instead of *charge*. They also include the dimensionless *amount of substance* unit "mole".
 
 An object has these 7 physical quantities. Each of these quantities is distinct from and orthogonal to the others. each may have any value. 
 
@@ -40,3 +44,5 @@ So. Always be very clear with what units you're using. Without units, nothing me
 # Everything is Arbitrary, Nothing is Sacred
 
 One interesting thing to note is that units are an entirely human invention... and they derive from completely arbitrary origins. There is nothing sacred about the length of a meter, other than it's what we all agree a certain length in space is. There's nothing saying a second had to be *exactly* as long as a second is today. If our ancestors had decided to use a base-10 system for time, we'd be referring to some other unit of time as our "de facto standard". The second would be the second division of the day by 10, I suppose. That would equivalent to 864 seconds (24 hrs / 100). We'd probably have decided that we wanted a more fine-grain unit of time and then went with "thirds", which would be the 3rd division of the day by 10: 8.64 of *our* seconds. Then "fourths" would be slightly less than a *our* second in duration.
+
+[^1]: I think there are actually more if you get into string theory, but I'm definitely *not* getting into that.
