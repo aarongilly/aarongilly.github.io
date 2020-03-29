@@ -32,3 +32,6 @@ Gillespedia is a section of this website holding articles written by Aaron that 
 - Philosophy
 
 This website is hosted by GitHub Pages, utilizing the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme with almost no retooling.
+
+
+<iframe width="90%" height="400" src="https://datastudio.google.com/embed/reporting/05cf451d-040e-424a-a389-25552f9c4ba1/page/bcFKB" frameborder="0" style="border:solid" allowfullscreen></iframe>
