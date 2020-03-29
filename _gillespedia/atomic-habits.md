@@ -4,7 +4,12 @@ excerpt: "A book by James Clear."
 header:
    teaser: "/assets/images/gillespedia/cover-atomic-habits.png"
 toc: true
+layout: compress
 ---
+
+
+
+layout - compressed
 
 # Book Review
 
