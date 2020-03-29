@@ -6,8 +6,6 @@ header:
 mathjax: true
 ---
 
-# Fundamental Dimensions
-
 In our physical world we've identified 7 basic dimensions (I think there are actually more if you get into string theory, but I'm definitely *not* getting into that). These dimensions and the units we measure them in are defined and maintained by [International Organization for Standardization](https://www.iso.org/home.html), and are the basis of the Metric system.
 
 | Name                | Common Variable | SI Unit  | SI Symbol |

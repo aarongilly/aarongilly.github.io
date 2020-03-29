@@ -2,6 +2,7 @@
 
 # Tags & formatting
 [Minimal Mistakes Reference](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+[MM Raw](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_posts/2013-01-11-markup-html-tags-and-formatting.md)
 [Full Reference](https://kramdown.gettalong.org/quickref.html#inline-attributes)
 
 ##
