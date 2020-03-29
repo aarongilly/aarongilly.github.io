@@ -303,6 +303,7 @@ defaults:
     values: 
       layout: collection
       author_profile: true
+      toc: true
 
 
 # defaults:

@@ -6,7 +6,7 @@ header:
 mathjax: true
 ---
 
-In our physical world we've identified 7 basic dimensions (I think there are actually more if you get into string theory, but I'm definitely *not* getting into that). These dimensions and the units we measure them in are defined and maintained by [International Organization for Standardization](https://www.iso.org/home.html), and are the basis of the Metric system.
+In our physical world we've identified 5 basic dimensions: length, mass, time, temperature, and electric charge. (I think there are actually more if you get into string theory, but I'm definitely *not* getting into that). These dimensions and the units we measure them in are defined and maintained by [International Organization for Standardization](https://www.iso.org/home.html), and are the basis of the Metric system.
 
 | Name                | Common Variable | SI Unit  | SI Symbol |
 |---------------------|-----------------|----------|-----------|
@@ -32,12 +32,11 @@ Units are essential. Without units, numbers have no physical meaning or context.
 
 Units with meanings that all humans agree upon are absolutely *vital* for economics, science, and everything stemming from those fields. Without the concept of a meter, we'd never have made it to the moon, we'd probably have never made it to any place to which we could walk.
 
-Units are what turns *math* into *science* & *engineering*.
+👉 Units are what turns *math* into *science* & *engineering*
+{: .notice--primary}
 
 So. Always be very clear with what units you're using. Without units, nothing means anything.
 
 # Everything is Arbitrary, Nothing is Sacred
 
 One interesting thing to note is that units are an entirely human invention... and they derive from completely arbitrary origins. There is nothing sacred about the length of a meter, other than it's what we all agree a certain length in space is. There's nothing saying a second had to be *exactly* as long as a second is today. If our ancestors had decided to use a base-10 system for time, we'd be referring to some other unit of time as our "de facto standard". The second would be the second division of the day by 10, I suppose. That would equivalent to 864 seconds (24 hrs / 100). We'd probably have decided that we wanted a more fine-grain unit of time and then went with "thirds", which would be the 3rd division of the day by 10: 8.64 of *our* seconds. Then "fourths" would be slightly less than a *our* second in duration.
-
-The only fundamental unit that really has anything to do with the fundamental laws of nature is the Mol. It has to do with the ratio of the mass of a proton+neutron+electron and the mass we call "a kilogram"... but because a "kilogram" is an artifact of completely arbitrary decisions, even the Mol isn't sacred. No units exist in nature.
