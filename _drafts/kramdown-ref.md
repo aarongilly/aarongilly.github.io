@@ -1,7 +1,10 @@
 # This page is a module template reference page.
 
 # Tags & formatting
-[Full Reference](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+[Minimal Mistakes Reference](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+[Full Reference](https://kramdown.gettalong.org/quickref.html#inline-attributes)
+
+##
 
 Inline code:
 `{: .notice--warning}`

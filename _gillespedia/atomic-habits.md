@@ -9,7 +9,6 @@ toc: true
 # Book Review
 
 I **really** like this book. It's the book that "The Power of Habit" should have been. This book & *"Getting Things Done"* are the only two books I would recommend to everyone. They both changed my life in a significant way for the better.
-{: .notice--primary}
 
 ![Book cover]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/cover-atomic-habits.png){: .align-center}
 
@@ -73,7 +72,9 @@ Case study: the English cycling team when from zeroes to heroes by focusing on "
 
 **Habits are the compounding interest of self improvement.** Each little thing itself doesn't have much effect, but the cumulative effects are significant. This goes in both directions. Good habits accumulate to great results, bad habits accumulate to catastrophe. A 1% bump each day for a year results in a year-over-year performance increase of 37x.
 
-Results are a lagging measure of habits.
+👉 Results are a lagging measure of habits.
+{: .notice--primary}
+
 
 Goal setting is good, but systems should be the real focus. **Setting goals is not the determining factor for whether you achieve them.** People who succeed and people who fail to win a race all set the same goal (to win it). Setting goals doesn't not cause them to be achieved nearly as much as setting the systems in place to achieve them. Goals set up a pattern of differed happiness, meanwhile a focus on a system can lead to continual happiness. You aren't thinking "I'll lose 10 pounds, *then* I'll be happy", but instead you can be happy knowing you didn't eat out **today**.
 
