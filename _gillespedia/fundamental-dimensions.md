@@ -3,6 +3,7 @@ title: "Fundamental Dimensions & Units"
 excerpt: "The basis of measurement, which is the basis of science."
 header:
    teaser: "/assets/images/gillespedia/measurements.jpg"
+mathjax: true
 ---
 
 # Fundamental Dimensions
@@ -23,6 +24,8 @@ In our physical world we've identified 7 basic dimensions (I think there are act
 An object has these 7 physical quantities. Each of these quantities is distinct from and orthogonal to the others. each may have any value. 
 
 There are a bunch of other common quantities and units, such as **force.** However those are derived from combinations of the base set. 
+
+Formula for force...
 
 $$force = mass\times(length/time/time)$$
 
