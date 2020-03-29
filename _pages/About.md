@@ -3,7 +3,8 @@ title:  "About"
 layout: single
 ---
 
-![About image]({{ site.url }}{{ site.baseurl }}/assets/images/about-image-smaller.jpg)
+![About image]({{ site.url }}{{ site.baseurl }}/assets/images/about-image-smaller.jpg){: align-center}  
+
 This blog is owned, operated, & written by Aaron Gillespie. Not [this guy](https://en.wikipedia.org/wiki/Aaron_Gillespie), but a different Aaron Gillespie. One you don't know unless you know him. He's the guy in the photo above - the blue shirt, not the orange one.
 You can [subscribe to Aaron's mailing list](http://eepurl.com/gNPOV9) to get notified of new Columns right in your email inbox.  
 
