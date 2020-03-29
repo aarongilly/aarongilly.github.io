@@ -8,8 +8,9 @@ header:
 # Book Review
 
 I **really** like this book. It's the book that "The Power of Habit" should have been. This book & *"Getting Things Done"* are the only two books I would recommend to everyone. They both changed my life in a significant way for the better.
+{: .notice--primary}
 
-![Book cover]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/cover-atomic-habits.png)
+![Book cover]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/cover-atomic-habits.png){: .align-center}
 
 # Summary of the Summary
 

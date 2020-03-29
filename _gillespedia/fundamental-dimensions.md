@@ -18,6 +18,7 @@ In our physical world we've identified 7 basic dimensions (I think there are act
 | temperature         | T               | kelvin   | K         |
 | amount of substance | n               | mole     | mol       |
 | luminous intensity  | l_v             | candela  | cd        |
+{:text-center}
 
 An object has these 7 physical quantities. Each of these quantities is distinct from and orthogonal to the others. each may have any value. 
 
