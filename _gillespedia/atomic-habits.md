@@ -37,7 +37,9 @@ Habit trackers are immensely helpful. They are a cue that can serve as a craving
 
 Experiment with many different habits. Stick with what naturally works for you. Keep pursuing what is on the edge of your capability - not easy but not impossible. After mastering any given habit, after your interests change, or just every so often, reevaluate how your systems. Ask yourself: Have your habits become rote? Can you dive deeper? Should you to refine or upgrade the person you want to be?
 
-# Definitions
+---
+
+# Full Notes
 
 **Atomic** - the tiny element. The smallest irreducible unit of a larger system. Or: A source of great energy or power. 
 
