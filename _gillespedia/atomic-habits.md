@@ -16,7 +16,7 @@ I **really** like this book. It's the book that "The Power of Habit" should have
 
 Habits have a compounding effect over time - and because of that, small habits done consistently eventually return huge results. They do more than help you achieve your goals, they bring you closer to being the person you want to be. So start by asking yourself "what does the person I want to be *do*?" Then create a system that enables doing those things. *Good* habits moves you toward being that person, bad habits away. Don't focus too much on immediate goals, focus instead on exercising the system. Each time you repeat a habit, you cast a vote for your new identity. Find the joy in that instead of waiting for the joy of achieving your goal.
 
-The basic habit loop is cue → craving → response → reward. You can manipulate each step in this process to help adopt good habits and break bad ones.
+The basic habit loop is ⮎ cue → craving → response → reward ⮌. You can manipulate each step in this process to help adopt good habits and break bad ones.
 
 **Cue** - make habit triggers obvious. Setup your environment to expose good cues often, and hide bad cues. Be very specific with when and how you will perform a habit. Try stacking a habit you aspire to do with one you already do.
 
