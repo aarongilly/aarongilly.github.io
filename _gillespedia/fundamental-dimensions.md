@@ -1,28 +1,29 @@
 ---
-title: "Fundamental Dimensions & Units"
+title: "Base Dimensions & Units"
 excerpt: "The basis of measurement, which is the basis of science."
 header:
    teaser: "/assets/images/gillespedia/measurements.jpg"
 mathjax: true
 ---
 
-In our physical world we've identified 6 basic dimensions: length, mass, time, temperature, electric charge, and luminous intensity.[^1] These dimensions and the units we measure them in are defined and maintained by [International Organization for Standardization](https://www.iso.org/home.html), and are the basis of the Metric system.
+In our physical world we've identified 5 basic dimensions: length (L), mass (M), time (T), temperature (Θ), & electric charge (Q).[^1] An object has each of these 5 physical quantities. Each of these quantities is distinct from and orthogonal to the others. These are the **base dimensions**.
 
-## Base Units
+Closely related to, but not the same as, the base dimensions are the **base units**: meter (m), kilogram (kg), second (s), Kelvin (K), Ampere (A), mole (mol), and candela (cd). The units we measure in are defined and maintained by [International Organization for Standardization](https://www.iso.org/home.html), and are the basis of the Metric system.
 
-| Name                | Common Variable | SI Unit  | SI Symbol |
-|---------------------|-----------------|----------|-----------|
-| length              | l               | meter    | m         |
-| mass                | m               | kilogram | kg        |
-| time                | t               | second   | s         |
-| electric current    | i               | ampere   | A         |
-| temperature         | T               | kelvin   | K         |
-| amount of substance | n               | mole     | mol       |
-| luminous intensity  | $$l_v$$         | candela  | cd        |
+## Base Dimensions & Units
 
-Note: the ISO's standard base units include *electric current* instead of *charge*. They also include the dimensionless *amount of substance* unit "mole".
+| Base Dimension | Quantity            | Common Variable | SI Unit  | SI Symbol |
+|----------------|---------------------|-----------------|----------|-----------|
+| L              | length              | l               | meter    | m         |
+| M              | mass                | m               | kilogram | kg        |
+| T              | time                | t               | second   | s         |
+| Q              | electric charge     | C               |          |           |
+|                | electric current    | i               | ampere   | A         |
+| Θ              | temperature         | T               | Kelvin   | K         |
+|                | amount of substance | n               | mole     | mol       |
+|                | luminous intensity  | $$l_v$$         | candela  | cd        |
 
-An object has these 7 physical quantities. Each of these quantities is distinct from and orthogonal to the others. each may have any value. 
+The ISO Units differ from the base dimensions in a few cases. Electric current is used rather than electric charge.
 
 There are a bunch of other common quantities and units, such as **force.** However those are derived from combinations of the base set. 
 
