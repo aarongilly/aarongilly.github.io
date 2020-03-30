@@ -296,6 +296,9 @@ defaults:
       comments: # true
       share: # true
       related: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "angle-double-down"
   # _gillespedia
   - scope:
       path: ""
