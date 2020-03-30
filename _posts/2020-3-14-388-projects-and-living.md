@@ -6,10 +6,14 @@ header:
 tags:
   - SELF IMPROVEMENT
   - PROJECT
+categories:
+  - gillespedia
 toc: true
 toc_label: "Unique Title"
 toc_icon: "heart"
 ---
+
+test.
 
 # Intentional Living
 
