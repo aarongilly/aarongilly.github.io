@@ -299,6 +299,7 @@ defaults:
       toc: true
       toc_label: "Contents"
       toc_icon: "angle-double-down"
+      toc_sticky: true
   # _gillespedia
   - scope:
       path: ""

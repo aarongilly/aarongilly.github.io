@@ -8,8 +8,6 @@ tags:
   - PROJECT
 ---
 
-test.
-
 # Intentional Living
 
 Intentional living is an incredibly gratifying way to go about your day-to-day. It raises both the ceiling and the floor of each day's potential. Living with intent is all about knowing who you are, what you want, where you want to be, and the *why* behind it all. Mapping your actions and desires back to an overall plan puts them in context. It makes decision-making easier. It makes going to the gym easier. It makes studying easier. You're not just "cleaning a toilet", you're giving your family a safe and sanitary place to live. You're not just "mowing a lawn", you're contributing to the image of the neighborhood, raising everyone's property value, and keeping on top of your responsibilities to have a clear head.

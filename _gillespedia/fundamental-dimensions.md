@@ -2,11 +2,13 @@
 title: "Base Dimensions & Units"
 excerpt: "The basis of measurement, which is the basis of science."
 header:
-   teaser: "/assets/images/gillespedia/measurements.jpg"
+   teaser: "/assets/images/gillespedia/dimensions.PNG"
 mathjax: true
 ---
 
 In our physical world we've identified 5 basic dimensions: length (L), mass (M), time (T), temperature (Θ), & electric charge (Q).[^1] An object has each of these 5 physical quantities. Each of these quantities is distinct from and orthogonal to the others. These are the **base dimensions**.
+
+![Dimensions]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/dimensions.PNG){: .align-center}
 
 Closely related to, but not the same as, the base dimensions are the **base units**: meter (m), kilogram (kg), second (s), Kelvin (K), Ampere (A), mole (mol), and candela (cd). The units we measure in are defined and maintained by [International Organization for Standardization](https://www.iso.org/home.html), and are the basis of the Metric system.
 
