@@ -6,7 +6,9 @@ header:
 tags:
   - SELF IMPROVEMENT
   - PROJECT
-
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"
 ---
 
 # Intentional Living
