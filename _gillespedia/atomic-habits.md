@@ -2,7 +2,7 @@
 title: "Atomic Habits"
 excerpt: "A book by James Clear."
 header:
-   teaser: "/assets/images/gillespedia/cover-atomic-habits.png"
+   teaser: "/assets/images/gillespedia/cover-atomic-habits-teaser.png"
 toc: true
 toc_label: "Unique Title"
 toc_icon: "heart"
