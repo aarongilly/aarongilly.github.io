@@ -24,7 +24,7 @@ description              : "A compendium of nothing in particular."
 url                      : "http://aarongilly.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aarongilly/aarongilly.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/about-image-smaller.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # "/assets/images/about-image-smaller.jpg" # path of fallback teaser image
 logo                     : "/assets/images/logo-small.PNG" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : #, false (default)
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Aaron Gillespie"
-  avatar           : "/assets/images/Mugshot.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Mugshot.PNG"
   bio              : "In no particular order: 
     person, engineer, bad-joke-maker, data geek, father, husband, movie fan, writer, and project-doer"
   location         : "Midwest, USA"
@@ -305,7 +305,7 @@ defaults:
       path: ""
       type: gillespedia
     values: 
-      layout: collection
+      layout: single # collection
       author_profile: true
       toc: true
 
