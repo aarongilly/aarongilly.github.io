@@ -85,7 +85,7 @@ A circle can *also* be a one-dimensional space, depending on what **coordinate s
 
 The term for the angle that describes a location is "**azimuth**", which would make a great name for a Dungeons and Dragons character. Circles are one-dimensional in the *spherical* and *cylindrical* coordinate systems.
 
-Much like lines and circles, two-dimensional spaces don't *have* to be planes. They can be spheres, depending on what coordinate system you choose to use to describe them. One very well-known two-dimensional coordinate system is the spherical coordinate system of longitude and latitude.
+Much like lines and circles, two-dimensional spaces don't *have* to be planes. They can be cylinders or spheres, depending on what coordinate system you choose to use to describe them. One very well-known two-dimensional coordinate system is the spherical coordinate system of longitude and latitude.
 
 ![spherical]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/spherical.png){: .align-center}
 
