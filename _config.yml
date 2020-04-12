@@ -25,7 +25,7 @@ url                      : "http://aarongilly.com" # the base hostname & protoco
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aarongilly/aarongilly.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/about-image-smaller.jpg" # path of fallback teaser image
-logo                     : "/assets/images/logo-small-alt.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo-small.PNG" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : #, false (default)
 words_per_minute         : 180
