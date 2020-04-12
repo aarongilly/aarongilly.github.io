@@ -43,7 +43,7 @@ A three-dimensional space is called a "**volume**". We usually call this the "Z"
 
 What separates dimensions is the concept of "**orthogonality**". Basically, if you can move in your space without changing one of the coordinates that define your position, you are moving *orthogonally* to that dimension.
 
-![orthogonality]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/numberline.png){: .align-center}
+![orthogonality]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/orthogonality.png){: .align-center}
 
 The black circle exists at point (1,1). It can move anywhere on the blue line and its X coordinate will still be "1". It can be moved anywhere on the red line and its Y coordinate will still be "1". These lines are **orthogonal**. They are separate dimensions. 
 
