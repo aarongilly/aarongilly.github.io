@@ -21,7 +21,7 @@ That's really as complex as it needs to get.
 
 The simplest dimension is a **line**. We often visualize that with something like this:
 
-![numberline]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/numberline.png){: .align-center}
+![number line]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/numberline.png){: .align-center}
 
 A line is called "one-dimensional" because it takes *one* coordinate to describe a location within it.
 
@@ -37,7 +37,7 @@ A two-dimensional space is called a "**plane**". A plane is like the top of a ta
 
 It's useful to name dimensions. In math we usually call the first two dimensions the "X" and "Y" dimension. X goes side to side. Y goes up and down. You can remember that because the bottom part of the Y goes up and down.
 
-A three-dimensional space is called a "**volumne**". We usually call this the "Z" dimension. It can't properly be represented on a screen[^one] (because screens are two-dimensional).
+A three-dimensional space is called a "**volume**". We usually call this the "Z" dimension. It can't properly be represented on a screen[^one] (because screens are two-dimensional).
 
 # Orthogonality
 
