@@ -27,6 +27,9 @@ $$\frac{12_{inches}}{1_{foot}} = \frac{1_{foot}}{12_{inches}} = 1$$
 
 This means you can multiple literally *anything* by 12 inches/foot or by 1/12 foot/inches and have a valid result. So, the trick is to find ways to make the units cancel. You do this by getting them in both the numerator and denominator.
 
+![Imperial and Metric]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/units.jpg){: .align-center}
+
+
 ## To convert 215lbs into Kilograms:
 
 $$215_{lbs}$$
