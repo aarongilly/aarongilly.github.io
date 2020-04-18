@@ -2,7 +2,7 @@
 title: "Math is Counting"
 excerpt: "No matter how you slice it, all of math is fancy counting."
 header:
-   teaser: "/assets/images/gillespedia/units.jpg"
+   teaser: "/assets/images/gillespedia/mult.PNG"
 mathjax: true
 ---
 
