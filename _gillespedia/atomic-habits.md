@@ -3,9 +3,6 @@ title: "Atomic Habits"
 excerpt: "A review of one of the top most worthwhile books I've ever read."
 header:
    teaser: "/assets/images/gillespedia/cover-atomic-habits-teaser.png"
-toc: true
-toc_label: "Contents"
-toc_icon: "arrow"
 ---
 
 # Book Review
