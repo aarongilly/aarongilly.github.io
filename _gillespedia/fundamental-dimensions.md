@@ -31,7 +31,7 @@ There are a bunch of other common quantities and units, such as **force.** Howev
 
 $$force = mass\times(length/time/time)$$
 
-When doing problems in physics and engineering, it's sometimes handy to just check out the dimensions of the problem. If the answer to a problem doesn't have the correct configuration of base dimensions... you got it wrong. This is called *dimensional analysis*. See the page on [converting units](https://www.notion.so/Unit-conversions-7975a4e9685d47cf9488899d81ba0d89) for some additional detail.
+When doing problems in physics and engineering, it's sometimes handy to just check out the dimensions of the problem. If the answer to a problem doesn't have the correct configuration of base dimensions... you got it wrong. This is called *dimensional analysis*. See the page on [converting units](https://aarongilly.com/gillespedia/unit-conversions) for some additional detail.
 
 # What's the Big Deal
 
