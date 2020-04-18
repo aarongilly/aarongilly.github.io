@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /_pages/About
+  - title: "Portfolio"
+    url: /_pages/Portfolio
   - title: "Gillespedia"
     url: /gillespedia/
   - title: "Tags"
