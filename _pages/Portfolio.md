@@ -20,7 +20,7 @@ Columns cover whatever topic Aaron *(which is me, by the way, I'm not sure why I
 - whatever else Aaron feels like on a given day  
 
 ## Gillespedia
-Gillespedia is a section of this website holding articles written by Aaron that fulfill a different role. Articles located in Gillespedia are not about Aaron's life, or current topics. They are, instead, book reviews, philosophical writings, and analyses of more general topics. Gillespedia is not two decades old. It's been around since roughly mid-2019, and has only existed in this form since April 2020. 
+Gillespedia is a section of this website holding articles written by Aaron that fulfill a different role. Articles located in Gillespedia are not about Aaron's life, or current topics. They are, instead, book reviews, philosophical writings, and analyses of more general topics. Gillespedia is not two decades old. It's been around since roughly mid-2019, and has only existed in this form since April 2020.  It is a part of Aaron's application of [the Feynman Technique](https://doist.com/blog/feynman-technique/). 
 ### Typical Topics
 - Non-fiction book reviews
 - Science
