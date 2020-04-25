@@ -52,22 +52,32 @@ The Data Journal is now a component of a larger, more useful system with a lower
 
 By breaking out the schema and the script, suddenly I'm capable of managing and organizing a much broader scope... and doing so with less effort (or at least less overhead).
 
-The schema used to be what columns were in the spreadsheet. Because they represented columns of cells, the schema entries couldn't handle data types like "lists". The schema is now defined in my Data Manifest. [See this post for more](https://aarongilly.com/385-system-architecture-copy/#data-manifest).
+The schema used to be defined by the layout of columns in a spreadsheet. The schema is now defined in my Data Manifest. [See this post for more](https://aarongilly.com/385-system-architecture-copy/#data-manifest).
 
-# Top 5: Personal Development Books I'd Recommend to Anyone
+The script used be “look at what’s in your summary sheet” for each week, month, and year. Now the script is defined in a note, linked to by a recurring task in my task manager. It can grow, shrink, and evolve as needed through time. More importantly, it isn’t limited to what’s in a spreadsheet.
+
+## The Future
+
+The big question I‘m pondering now is how I want to develop, grow, and share these ideas. I’m interested in developing an app, but every component of the system is already well-covered by apps. The whole concept of a distributed productivity and tracking system is antithetical to the creation of a “one app for everything” solution. Or maybe there’s some niche or corner that isn’t particularly well-served? 
+
+Alternatively, I could write a book? Or make a YouTube series? Or host a Podcast? Or just settle for having the ideas strung out on an obscure blog through a number of posts over time (a.k.a. What I’m doing now). 
+
+Time will tell.
+
+# Top 5: Stats from Seven Years Tracked
 {: style="color: red"}
-1. The Bullet Journal Method
-2. Deep Work
-3. Essentialism
-4. Getting Things Done
-5. Atomic Habits
+1. 
+2. 
+3. 
+4. 
+5. 
 {: style="color: red"}
 {: reversed="reversed"}
 
 # Quotes
 {: style="color: green"}
-> **Look at how much flavor is on that Dorito... regular, boring Dorito for scale.**  
-> *<cite>Josh</cite> - along with a picture of two Doritos*
+> ****  
+> *<cite></cite> - *
 {: style="color: green"}
 
 [^1]: ...of the coolest kid ever born
