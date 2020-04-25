@@ -16,9 +16,9 @@ tags:
 
 April 22nd, 2013 was seven years ago. It was the first day I committed to using a point-tracking system to better manage my life. It was based on an idea I stole from a Demetri Martin stand up special. In that special Demetri talked about how he used his points system for **26 weeks**. It was my goal at the time to do it for 5, or maybe 10 weeks. That seemed like a daunting commitment.
 
-I just finished week number *three hundred sixty five*.
+I just finished week number *three hundred sixty five*[^1].
 
-My tracking system has grown and changed alongside me. I went from a guy living by himself with a girlfriend who was *very* far away to being married to said girl, going through a series of apartments, getting some cats, switching careers, buying a couple cars, buy our first house together, and becoming parents[^1].
+My tracking system has grown and changed alongside me. I went from a guy living by himself with a girlfriend who was *very* far away to being married to said girl, going through a series of apartments, getting some cats, switching careers, buying a couple cars, buy our first house together, and becoming parents[^2].
 
 It was originally managed via pieces of paper I carried around, and a once-weekly Excel data entry task. Then I moved to Google Sheets. Then I moved to Google Forms. More recently, I moved to a custom web app I built. I used to care very much about the points system. Slowly, its value as a free-flowing journal overcame its value as a rigid framework of points-tracking. Now I’m thinking of going back to a variation on the point system idea.
 
@@ -64,13 +64,15 @@ Alternatively, I could write a book? Or make a YouTube series? Or host a Podcast
 
 Time will tell.
 
-# Top 5: Stats from Seven Years Tracked
+# Top 5: Facts from Seven Years Tracked
 {: style="color: red"}
-1. 
-2. 
-3. 
-4. 
-5. 
+1. 35 of the first 114 weeks were actually NOT tracked. Before I switched to a nightly input, if I lost the sheet of paper I was using to keep track of my week, it was a lost week. This is a 10% miss rate over the course of 7 years. Since the switch to the nightly input 4.8 years ago, I haven't missed a day.
+{: style="color: red"}
+![chart]({{ site.url }}{{ site.baseurl }}/assets/images/391-tracked-days.PNG)
+2. I'm on major version **8** of the Tracker. That's about 1 major change a year. I defined 'major changes' as the addition or subtraction of significant number of (~more than 2) columns.
+3. I track food slightly over half the time. This has dropped sharply since 2020. I stopped tracking what I ate when I realized that I genuinely don't need to. Over the past twelve months I've gotten thinner, fitter, and ate better than ever before. I'll start tracking food again if I wake up one day and don't have >4 visible abs.
+4. I've logged 794 workouts in the 2300 days (hey another round number, neat) I successfully tracked. That's 1 workout every 2.9 days on average for 7 years. That's 2.4 workouts/week. I'd like to see that number closer to 3.
+5. If I could do it all over again, I'd change very little.
 {: style="color: red"}
 {: reversed="reversed"}
 
@@ -80,4 +82,5 @@ Time will tell.
 > *<cite></cite> - *
 {: style="color: green"}
 
-[^1]: ...of the coolest kid ever born
+[^1]: technically only 330 weeks were successfully tracked, see the Top 5
+[^2]: ...of the coolest kid ever born
