@@ -79,7 +79,7 @@ The process starts with a 5 Year Plan. This plan gets reviewed & renewed each De
 - Of the list of things I can start doing, how can I track them? 
 - Are there any metrics or measures I can use to track my progress toward my goal identity? (*Data Manifest* and *Data Journal*)
 
-## On-going Capture
+## Ongoing Capture
 Throughout the day you'll encounter triggering events (as defined in your Data Manifest). These events will cause measures to be taken & either recorded in your Data Journal directly, or recorded elsewhere, to be moved to your Data Journal at a later date. A goal here is to automate as many of these inputs as possible. You'd be surprised what you can accomplish with a small amount of ingenuity. [You'd be more surprised what's already being done for you](https://www.google.com/maps/timeline?pb). Best practices for batch export of data from some alternate repositories could again be the subject of another, long discussion. [Others have covered this topic well](https://github.com/markwk/qs_ledger).
 
 ## Daily Review
