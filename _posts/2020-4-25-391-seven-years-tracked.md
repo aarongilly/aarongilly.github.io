@@ -2,8 +2,8 @@
 title:  "#391 - Seven Years Tracked"
 excerpt: "Thoughts on Life Tracking after 7 Years"
 header:
-  overlay_image: /assets/images/DRAWINGTOGOHERE
-  teaser: /assets/images/DRAWINGTOGOHERE
+  overlay_image: /assets/images/391-filter-drawing.png
+  teaser: /assets/images/391-filter-drawing.png
 tags:
   - THOUGHTS
   - NERDCRED
@@ -79,7 +79,7 @@ Time will tell.
 # Quotes
 {: style="color: green"}
 > **So literally just a dumpster fire.**  
-> *<cite>Jon</cite> - a new home owner, after describing the process of screwing a *
+> *<cite>Jon</cite> - a new home owner, after describing the process of putting a handle on a drawer*
 {: style="color: green"}
 
 [^1]: technically only 330 weeks were successfully tracked, see the Top 5
