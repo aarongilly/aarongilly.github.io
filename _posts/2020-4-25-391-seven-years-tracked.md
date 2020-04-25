@@ -78,8 +78,8 @@ Time will tell.
 
 # Quotes
 {: style="color: green"}
-> ****  
-> *<cite></cite> - *
+> **So literally just a dumpster fire.**  
+> *<cite>Jon</cite> - a new home owner, after describing the process of screwing a *
 {: style="color: green"}
 
 [^1]: technically only 330 weeks were successfully tracked, see the Top 5
