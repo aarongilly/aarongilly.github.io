@@ -44,21 +44,19 @@ This works. So that's cool. This is a live indicator of how many exercise sessio
 ## Drawings
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/FzkQdAa1hqWN5Gw66"
-  data-title="Drawings"
-  data-description="7 new photos · Album by Aaron Gillespie"
-  data-delay="4"
-  data-background-color="#eeeeee">
-  <object data="https://lh3.googleusercontent.com/6VxuvasrDTEYk_kr6lif9GCcEH4FOijJheTARZNW_cGDYxhi1AsH-TEq_WCovKDdobnLJOqlc1ZPXmbeKDWOwJ_anA1Dxqbg020t8iPiMQux1_h7fPdCdxyc_HVomZDm-d8_g2gQtUU=w960-h540"></object>
-  <object data="https://lh3.googleusercontent.com/O5r-LaUd2FsnMkIONvtZeDAIsTuhyvuN2kP12dFtz6sUYmqfU87Y3pkbqtHD83r2Isnt0Fc4xiIaAWfwDb-8mTabtiR43jaRycVRwgDrHf2l82TjLg2-7zL_JVxHJ_y1l90FsT-VIc4=w960-h540"></object>
-  <object data="https://lh3.googleusercontent.com/M30i4wye0JWx5EQ9Qm1HvX8LZUX89Lpc3v5scyckZlZ_30oTr8lJ5zEFqpMvBw4KInfNnJqrHuLtQCt_o2v6LX9Sc-aPSSby6yDrecvYMAM03EOLG8KzGw4--7xgiAzpPzWFM65d4Rs=w960-h540"></object>
-  <object data="https://lh3.googleusercontent.com/MXPJftPANzVCSM41aiyYcr5hRSEcdXBIbkO4mtk82qM7dAl7Gs1zn2KhgJijh4jqQlC632x_zJdzmeUsu9KGAg1nGRFsr68GTdnhlgS8oS8e2PoUKlXVlRk-oh5GqaDGXUif5mORDmc=w960-h540"></object>
-  <object data="https://lh3.googleusercontent.com/qyJm1sxRQ6OFLe837zZjHfSClUBuyunncvw9osf5OrNifbk79GJgPLgbXzylV7nQVrJubIOSBI9afXWC7DjME4kInX8XWglnwl3IdMakkHHvdGg78fBDdFoEZN9Sl9_Knf-BS9t4Go0=w960-h540"></object>
-  <object data="https://lh3.googleusercontent.com/GtoOK542dbUHeNCJeS2mEY1hh5LXW9yRyMHGbDbuij-X4jVG76v6SNUSEAB-9e8EDDUhAlx-xTA72Ngc59cJXLVjv2slsg0qPItI-5BNkTaOsI-xqpUWdSl1s6KlfclAmjxEiGuf-y4=w960-h540"></object>
-  <object data="https://lh3.googleusercontent.com/LVwQ4JKYL1e3xjLyulsASi0_4AXNRTBlFX3JmD7g1IHc10wC5dP2_N9hrVTdMM9KSUA0ZK0dBxewsUCgmf1TFETStGdW9IeimQTYB-LR-w6rod8paa7N9zz5htaSg_bRUFQgModRDcs=w960-h540"></object>
+    data-link="https://photos.app.goo.gl/FzkQdAa1hqWN5Gw66"
+    data-title="Drawings"
+    data-description="Some Drawings by Aaron"
+    data-delay="4"
+    data-background-color="#eeeeee">
+    <object data="https://lh3.googleusercontent.com/MXPJftPANzVCSM41aiyYcr5hRSEcdXBIbkO4mtk82qM7dAl7Gs1zn2KhgJijh4jqQlC632x_zJdzmeUsu9KGAg1nGRFsr68GTdnhlgS8oS8e2PoUKlXVlRk-oh5GqaDGXUif5mORDmc=w960-h540"></object>
+    <object data="https://lh3.googleusercontent.com/pw/ACtC-3cUO9Tm3xI1ja-2OvZVawhgs-tHWiEP4Xn1TjwO7eCkOY7Pd-aI1mYC6SiveHK7c9vnTGCEEHpTAWhbAfDQWHM03AZN_lGJOg5lxGZ35M2f22Y1uFPD5jfd-ftmh5Q7XDQcSjHMH_MiY0r7ZS_ggZRonA=w960-h540"></object>
+    <object data="https://lh3.googleusercontent.com/LVwQ4JKYL1e3xjLyulsASi0_4AXNRTBlFX3JmD7g1IHc10wC5dP2_N9hrVTdMM9KSUA0ZK0dBxewsUCgmf1TFETStGdW9IeimQTYB-LR-w6rod8paa7N9zz5htaSg_bRUFQgModRDcs=w960-h540"></object>
+    <object data="https://lh3.googleusercontent.com/6VxuvasrDTEYk_kr6lif9GCcEH4FOijJheTARZNW_cGDYxhi1AsH-TEq_WCovKDdobnLJOqlc1ZPXmbeKDWOwJ_anA1Dxqbg020t8iPiMQux1_h7fPdCdxyc_HVomZDm-d8_g2gQtUU=w960-h540"></object>
+    <object data="https://lh3.googleusercontent.com/qyJm1sxRQ6OFLe837zZjHfSClUBuyunncvw9osf5OrNifbk79GJgPLgbXzylV7nQVrJubIOSBI9afXWC7DjME4kInX8XWglnwl3IdMakkHHvdGg78fBDdFoEZN9Sl9_Knf-BS9t4Go0=w960-h540"></object>
 </div>
 
-test. [Full album](https://photos.app.goo.gl/FzkQdAa1hqWN5Gw66)
+[Full album](https://photos.app.goo.gl/FzkQdAa1hqWN5Gw66)
 
 ## Woodworking
 (todo)
