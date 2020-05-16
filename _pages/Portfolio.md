@@ -30,12 +30,17 @@ Gillespedia is a section of this website holding articles written by Aaron that 
 - Philosophy
 
 # Development
-
 ## Google Data Studio Integration Test
+I'm working my way through the [freeCodeCamp](http://www.freecodecamp.org) curriculum. I'm halfway through the entire thing. I have their Responsive Web Design, JavaScript Algorithms and Data Structures, and Front End Libraries certifications.
 
-This works. So that's cool. This is a live indicator of how many exercise sessions I log each month, compared against the same month last year.
+My most recent Project:  
+This (almost completely unstyled at the moment) [Pomodoro Timer]({{site.ur}}{{ site.baseurl }}/_pages/fcc-timer).
+
+Also I've slowly built up a Data Journal, which I've written several Columns about. Over its 7 year life span, it's migrated from Excel, to Google Sheets, to Google Apps Script web app, and soon (hopefully), it will expand to be a fully home-grown web app. At which point I can migrate to AWS and make the whole platform available for others to use.
 
 <iframe width="90%" height="550" src="https://datastudio.google.com/embed/reporting/05cf451d-040e-424a-a389-25552f9c4ba1/page/bcFKB" frameborder="0" style="border:solid" allowfullscreen></iframe>
+
+I'm just now experimenting with how I can integrate those things into my website.
 
 # Other Creations
 ## Videos
