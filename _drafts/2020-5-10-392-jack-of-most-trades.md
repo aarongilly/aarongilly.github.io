@@ -1,9 +1,9 @@
-—
-title:  “#3xx - title”
-excerpt: “xxxsummaryofpostxxx”
+---
+title:  "#392 - Jack of Most Trades"
+excerpt: "xxxsummaryofpostxxx"
 header:
   overlay_image: /assets/images/post-splash.jpg
-  caption: “Photo credit: xxxremoveifnotnecessary.”
+  caption: "Photo credit: xxxremoveifnotnecessary."
   teaser: /assets/images/389-quarantine-tp.jpg
 tags:
   - THOUGHTS
@@ -22,9 +22,9 @@ tags:
   - POETRY
   - JOKES
 
-—
+---
 
-Intro bit if you like. Don’t forget to delete tags you’re not using & set the excerpt at the end. Remember the [kramdown ref](kramdown-ref.md)
+Intro bit if you like. Don't forget to delete tags you're not using & set the excerpt at the end. Remember the [kramdown ref](kramdown-ref.md)
 
 # Heading
 
@@ -33,18 +33,18 @@ stuff
 ![an asset image]({{ site.url }}{{ site.baseurl }}/assets/images/388-timeline.png)
 
 # Top 5: 
-{: style=“color: red”}
+{: style="color: red"}
 
 1. 
 2. 
 3. 
 4. 
 5. 
-{: reversed=“reversed”}
+{: reversed="reversed"}
 
 # Quotes
-{: style=“color: green”}
+{: style="color: green"}
 > **quote**  
 
-<cite>quoter</cite> — note about quote
+<cite>quoter</cite> --- note about quote
 {: .small}
