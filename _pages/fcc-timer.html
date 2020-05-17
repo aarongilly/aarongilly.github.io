@@ -1,0 +1,210 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>FreeCodeCamp Project: Pomodoro Clock</title>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css'>
+<style>
+.button-row{
+  display: flex;
+}
+
+.fa-button{
+  color: blue;
+}
+</style>
+</head>
+<body translate="no">
+<div id="root"></div>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/react/16.13.1/umd/react.production.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.13.1/umd/react-dom.production.min.js'></script>
+<script id="rendered-js">
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.incrementBreak = this.incrementBreak.bind(this);
+    this.decrementBreak = this.decrementBreak.bind(this);
+    this.incrementSession = this.incrementSession.bind(this);
+    this.decrementSession = this.decrementSession.bind(this);
+    this.decrementSession = this.decrementSession.bind(this);
+    this.decrementSession = this.decrementSession.bind(this);
+    this.reset = this.reset.bind(this);
+    this.playPause = this.playPause.bind(this);
+    this.state = {
+      breakLength: 5,
+      sessionLength: 25,
+      breakTimer: 300,
+      sessionTimer: 1500,
+      isBreak: false,
+      running: false };
+
+  }
+
+  componentDidMount() {
+    this.interval = setInterval(() => {
+      if (!this.state.running) return;
+      console.log(
+      `State: ${this.state.sessionTimer}, Break: ${this.state.breakTimer}, breakOver: ${this.state.breakOver}`);
+
+      this.state.isBreak ?
+      this.setState({ breakTimer: this.state.breakTimer - 1 }) :
+      this.setState({ sessionTimer: this.state.sessionTimer - 1 });
+      if (this.state.sessionTimer == 0 || this.state.breakTimer == 0) {
+        console.log("beep beep mothafucka: " +
+        this.state.sessionTimer +
+        " ... " +
+        this.state.breakTimer);
+        this.beepTimer();
+      }
+      if (this.state.sessionTimer < 0) {
+        this.setState({
+          isBreak: true,
+          sessionTimer: this.state.sessionLength * 60 });
+
+      }
+      if (this.state.breakTimer < 0) {
+        this.setState({
+          isBreak: false,
+          breakTimer: this.state.breakLength * 60 });
+
+      }
+    }, 1000);
+  }
+
+  incrementBreak() {
+    if (this.state.running) return;
+    let breakLength = this.state.breakLength;
+    if (breakLength < 60) breakLength++;
+    this.setState({
+      breakLength: breakLength,
+      breakTimer: breakLength * 60 });
+
+  }
+  decrementBreak() {
+    if (this.state.running) return;
+    let breakLength = this.state.breakLength;
+    if (breakLength > 1) breakLength--;
+    this.setState({
+      breakLength: breakLength,
+      breakTimer: breakLength * 60 });
+
+  }
+  incrementSession() {
+    if (this.state.running) return;
+    let sessionLength = this.state.sessionLength;
+    if (sessionLength < 60) sessionLength++;
+    this.setState({
+      sessionLength: sessionLength,
+      sessionTimer: sessionLength * 60 });
+
+  }
+  decrementSession() {
+    if (this.state.running) return;
+    let sessionLength = this.state.sessionLength;
+    if (sessionLength > 1) sessionLength--;
+    this.setState({
+      sessionLength: sessionLength,
+      sessionTimer: sessionLength * 60 });
+
+  }
+  playPause() {
+    this.setState({ running: !this.state.running });
+    document.getElementById("beep").pause();
+    document.getElementById("beep").currentTime = 0;
+  }
+  reset() {
+    this.setState({
+      breakLength: 5,
+      sessionLength: 25,
+      sessionTimer: 1500,
+      breakTimer: 300,
+      isBreak: false,
+      breakOver: false,
+      running: false });
+
+    document.getElementById("beep").pause();
+    document.getElementById("beep").currentTime = 0;
+  }
+  beepTimer() {
+    document.getElementById("beep").play();
+  }
+  makeTimeString(secondsIn) {
+    let minutes = Math.floor(secondsIn / 60);
+    let seconds = secondsIn % 60;
+    if (minutes < 10) minutes = "0" + minutes;
+    if (seconds < 10) seconds = "0" + seconds;
+    return minutes + ":" + seconds;
+  }
+
+  render() {
+    return (
+      React.createElement("div", { id: "pomodoro" },
+      React.createElement("h1", null, "Pomodoro"),
+      React.createElement("h2", { id: "timer-label" }, this.state.isBreak ? "Break" : "Session"),
+      React.createElement("div", { id: "time-left" },
+      this.state.isBreak ?
+      this.makeTimeString(this.state.breakTimer) :
+      this.makeTimeString(this.state.sessionTimer)),
+
+      React.createElement("button", { id: "start_stop", onClick: this.playPause },
+      this.state.running ? "Pause" : "Play"),
+
+      React.createElement("button", { id: "reset", onClick: this.reset }, "Reset"),
+
+
+      React.createElement(DurationBox, {
+        kind: "break",
+        increment: this.incrementBreak,
+        decrement: this.decrementBreak,
+        length: this.state.breakLength }),
+
+      React.createElement(DurationBox, {
+        kind: "session",
+        increment: this.incrementSession,
+        decrement: this.decrementSession,
+        length: this.state.sessionLength }),
+
+      React.createElement("audio", {
+        id: "beep",
+        src: "https://s3.amazonaws.com/freecodecamp/drums/Chord_1.mp3",
+        type: "audio/mp3" })));
+
+
+
+  }}
+
+class DurationBox extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    return (
+      React.createElement("div", { id: this.props.kind + "-box" },
+      React.createElement("h2", { id: this.props.kind + "-label" }, this.props.kind),
+      React.createElement("div", { class: "button-row" },
+      React.createElement("button", {
+        id: this.props.kind + "-increment",
+        onClick: this.props.increment }, "+"),
+
+
+
+      React.createElement("div", { id: this.props.kind + "-length" }, this.props.length),
+      React.createElement("button", {
+        id: this.props.kind + "-decrement",
+        onClick: this.props.decrement }, "-"))));
+
+
+
+
+
+
+  }}
+
+
+ReactDOM.render(React.createElement(App, null), document.getElementById("root"));
+    </script>
+</body>
+</html>
