@@ -1,9 +1,13 @@
 ---
 title: "Atomic Habits"
 excerpt: "A review of one of the top most worthwhile books I've ever read."
+test: "this is a frontmatter variable"
 header:
    teaser: "/assets/images/gillespedia/cover-atomic-habits-teaser.png"
 ---
+
+test.
+{{page.test}}
 
 # Book Review
 
