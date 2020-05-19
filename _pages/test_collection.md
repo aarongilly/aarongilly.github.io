@@ -22,3 +22,15 @@ Test collection test page.
       {% endif %}
     {% endfor %}
 </ul>
+
+<div>
+  <ul>
+  {% for member in site.data.gillespediatags %}
+    <li>
+      <a href="https://{{member.tag}}.com/">
+        {{ member.tag }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
