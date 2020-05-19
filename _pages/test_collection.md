@@ -1,7 +1,7 @@
 ---
 title: Collection Test
 layout: archive
-permalink: /test-collection/
+permalink: /test_collection/
 collection: test_collection
 entries_layout: grid
 classes: wide
