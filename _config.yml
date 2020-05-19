@@ -282,6 +282,9 @@ collections:
   gillespedia:
     output: true
     permalink: /:collection/:path/
+  test_collection:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
