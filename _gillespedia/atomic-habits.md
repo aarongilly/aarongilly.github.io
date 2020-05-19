@@ -1,13 +1,19 @@
 ---
 title: "Atomic Habits"
 excerpt: "A review of one of the top most worthwhile books I've ever read."
-test: "this is a frontmatter variable"
+test: 
+- "this is a frontmatter variable"
+- "as an array"
 header:
    teaser: "/assets/images/gillespedia/cover-atomic-habits-teaser.png"
 ---
 
-test.
-{{page.test}}
+tests updated.
+<ul>
+{% for thing in page.test %}
+   <li>{{ thing }}</li>
+{% endfor %}
+</ul>
 
 # Book Review
 
