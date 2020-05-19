@@ -17,6 +17,8 @@ Test collection test page.
 <ul>
     {% assign sorted = (site.test_collection | sort: 'date') | reverse %}
     {% for item in sorted %}
-    <li>{{ item.title }} - {{ item.date }}</li>
+      {% if item.custom %}
+        <li>{{ item.title }} - {{ item.date }}</li>
+      {% endif %}
     {% endfor %}
 </ul>
