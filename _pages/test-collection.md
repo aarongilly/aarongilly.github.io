@@ -1,5 +1,5 @@
 ---
-title: Gillespedia
+title: Collection Test
 layout: archive
 permalink: /test-collection/
 collection: test_collection

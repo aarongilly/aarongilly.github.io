@@ -284,7 +284,7 @@ collections:
     permalink: /:collection/:path/
   test_collection:
     output: true
-    permalink: /:collection/:path/
+    permalink: /test/
 
 # Defaults
 defaults:
