@@ -1,6 +1,6 @@
 ---
 title: "A fox's trot"
-date: ""2020-05-04 10:00:00""
+date: "2020-05-04 10:00:00"
 custom: false
 categories:
 - "green"

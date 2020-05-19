@@ -1,6 +1,6 @@
 ---
 title: "Large and out of charge, a dead 100 volt battery"
-date: ""2020-05-03 10:00:00""
+date: "2020-05-03 10:00:00"
 custom: false
 categories:
 - "blue"

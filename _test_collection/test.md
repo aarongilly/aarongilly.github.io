@@ -1,6 +1,6 @@
 ---
 title: "A Note's title"
-date: "5/19/2020"
+date: "2020-05-09 10:00:00"
 custom: false
 categories:
 - "red"

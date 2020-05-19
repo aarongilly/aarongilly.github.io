@@ -1,6 +1,6 @@
 ---
 title: "Bungalow"
-date: ""2020-05-02 10:00:00""
+date: "2020-05-02 10:00:00"
 custom: false
 categories:
 - "red"

@@ -1,6 +1,6 @@
 ---
 title: "Chillin like a villian"
-date: ""2020-05-06 10:00:00""
+date: "2020-05-06 10:00:00"
 custom: false
 categories:
 - "green"
