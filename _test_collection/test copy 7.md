@@ -1,6 +1,6 @@
 ---
 title: "Hot garbage"
-date: "6/1/2020"
+date: ""2020-05-07 10:00:00""
 custom: true
 categories:
 - "green"

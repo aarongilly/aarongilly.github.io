@@ -1,6 +1,6 @@
 ---
 title: "Sticky salad fingers"
-date: "6/8/2020"
+date: ""2020-05-05 10:00:00""
 custom: false
 categories:
 - "green"

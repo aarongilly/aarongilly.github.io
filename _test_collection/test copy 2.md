@@ -1,6 +1,6 @@
 ---
 title: "Yoyoyo"
-date: "5/11/2020"
+date: "2020-05-01 10:00:00"
 custom: false
 categories:
 - "blue"
