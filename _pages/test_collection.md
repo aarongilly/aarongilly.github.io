@@ -17,7 +17,7 @@ Test collection test page.
 <ul>
     {% assign sorted = (site.test_collection | sort: 'date') | reverse %}
     {% for item in sorted %}
-      {% if item.custom %}
+      {% if item.custom == false %}
         <li>{{ item.title }} - {{ item.date }}</li>
       {% endif %}
     {% endfor %}
@@ -26,10 +26,17 @@ Test collection test page.
 <div>
   <ul>
   {% for member in site.data.gillespediatags %}
-    <li>
-      <a href="https://{{member.tag}}.com/">
-        {{ member.tag }}
-      </a>
+    <li>{{ member.tag }}    
+      <ul>
+          {% assign sorted = (site.test_collection | sort: 'date') | reverse %}
+          {% for item in sorted %}
+            {% for color in item.categories %}
+              {% if color == member.tag %}
+                <li>{{ item.title }} - {{ item.date }}</li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+      </ul>
     </li>
   {% endfor %}
   </ul>
