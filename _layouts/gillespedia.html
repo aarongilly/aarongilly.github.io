@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 ---
 
 {{ content }}
@@ -8,19 +8,8 @@ layout: archive
   <h2>Categories</h2>
   <div>
   <ul>
-  {% for member in site.data.gillespediatags %}
-    <li>{{ member.tag }}    
-      <ul>
-          {% assign sorted = (site.test_collection | sort: 'date') | reverse %}
-          {% for item in sorted %}
-            {% for color in item.categories %}
-              {% if color == member.tag %}
-                <li>{{ item.title }} - {{ item.date }}</li>
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-      </ul>
-    </li>
+  {% for cat in page.categories %}
+    <li>{{ cat }}</li>
   {% endfor %}
   </ul>
 </div>
