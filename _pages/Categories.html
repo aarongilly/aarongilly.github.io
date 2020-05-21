@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 {% for member in site.data.gillespediatags %}
-<h2 class="archive__subtitle">{{member.tag}}</h2>
+<h2 class="archive__subtitle">{{member.tag | upcase}}</h2>
 <ul>
 {% assign sorted = (site.gillespedia | sort: 'date') | reverse %}
   {% for item in sorted %}
     {% for tag in item.categories %}
       {% if tag == member.tag %}
-        <li>{{ item.title }}</li>
+        <li><a href="{{item.url}}">{{ item.title }}</a></li>
       {% endif %}
     {% endfor %}
   {% endfor %}
