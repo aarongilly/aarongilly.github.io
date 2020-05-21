@@ -4,6 +4,10 @@ layout: archive
 
 {{ content }}
 
+<script>
+  console.log("LOGGING EMBEDDED");
+</script>
+
 {% assign categories_max = 0 %}
 {% for category in site.data.gillespediatags %}
   {% if category[1].size > categories_max %}
@@ -13,7 +17,7 @@ layout: archive
 
 <ul class="taxonomy__index">
   {% for i in (1..categories_max) reversed %}
-    {% for category in site.categories %}
+    {% for category in site.data.gillespediatags %}
       {% if category[1].size == i %}
         <li>
           <a href="#{{ category[0] | slugify }}">
@@ -28,7 +32,6 @@ layout: archive
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
   <script>
-  console.log("LOGGING EMBEDDED");
   console.log({{category[0]}});
   </script>
     {% if category[1].size == i %}
