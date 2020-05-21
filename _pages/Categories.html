@@ -5,9 +5,8 @@ layout: archive
 author_profile: true
 ---
 
-{% comment %}
-this is all commented out for now
 {% for member in site.data.gillespediatags %}
+<section id="{{ member.tag | slugify | downcase }}" class="taxonomy__section">
 <h2 class="archive__subtitle">{{member.tag | upcase}}</h2>
 <ul>
 {% assign sorted = (site.gillespedia | sort: 'date') | reverse %}
@@ -19,13 +18,11 @@ this is all commented out for now
     {% endfor %}
   {% endfor %}
 </ul>
-
+</section>
 {% endfor %}
-{% endcomment %}
 
-Just pulling out the display bits...
-
-
+{% comment %}
+for reference for now
 <ul class="taxonomy__index">
 {% for member in site.data.gillespediatags %}
 {% assign thisCount = 0 %}
