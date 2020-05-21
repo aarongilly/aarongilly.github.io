@@ -27,6 +27,10 @@ layout: archive
 
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
+  <script>
+  console.log("LOGGING EMBEDDED");
+  console.log({{category[0]}});
+  </script>
     {% if category[1].size == i %}
       <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ category[0] }}</h2>
