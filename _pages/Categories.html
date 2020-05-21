@@ -1,14 +1,12 @@
 ---
-title: "Articles by Category"
+title: "Gillespedia Entries by Category"
 permalink: /categories/
 layout: archive
 author_profile: true
 ---
 
-Gillespedia articles.
-
 {% for member in site.data.gillespediatags %}
-<h2>{{member}}</h2>
+<h2 class="archive__subtitle">{{member.tag}}</h2>
 <ul>
 {% assign sorted = (site.gillespedia | sort: 'date') | reverse %}
   {% for item in sorted %}
@@ -21,5 +19,3 @@ Gillespedia articles.
 </ul>
 
 {% endfor %}
-
-Hopefully that's a list of my tags and there's a console log.
