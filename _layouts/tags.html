@@ -9,7 +9,7 @@ Real quick learning commit.
 <ul>
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
-<li>{{tag}}</li>
+<li>{{tag[1] | map}}</li>
   {% if tag[1].size > tags_max %}
     {% assign tags_max = tag[1].size %}
   {% endif %}
