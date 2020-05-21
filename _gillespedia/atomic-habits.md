@@ -1,7 +1,7 @@
 ---
 title: "Atomic Habits"
 excerpt: "A review of one of the top most worthwhile books I've ever read."
-cats: 
+categories: 
 - "book review"
 - "productivity"
 - "personal development"
