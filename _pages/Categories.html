@@ -23,17 +23,19 @@ this is all commented out for now
 {% endfor %}
 {% endcomment %}
 
-attempted transcription of tags index.
+attempted transcription of tags index. Now with tag[1] bit.
 
 <ul>
 {% assign tags_max = 0 %}
 {% for tag in site.data.gillespediatags %}
-  <li>{{tag}}</li>
+  <li>{{tag[1]}}</li>
   {% if tag[1].size > tags_max %}
     {% assign tags_max = tag[1].size %}
   {% endif %}
 {% endfor %}
 </ul>
+
+right before the unordered list
 
 <ul class="taxonomy__index">
   {% for i in (1..tags_max) reversed %}
