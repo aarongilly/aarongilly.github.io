@@ -1,6 +1,21 @@
 ---
 title: "Articles by Category"
 permalink: /categories/
-layout: categories
+layout: archive
 author_profile: true
 ---
+
+DOing this my way.
+
+<script>
+console.log("Script works");
+</script>
+
+<ul>
+{% for cat in site.data.gillespediatags %}
+<li> {{cat}}</li>
+console.log("{{cat}}");
+{% endfor %}
+</ul>
+
+Hopefully that's a list of my tags and there's a console log.
