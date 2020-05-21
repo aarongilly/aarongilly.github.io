@@ -23,12 +23,33 @@ this is all commented out for now
 {% endfor %}
 {% endcomment %}
 
-attempted transcription of tags index. Now with tag[1] bit.
+Just pulling out the display bits...
 
+
+<ul class="taxonomy__index">
+{% for member in site.data.gillespediatags %}
+{% assign thisCount = 0 %}
+  {% for item in site.gillespedia %}
+    {% for tag in item.categories %}
+      {% if tag == member.tag %}
+        {% assign thisCount = thisCount | plus 1 %}
+      {% endif %}
+    {% endfor %}
+    <li>
+        <a href="#{{ tag | slugify }}">
+          <strong>{{ tag }}</strong> <span class="taxonomy__count">{{ thisCount }}</span>
+          </a>
+        </li>
+  {% endfor %}
+{% endfor %}
+</ul>
+
+
+{% comment %}
 <ul>
 {% assign tags_max = 0 %}
 {% for tag in site.data.gillespediatags %}
-  <li>{{tag[1]}}</li>
+  <li>{{tag[1]}}</li> // list of posts with that tag
   {% if tag[1].size > tags_max %}
     {% assign tags_max = tag[1].size %}
   {% endif %}
