@@ -1,6 +1,8 @@
 ---
 title: "Base Dimensions & Units"
 excerpt: "The basis of measurement, which is the basis of science."
+categories: 
+- "science"
 header:
    teaser: "/assets/images/gillespedia/dimensions.PNG"
 mathjax: true

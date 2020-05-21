@@ -307,7 +307,7 @@ defaults:
       path: ""
       type: gillespedia
     values: 
-      layout: single # collection
+      layout: gillespedia
       author_profile: true
       toc: true
 

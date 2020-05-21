@@ -1,6 +1,8 @@
 ---
 title: "Income Tax Overview"
 excerpt: "The basics, cause that's enough."
+categories: 
+- "life"
 header:
    teaser: "/assets/images/gillespedia/income-tax-chart.png"
 ---       

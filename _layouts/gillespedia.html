@@ -1,0 +1,27 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  <h2>Categories</h2>
+  <div>
+  <ul>
+  {% for member in site.data.gillespediatags %}
+    <li>{{ member.tag }}    
+      <ul>
+          {% assign sorted = (site.test_collection | sort: 'date') | reverse %}
+          {% for item in sorted %}
+            {% for color in item.categories %}
+              {% if color == member.tag %}
+                <li>{{ item.title }} - {{ item.date }}</li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+</div>

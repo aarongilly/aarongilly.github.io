@@ -1,6 +1,9 @@
 ---
 title: "Unit Conversions"
 excerpt: "How to get from M/S to MPH & back again."
+categories: 
+- "math"
+- "science"
 header:
    teaser: "/assets/images/gillespedia/units.jpg"
 mathjax: true

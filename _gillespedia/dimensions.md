@@ -1,6 +1,8 @@
 ---
 title: "Dimensions"
 excerpt: "Where things can be measured."
+categories: 
+- "science"
 header:
    teaser: "/assets/images/gillespedia/footstep-dimension.jfif"
 mathjax: true

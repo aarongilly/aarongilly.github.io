@@ -1,6 +1,8 @@
 ---
 title: "Work Notetaking System"
 excerpt: "A simple physical notetaking technique & architecture."
+categories: 
+- "productivity"
 header:
    teaser: "/assets/images/gillespedia/work-notes-header.jpg"
 mathjax: true
