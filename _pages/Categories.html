@@ -14,7 +14,7 @@ author_profile: true
   {% for item in sorted %}
     {% for tag in item.categories %}
       {% if tag == member.tag %}
-        <li><a href="{{item.url}}">{{ item.title }}</a></li>
+        <li><a href="{{site.url}}{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
       {% endif %}
     {% endfor %}
   {% endfor %}
