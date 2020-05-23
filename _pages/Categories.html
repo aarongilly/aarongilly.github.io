@@ -4,12 +4,12 @@ permalink: /categories/
 layout: archive
 author_profile: true
 ---
-Updated.
+Updated again.
 
 {% for member in site.data.gillespediatags %}
 <section id="{{ member.tag | slugify | downcase }}" class="taxonomy__section">
+<img src={{member.image}} width="300px" height="100px">
 <h2 class="archive__subtitle">{{member.tag | upcase}}</h2>
-<img src={{member.image}}>
 <ul>
 {% assign sorted = (site.gillespedia | sort: 'date') | reverse %}
   {% for item in sorted %}
