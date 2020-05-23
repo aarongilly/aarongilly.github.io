@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" #'default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Column"
+title                    : "Aarongilly"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aaron Gillespie"
 description              : "A compendium of nothing in particular."
 url                      : "http://aarongilly.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "aarongilly/aarongilly.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "aarongilly/aarongilly.github.io"
 teaser                   : # "/assets/images/about-image-smaller.jpg" # path of fallback teaser image
 logo                     : "/assets/images/logo-small.PNG" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -66,7 +66,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
-search_full_content      : # true, false (default)
+search_full_content      : true #, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -257,6 +257,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+creation_archive:
+  type: liquid
+  path: /creations/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -282,8 +285,9 @@ collections:
   gillespedia:
     output: true
     permalink: /:collection/:path/
-  test_collection:
+  creations:
     output: true
+    permalink: /creations/
 
 # Defaults
 defaults:
@@ -310,6 +314,14 @@ defaults:
       layout: gillespedia
       author_profile: true
       toc: true
+  # _creations
+  - scope:
+      path: ""
+      type: creation
+    values:
+      layout: creation
+      author_profile: true
+      toc: false
 
 
 # defaults:
