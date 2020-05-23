@@ -6,19 +6,7 @@ author_profile: true
 ---
 Updated again.
 
-{% for member in site.data.gillespediatags %}
-<section id="{{ member.tag | slugify | downcase }}" class="taxonomy__section">
-<img src={{member.image}} width="300px" height="100px">
-<h2 class="archive__subtitle">{{member.tag | upcase}}</h2>
 <ul>
-{% assign sorted = (site.gillespedia | sort: 'date') | reverse %}
-  {% for item in sorted %}
-    {% for tag in item.categories %}
-      {% if tag == member.tag %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
+{% for member in site.data.creations %}
+<li>{{ member.title }}</li> {% endfor %}
 </ul>
-</section>
-{% endfor %}
