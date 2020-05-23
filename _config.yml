@@ -314,15 +314,6 @@ defaults:
       layout: gillespedia
       author_profile: true
       toc: true
-  # _creations
-  - scope:
-      path: ""
-      type: creation
-    values:
-      layout: creation
-      author_profile: true
-      toc: false
-
 
 # defaults:
 #   # _pages
