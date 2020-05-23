@@ -3,7 +3,7 @@ title: Gillespedia
 layout: collection
 permalink: /gillespedia/
 collection: gillespedia
-entries_layout: grid
+entries_layout: list
 classes: wide
 author_profile: true
 ---
