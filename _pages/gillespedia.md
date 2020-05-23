@@ -5,6 +5,7 @@ permalink: /gillespedia/
 collection: gillespedia
 entries_layout: grid
 classes: wide
+author_profile: true
 ---
 
 Aaron's Public Knowledge Wiki.  
