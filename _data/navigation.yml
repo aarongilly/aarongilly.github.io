@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Portfolio"
-    url: /_pages/Portfolio
+  - title: "Columns"
+    url: /tags/
   - title: "Gillespedia"
     url: /gillespedia/
-  - title: "Tags"
-    url: /tags/
+  - title: "Creations"
+    url: /creations/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
