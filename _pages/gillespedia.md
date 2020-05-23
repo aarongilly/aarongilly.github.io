@@ -7,4 +7,6 @@ entries_layout: grid
 classes: wide
 ---
 
-Aaron's Public Knowledge Wiki.
+Aaron's Public Knowledge Wiki. 
+
+[See this list grouped by category]({{siteurl}}/categories/)
