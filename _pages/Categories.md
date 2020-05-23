@@ -5,8 +5,9 @@ layout: archive
 author_profile: true
 ---
 
-<p>Aaron's Public Knowledge Wiki.</p>
-<a class="btn btn--primary" href="{{siteurl}}/gillespedia/" role="button">See Simple List</a>
+
+Aaron's Public Knowledge Wiki.  
+[See Simple List]({{siteurl}}/gillespedia/){: .btn .btn--primary}
 
 {% for member in site.data.gillespediatags %}
 <section id="{{ member.tag | slugify | downcase }}" class="taxonomy__section">
