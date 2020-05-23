@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Columns"
+  - title: "The Column"
     url: /tags/
   - title: "Gillespedia"
     url: /gillespedia/
-  - title: "Creations"
+  - title: "CotW"
     url: /creations/
   # - title: "Sample Collections"
   #   url: /collection-archive/
