@@ -1,13 +1,11 @@
 ---
-title: "Creations"
-permalink: /creations/
+title: "Gillespedia Entries by Category"
+permalink: /categories/
 layout: archive
 author_profile: true
 ---
 
-A place to hold creations... later.
-
-You need to think about this. The whole "Gillespedia" thing has a collection. You were going to handle creations via a single .json file with pointers, remember?
+<p>Gillespedia Articles by category. Or, if you prefer, <a href={{siteurl}}"/gillespedia/">here's a simple list</a>.</p>
 
 {% for member in site.data.gillespediatags %}
 <section id="{{ member.tag | slugify | downcase }}" class="taxonomy__section">
