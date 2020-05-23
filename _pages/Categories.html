@@ -5,7 +5,10 @@ layout: archive
 author_profile: true
 ---
 
-<p>Gillespedia Articles by category. Or, if you prefer, <a href={{siteurl}}"/gillespedia/">here's a simple list</a>.</p>
+<p>Aaron's Public Knowledge Wiki.
+<button href={{siteurl}}"/gillespedia/" type="button" class="btn btn-primary">See Simple List</button>
+
+< Or, if you prefer, <a href={{siteurl}}"/gillespedia/">here's a simple list</a>.</p>
 
 {% for member in site.data.gillespediatags %}
 <section id="{{ member.tag | slugify | downcase }}" class="taxonomy__section">
