@@ -18,6 +18,7 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
+            <a href=“{{ f_url }}”>
             <img src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
@@ -26,7 +27,7 @@
               {% endif %}
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             {% if f.image_caption %}
-              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span></a>
             {% endif %}
           </div>
         {% endif %}
