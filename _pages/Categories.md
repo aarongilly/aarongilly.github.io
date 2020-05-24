@@ -11,7 +11,7 @@ Aaron's Public Knowledge Wiki.
 
 {% for member in site.data.gillespediatags %}
 <section id="{{ member.tag | slugify | downcase }}" class="taxonomy__section">
-[tag doodle]({{member.image}}){:height="100px" width="300px"}
+![tag doodle]({{member.image}}){:height="100px" width="300px"}
 <h2 class="archive__subtitle">{{member.tag | upcase}}</h2>
 <ul>
 {% assign sorted = (site.gillespedia | sort: 'date') | reverse %}
