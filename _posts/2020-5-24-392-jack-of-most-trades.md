@@ -20,11 +20,11 @@ I've been doing a lot of under-the-hood work on this website lately. Learning ho
 
 Picking up on a concept I [wrote about several years back](https://aarongilly.com/199-feature-tech-setup/), I wanted to come up with a list of all the things I'd consider doing on a computer or computer-like device, and map those back to how well they are handled by the various devices available today.
 
-![A table I drew]({{ site.url}}{{site.baseurl}} /assets/images/392-tech-table-2020.jpeg)
+![A table I drew]({{ site.url}}{{site.baseurl}}/assets/images/392-tech-table-2020.jpeg)
 
 Looking at that, what sticks out to me is that the traditional computer is **still** the best option for the **most** things. But, if you're looking for one device that does literally everything, the iPad has become a very solid contendor. 
 
-Really, the "ultimate device" is probably *technically* a Surface. You get access to desktop software, and the portability and you cover the drawing use case. I suspect, though, that the user experience with a Surface is just... lacking. I've never owned one, though. People who do own them seem to like them. I'm sure I'm wrong. But it feels like desktop crammed into the form factor of a tablet - and the UI and general Operating System were only lightly tweaked with that experience in mind. 
+Really, the "ultimate device" is probably *technically* a Surface. You get access to desktop software, the portability, and you cover the drawing use case. I suspect, though, that the user experience with a Surface is just... lacking. I've never owned one, though. People who do own them seem to like them. I'm sure I'm wrong. But it feels like desktop crammed into the form factor of a tablet - and the UI and general Operating System were only lightly tweaked with that experience in mind. 
 
 ## What's Changed in 6 Years
 
@@ -35,10 +35,8 @@ It's funny how some of these things have completely gone the way of the Dodo (MP
 # Other News
 
 Both family cats have now decided they want to be lap cats. This has caused much drama between them. The bigger one didn't used to be interested. Now he is. It's frustrating because he sucks at being a lap cat. I wrote this as he pushed his head against the keyboard.
-
 # Top 5: Recent Enhancements to aarongilly.com
 {: style="color: red"}
-
 1. This post was posted. I think that 392 posts is a much more "enhanced" number than 391 posts.
 2. The [root page/home screen/whatever you want to call it](http://aarongilly.com) is updated & prettier.
 3. My [Portfolio]({{site.url}}/_pages/Portfolio) page is updated with various creative highlights.
@@ -49,6 +47,5 @@ Both family cats have now decided they want to be lap cats. This has caused much
 # Quotes
 {: style="color: green"}
 > **Captain Erica!**  
-
 <cite>My 20 month old son</cite> --- when he sees Captain America, or his shield. He's cute.
 {: .small}
