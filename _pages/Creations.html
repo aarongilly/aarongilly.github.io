@@ -1,12 +1,12 @@
 ---
-title: "Creations"
+title: "Creation of the Week"
 permalink: /creations/
 layout: archive
 author_profile: true
 ---
-Updated again.
 
 <ul>
 {% for member in site.data.creations %}
-<li>{{ member.desc }}</li> {% endfor %}
+<li><i>{{member.date}}</i> - <a href={{member.link}}>{{ member.desc }}</a></li> 
+{% endfor %}
 </ul>
