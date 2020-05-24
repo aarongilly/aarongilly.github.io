@@ -36,21 +36,19 @@ It's funny how some of these things have completely gone the way of the Dodo (MP
 
 Both family cats have now decided they want to be lap cats. This has caused much drama between them. The bigger one didn't used to be interested. Now he is. It's frustrating because he sucks at being a lap cat. I wrote this as he pushed his head against the keyboard.
 
-![an asset image]({{ site.url }}{{ site.baseurl }}/assets/images/388-timeline.png)
-
 # Top 5: Recent Enhancements to aarongilly.com
 {: style="color: red"}
 
 1. This post was posted. I think that 392 posts is a much more "enhanced" number than 391 posts.
 2. The [root page/home screen/whatever you want to call it](http://aarongilly.com) is updated & prettier.
-3. My "Portfolio" page is updated with various creative highlights.
-4. Gillespedia now has proper categories.
-5. Introducing the Creation-of-the-Week (CotW) Page!
+3. My [Portfolio]({{site.url}}/_pages/Portfolio) page is updated with various creative highlights.
+4. [Gillespedia now has proper categories]({{site.url}}/categories/).
+5. Introducing the [Creation-of-the-Week (CotW)]({{site.url}}/creations/) Page!
 {: reversed="reversed"}
 
 # Quotes
 {: style="color: green"}
-> **quote**  
+> **Captain Erica!**  
 
-<cite>quoter</cite> --- note about quote
+<cite>My 20 month old son</cite> --- when he sees Captain America, or his shield. He's cute.
 {: .small}
