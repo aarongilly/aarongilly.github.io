@@ -18,7 +18,7 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <a href=“{{ f_url }}”>
+            <a href={{ f_url }}>
             <img src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
