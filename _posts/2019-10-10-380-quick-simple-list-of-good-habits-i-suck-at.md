@@ -1,7 +1,6 @@
 ---
 title:  "#380 - Quick Simple List of Good Habits I Suck At"
 tags:
-  - HEALTH
   - SELF IMPROVEMENT
 ---
 
