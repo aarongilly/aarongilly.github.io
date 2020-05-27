@@ -33,7 +33,9 @@ This means you can multiple literally *anything* by 12 inches/foot or by 1/12 fo
 ![Imperial and Metric]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/units.jpg){: .align-center}
 
 
-## To convert 215lbs into Kilograms:
+## Example
+
+### To convert 215lbs into Kilograms:
 
 $$215_{lbs}$$
 
@@ -51,6 +53,6 @@ $$215_{lbs}\times\frac{1_{kg}}{2.205_{lbs}}$$
 
 For those of you who may be still learning algebra, that's the same as writing this:
 
-$$\frac{215_{lbs}\times1_{kg}}{2.205_{lbs}} = 95.50567_{kg}$$
+$$\frac{215_{lbs}\times1_{kg}}{2.205_{lbs}} = 97.50567_{kg}$$
 
 From there, the "lbs" cancel. What's left is 215/2.205 Kilograms, or ~97.5kg.
