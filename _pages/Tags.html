@@ -1,10 +1,9 @@
 ---
-title: "Columns by Tag"
+title: "Latest Column"
 permalink: /tags/
 layout: tags
 author_profile: true
 ---
-<h1>Latest Column</h1>
 {% for post in site.posts limit:1 %}
 <a href="{{ post.url }}">
 <h2>{{ post.title }}</h2>
@@ -13,3 +12,4 @@ author_profile: true
 </a>
 {% endfor %}
 <hr>
+<h1>All Columns</h1>
