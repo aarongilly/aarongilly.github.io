@@ -3,7 +3,7 @@ title:  "#392 - Site Updates & Tech Platform Analysis"
 excerpt: "About changes to the site, plus other stuff. I hate fully-meta blog posts."
 header:
   overlay_image: /assets/images/post-splash.jpg
-  teaser: /assets/images/389-quarantine-tp.jpg
+  teaser: /assets/images/392-tech-table-2020.jpeg
 tags:
   - NERDCRED
   - NONGOOGLETECH
