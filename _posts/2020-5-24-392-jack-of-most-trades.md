@@ -41,6 +41,7 @@ Both family cats have now decided they want to be lap cats. This has caused much
 3. My [Portfolio]({{site.url}}/_pages/Portfolio) page is updated with various creative highlights.
 4. [Gillespedia now has proper categories]({{site.url}}/categories/).
 5. Introducing the [Creation-of-the-Week (CotW)]({{site.url}}/creations/) Page!
+{: style="color: red"}
 {: reversed="reversed"}
 
 # Quotes
@@ -48,3 +49,4 @@ Both family cats have now decided they want to be lap cats. This has caused much
 > **Captain Erica!**  
 <cite>My 20 month old son</cite> --- when he sees Captain America, or his shield. He's cute.
 {: .small}
+{: style="color: green"}
