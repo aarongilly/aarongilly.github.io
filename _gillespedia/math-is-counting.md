@@ -1,7 +1,7 @@
 ---
 title: "Math is Counting"
 excerpt: "No matter how you slice it, all of math is fancy counting."
-date: "5/9/2020"
+date: "2020-05-01"
 categories: 
 - "math"
 header:
