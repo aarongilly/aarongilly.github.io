@@ -1,6 +1,7 @@
 ---
 title: "Income Tax Overview"
 excerpt: "The basics, cause that's enough."
+date: "5/21/2020"
 categories: 
 - "life"
 header:

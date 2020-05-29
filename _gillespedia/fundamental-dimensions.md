@@ -1,6 +1,7 @@
 ---
 title: "Base Dimensions & Units"
 excerpt: "The basis of measurement, which is the basis of science."
+date: "5/24/2020"
 categories: 
 - "science"
 header:

@@ -1,6 +1,7 @@
 ---
 title: "Atomic Habits"
 excerpt: "A review of one of the top most worthwhile books I've ever read."
+date: "5/20/2020"
 categories: 
 - "book review"
 - "productivity"
