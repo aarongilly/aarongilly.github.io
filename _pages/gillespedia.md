@@ -5,6 +5,7 @@ permalink: /gillespedia/
 collection: gillespedia
 entries_layout: grid
 classes: wide
+sort_by: date
 author_profile: true
 ---
 
