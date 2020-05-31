@@ -1,6 +1,7 @@
 ---
 title: "Unit Conversions"
 excerpt: "How to get from M/S to MPH & back again."
+date: "2020-04-20"
 categories: 
 - "math"
 - "science"
@@ -41,7 +42,7 @@ $$215_{lbs}$$
 
 We want that in Kilograms. They both measure mass, so an equivalency does exist. Looking up a conversion factor, you'd find 1 Kilogram is 2.205 pounds.
 
-$$2.205_{lb} = 1_{kg}$$
+$$2.205_{lbs} = 1_{kg}$$
 
 In order to have pounds cancel out, we need to get it to the denominator. So we divide 1 Kilogram by the 2.205 pounds.
 

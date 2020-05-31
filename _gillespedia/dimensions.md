@@ -1,6 +1,7 @@
 ---
 title: "Dimensions"
 excerpt: "Where things can be measured."
+date: "2020-05-02"
 categories: 
 - "science"
 header:
