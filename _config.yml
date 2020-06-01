@@ -118,7 +118,7 @@ author:
       url: "http://eepurl.com/gNPOV9"
     - label: "Movie Podcast"
       icon: "fab fa fa-podcast"
-      url: "http://wesceneamovie.com/"
+      url: "https://we-scene-a-movie.pinecast.co/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
