@@ -1,7 +1,10 @@
 ---
 title: "Pareto Principle"
 excerpt: "What is the 80/20 rule and why is it important?"
-date: "5/29/2020"
+date: "2020-05-29"
+categories: 
+- "life"
+- "productivity"
 header:
    teaser: "/assets/images/gillespedia/pareto-scale.PNG"
 mathjax: true

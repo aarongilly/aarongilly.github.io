@@ -1,6 +1,7 @@
 ---
 title: "Unit Conversions"
 excerpt: "How to get from M/S to MPH & back again."
+date: "2020-04-20"
 categories: 
 - "math"
 - "science"

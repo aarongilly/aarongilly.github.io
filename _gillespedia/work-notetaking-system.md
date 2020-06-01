@@ -1,7 +1,7 @@
 ---
 title: "Work Notetaking System"
 excerpt: "A simple physical notetaking technique & architecture."
-date: "5/20/2020"
+date: "2020-04-16"
 categories: 
 - "productivity"
 header:
