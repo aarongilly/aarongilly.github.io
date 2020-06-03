@@ -18,7 +18,8 @@ The principle highlights the fact that, when looking to improve the yield of a s
 - 10% of the people you work with cause 75% of the problems  
 - You use 5% of what you own 80% of the time  
 - You've already absorbed 80% of the value of this article, even though you're only ~20% done reading it  
-![pareto doodle]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/pareto-scale.PNG){: .align-center}
+
+![pareto doodle]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/pareto-scale.PNG){: .align-center height="400px"}
 
 # Transfer Functions  
 Traditionally, the values associated with this principle are 80 & 20. These numbers are arbitrary, though. The rule could just as easily be the "90/20" or the "95/10" rule. The actual ratio depends on the shape of the curve drawn by the transfer function. Transfer function, in this context, is just a mathematical representation of the system in question. When you plot all possible outputs as a result of all possible inputs, that's a transfer function. People like to keep things simple, and because terms like "transfer functions" are intimidating, we started calling it "the 80/20 rule". The 80/20 rule is a simplified and easy to remember representation of a class of functions with asymmetric transfer curves. While not a universal principle, it is common in real-world applications.
