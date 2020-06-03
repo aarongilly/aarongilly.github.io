@@ -6,6 +6,7 @@ collection: gillespedia
 entries_layout: grid
 classes: wide
 sort_by: date
+sort_order: reverse
 author_profile: true
 ---
 
