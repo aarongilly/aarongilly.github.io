@@ -38,7 +38,7 @@ Both family cats have now decided they want to be lap cats. This has caused much
 {: style="color: red"}
 1. This post was posted. I think that 392 posts is a much more "enhanced" number than 391 posts.
 2. The [root page/home screen/whatever you want to call it](http://aarongilly.com) is updated & prettier.
-3. My [Portfolio]({{site.url}}/_pages/Portfolio) page is updated with various creative highlights.
+3. My [About]({{site.url}}/_pages/About) page is updated.
 4. [Gillespedia now has proper categories]({{site.url}}/categories/).
 5. Introducing the [Creation-of-the-Week (CotW)]({{site.url}}/creations/) Page!
 {: style="color: red"}
