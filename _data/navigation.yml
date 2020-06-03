@@ -12,3 +12,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+gillespedia-sidebar:
+  - title: "Book Reviews"
+    url: https://aarongilly.com/categories/#book-review
+  - title: "Productivity"
+    url: https://aarongilly.com/categories/#productivity
+  - title: "Personal Development"
+    url: https://aarongilly.com/categories/#personal-development
+  - title: "Math"
+    url: https://aarongilly.com/categories/#math
+  - title: "Science"
+    url: https://aarongilly.com/categories/#science
+  - title: "Technology"
+    url: https://aarongilly.com/categories/#technology
+  - title: "Life"
+    url: https://aarongilly.com/categories/#life
