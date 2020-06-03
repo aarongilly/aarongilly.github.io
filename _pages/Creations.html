@@ -14,7 +14,8 @@ datatable: true
 </thead>
 {% for member in site.data.creations %}
 <tr>
-<td><i>{{member.date}}</i> - <a href={{member.link}}>{{ member.desc }}</a></td>
+<td>{{member.date}}</td>
+<td><a href={{member.link}}>{{ member.desc }}</a></td>
 </tr> 
 {% endfor %}
 </table>
