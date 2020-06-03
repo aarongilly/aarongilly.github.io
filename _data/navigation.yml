@@ -6,8 +6,8 @@ main:
     url: /gillespedia/
   - title: "CotW"
     url: /creations/
-  - title: "Portfolio"
-    url: /_pages/Portfolio
+  - title: "About"
+    url: /_pages/About
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
