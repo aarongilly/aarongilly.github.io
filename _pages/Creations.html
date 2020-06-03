@@ -3,10 +3,18 @@ title: "Creation of the Week"
 permalink: /creations/
 layout: archive
 author_profile: true
+datatable: true
 ---
 
-<ul>
+<table class="display">
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Description</th>
+</thead>
 {% for member in site.data.creations %}
-<li><i>{{member.date}}</i> - <a href={{member.link}}>{{ member.desc }}</a></li> 
+<tr>
+<td><i>{{member.date}}</i> - <a href={{member.link}}>{{ member.desc }}</a></td>
+</tr> 
 {% endfor %}
-</ul>
+</table>
