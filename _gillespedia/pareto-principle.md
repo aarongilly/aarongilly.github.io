@@ -53,9 +53,9 @@ Literal Mathematical Functions
 f(x, y) = 10x + 1y  
 *Changing x yields 10 times the change of changing y*  
 
----
-
 ### Sources  
+I utilized a few sources for this article.
+
 - Tim Ferriss's book "The 4 Hour Work Week" is essentially an extended manifesto of putting the 80/20 principle to work for you.
 - Some Six Sigma training.
 - Wikipedia. Yep.
