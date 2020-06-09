@@ -10,11 +10,13 @@ datatable: true
 <thead>
 <tr class="header">
 <th>Date</th>
+<th>Type</th>
 <th>Description</th>
 </thead>
 {% for member in site.data.creations %}
 <tr>
 <td>{{member.date}}</td>
+<td>{{member.type}}</td>
 <td><a href={{member.link}}>{{ member.desc }}</a></td>
 </tr> 
 {% endfor %}
