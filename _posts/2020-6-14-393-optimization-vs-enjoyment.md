@@ -1,4 +1,4 @@
-—
+---
 title:  “#393 - Optimization vs Enjoyment”
 excerpt: “A post about balance & a return to living freely”
 header:
@@ -8,8 +8,7 @@ tags:
   - THOUGHTS
   - PICTURES
   - META
-
-—
+---
 
 What do I feel like writing about.
 
@@ -61,5 +60,6 @@ My [Creation of the Week]({{site.url}}{{site.baseurl}}/creations/) project is hu
 
 <cite>Josh</cite>
 {: .small}
+{: style="color: green"}
 
 [^1]: My #1 Life Pro Tip is "Walk faster". Because I want everyone to walk faster. Keep up.
