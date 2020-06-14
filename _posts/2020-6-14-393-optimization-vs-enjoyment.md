@@ -10,8 +10,6 @@ tags:
   - META
 ---
 
-What do I feel like writing about.
-
 # Balancing Optimized Results and Enjoying the Process
 I've come to see a flaw in one of my core philosophies. The idea, which I've written about on here before, is that standardized routines enable satisfactory results while freeing the mind to think about bigger and better things. The flaw I've come to realize with a blind application of this approach is that it can kill the fun of the journey.
 
@@ -29,11 +27,13 @@ Now that I've run out of inefficiencies to smooth out, bathtime has turned into 
 
 ## In Summary
 
-> The point of life isn't to optimize everything for time and energy, it's to enjoy things.
-
-The solution is balance, above all else. That is and always has been my #2 Life Pro Tip[^1]. 
+The solution is *balance*, above all else. That is and always has been my #2 Life Pro Tip[^1]. 
 
 ![Thanos Picture]({{site.url}}{{site.baseurl}}/assets/images/393-balance-thanos.JPG)
+
+Or, another way of putting it:
+
+> The point of life isn't to optimize everything for time and energy, it's to enjoy things.
 
 # Other Thoughts  
 ## Ending Quarantine
