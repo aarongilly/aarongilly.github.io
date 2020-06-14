@@ -11,7 +11,7 @@ tags:
 ---
 
 # Balancing Optimized Results and Enjoying the Process
-I've come to see a flaw in one of my core philosophies. The idea, which I've written about on here before, is that standardized routines enable satisfactory results while freeing the mind to think about bigger and better things. The flaw I've come to realize with a blind application of this approach is that it can kill the fun of the journey.
+I've come to see a flaw in one of my core philosophies. The idea, which I've written about on here before, is that <span style="color: red">**standardized routines enable satisfactory results while freeing the mind to think about bigger and better things**</span>. The flaw I've come to realize with a blind application of this approach is that it can kill the fun of the journey.
 
 ## Coffee Example 
 I make coffee at the same time every day, following the exact same set of steps. My routine produces the right amount of coffee with the right level of strength, in a minimal amount of time, and leaves me with clean counter. I can do this set of 6 steps in my sleep. Literally. I do it first thing in the morning. I've made coffee, gone back to sleep, and not remembered doing it.
@@ -27,13 +27,13 @@ Now that I've run out of inefficiencies to smooth out, bathtime has turned into 
 
 ## In Summary
 
-The solution is *balance*, above all else. That is and always has been my #2 Life Pro Tip[^1]. 
+This is not an *abandon all hope, ye who enter here* situation. It's not something where the bathwater needs to go, regardless of where the baby is located. Optimization is a good and worthwhile endeavor; but it shouldn't be blindly pursued. A well-optimized life isn't the be-all and end-all goal at the end of the day. The solution is *balance*, above all else. That is and always has been my #2 Life Pro Tip[^1]. 
 
 ![Thanos Picture]({{site.url}}{{site.baseurl}}/assets/images/393-balance-thanos.JPG)
 
 Or, another way of putting it:
 
-> The point of life isn't to optimize everything for time and energy, it's to enjoy things.
+> The point of life isn't to optimize as many things as possible, it's to *enjoy* as many things as possible.
 
 # Other Thoughts  
 ## Ending Quarantine
@@ -45,8 +45,7 @@ It's funny to think now that we went out and bought a puzzle right before all th
 My [Creation of the Week]({{site.url}}{{site.baseurl}}/creations/) project is humming along. The page itself could use some TLC, but I'm happy to have established a public repository for creative output. I can't wait to see it in a year, or five.
 
 # Top 5: Post-ish Quarantine Activities We've Done
-{: style=“color: red”}
-
+{: style="color: red"}
 1. Going to see one of my best friends' new house, & building a housewarming gift together ![plyoboxes](https://lh3.googleusercontent.com/fGBuAw88ms2IEFiOyZVy6hSIE__cej9afva1FtbifBSwn11kxEiHidQxfIYzhz8WYvyXp3MVKRs-wxldTTmwwot0YaoTzk6JzbGMPgkPU8LuxjOkVdzqGhm8AfQ7aKFAieTuxUN7Zv0PRZoRVdUAdm8YvWStCwcWeZuBQ3A5_dJm7nnxVBdiBh3KIbdcVokHCZ4t8Bc3gsHJxPxsz-_Zn-MxCgrStxb7H9XTsdlxnXqB7SaPG-Rri8MYt6WWsHR4ikPHlgk09Xk0LzjSJMqqd9DGEOrqKRwueL5B7hzdCuK8MM7CXiz0bXkdmEmZV0-LsL9Km1lvOqHkHOb9_20VCwVpMtTCxjVNbvVFkZSNAx4psBI3q_QHX2batTNJt3mgxtD02D6qgwUC2rx_DONBzGmpz6GopXqa2O4RTTqdzrSN09O1-PQpEnCgxEgFdb4vvG8Cyq4MMuWwXzhd-zTFy4Gw2BLZ6GIkXZGRCohF_t5Q312Gbcvw03oCVvtga2qRiJOEbDP1SXAqhkQMhDfQPJOjqvofHP5a7ZcLws_9NEp8mvuMyr0TFGXZqbFGSMIUPzxDwz46SLqEp5C52NvcBKeLAfTiN0YpJrE66Yb-DiD9-t3WXDCzrvkQNnxBY-7R8-fqLMZuEedF5WwOIBukZwmPfg02UDUYdGzTT0aSuZxZHoVeVzIRRAZabqpfYQ=h600)
 2. Going to the drive in ![drive in](https://lh3.googleusercontent.com/9wtzAR6demDDtcgxWH4XH1EgGIMGQhkHXxUgzUJI1NOBTFnOhtduJDNcK-JjVoDLtKhJVPNJ1A7p-HUvDBEi8FOCwINzIfBR3zSjUri8OCJOLwOMSPZvTdma_Yg37ts0fefcKuYDbLpiim8vRFCtWR4r5-eaaz8G-X8vgPJAwGSmIrDBf4MYBF7eE_XKMsKXT-6EQYbN6TuIrMRMRL_B_Ke9P1rjaqAiBixz3TAJje6ljkPyGqBosc6LkDKi2c31KM4pRlDuzN77h7fce0KTeS7edNS-DbT-OSGbQOpzStxJPOYV8ryXM4wpM8kfHr6BlyUNvpCfF9mmhDOBzIHzbJZ_2U4hq7ftLR3bX_GenrBvx4PUmsXBtmNqJe8KrEzAet34qNe6WrBOqXZxOXWU6PUsfcJzXJslfR7LGuIO4C0H_dPqVCQTG2KaIs-2AO58HTl_7zOjLYifq3KSQbhMBFDkFcZMzQd7_D__AommbkVWDYfp4o-1eoD-ZLUUjnu1dJfCOZQB5jlNY3ROUjPuTGtNHfDXwRzxfaZ4xVXORTFFSvDUjn5LIFPdoVlhOw3uvRLrzGnfjQ0xr0QMdeANb16ufF10yfhK7M9v7M7cG1z46UVKuv1QmR164hlLmpbXQGbE7ukI8XR4WwaKIcMh3SCCzL_QNYlGORdB1aQ_Q3273gTDI5yURwIJZ5bVig=w600)
 3. Going on a bike ride on the local bike trail ![bike ride](https://lh3.googleusercontent.com/p9wYvZ6dy_HLJdjubdu_XXC5V56vPYnu4jdgvHm7kc5W4KQUAxIW0g_ftc_URbPGgOReeanbLGJA9X3sED0Eg7GpVrkTcyghzxqcDigivsTtseud3Fualtc2IMsgWw0mWrR8dfIDywZsSNSEaYcpfCK2xyQ_n1XeLYqGanhKMAtdDlLLCaQip88dZumvWI3XahhCLoaFNZ9aTGiZtxZER2SON3B81O-nrAgRQLlQ-A8l_pGzl6_JPwT2CGaYLBGcM5qgGD-Vneto0R_kDcJlWiLGiAv8_9t-TANOiLpOaVFXVRXp4hlvAbR31cQqxEWA9uYOFs7bIHP0z8FQkqo99AqiR-5LnhlJM8bl9ZdzYLZk7hDssUun-nd3eeQXw1I-mgDrL923ni7r9QJjcqmkdLpZr2m1qans50gC4tPH18BOO9tqwuhffgn-qSJzuhw_-8rRvllxsa5WjLlPtYMZDq0lI9syUsRnPiCJsCTPce_4qJlqfTuTOV2T4-kyIx3NbyIDN_JHio1YZxZYWZ9bKjfEMPw7kqtN8hWA5lluUw_DFbsEf-BNVYiSV2ht0wmTeBFd0oSRCIfYPCbTLGba2v4GgiA0ezCAcP6SbqCugMXc2ynRo1VtfnGMKGoB7pATenp5BnbRJNatPbohKC-GnrKBCcs3Vub4vJ-vwBhfXiNfQNPAt4kV2WKmoMQMow=w600) 
@@ -57,7 +56,6 @@ My [Creation of the Week]({{site.url}}{{site.baseurl}}/creations/) project is hu
 # Quotes
 {: style=“color: green”}
 > **I'd get on amazon so fast I'd get whiplash in my thumbs**  
-
 <cite>Josh</cite>
 {: .small}
 {: style="color: green"}
