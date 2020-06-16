@@ -65,9 +65,8 @@ More content
 [^footNoteIdString]:  This is at the bottom of the page
 
 
-# Image Alignment
-Place these immmediately after image:
-
+# Image Manipulation
+![smiley](smiley.png){:height="36px" width="36px"}
 
 # Mathematics
 Utilizes [MathJax](https://docs.mathjax.org/en/latest/input/tex/index.html)
