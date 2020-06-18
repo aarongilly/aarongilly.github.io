@@ -1,6 +1,6 @@
 ---
-title:  “#393 - Optimization vs Enjoyment”
-excerpt: “A post about balance & a return to living freely”
+title:  #393 - Optimization vs Enjoyment
+excerpt: A post about balance & a return to living freely
 header:
   overlay_image: https://lh3.googleusercontent.com/pw/ACtC-3dV2JABWpCqz6Bk5Zf9JmC2-Zz1livf2eVX1pQcBfgPSRH6O9DawG2GcwPKGxnXFTKJAVVYrJ2E0lmR5ssxNbD7WmyhBUTVRHzJaeV7muo4NkI6C5stmKIQbS3hRCMYLOnj0U8hPn9hQbgz6fndfXLEjA=w900
   teaser: /assets/images/393-balance-thanos.JPG
