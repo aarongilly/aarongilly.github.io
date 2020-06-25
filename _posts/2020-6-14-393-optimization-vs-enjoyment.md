@@ -49,7 +49,7 @@ My [Creation of the Week]({{site.url}}{{site.baseurl}}/creations/) project is hu
 1. Going to see one of my best friends' new house, & building a housewarming gift together ![plyoboxes](https://lh3.googleusercontent.com/pw/ACtC-3cgAJuRyFpLwA_PNtsmOOlyXC8chvTiShj8sYuT76aTflgA9oLjiCvSC26O7gQOYoDOKuuzOq0ANJ2pAFQjWgX2nhJWqaRAMH-YwANhdSy4EeOXkfzGa2xxOGgVbQvHDK3GBEyobi4932sIdArSHEUzKg=h600)
 2. Going to the drive in ![drive in](https://lh3.googleusercontent.com/pw/ACtC-3fs5mV5p2KHdUVXAKFi74cVFWygxHSa-l6CLBgsuhj976fURrPeTna4Jthyjue4AW4rCJxMFIw1KBIieJTIjIafYAEYFl_5tjkGrFzpl8lnozUTvR-VwLza4e6cbSxhEef5kFQrRl-2_wNRdcKSxghZ4A=w600)
 3. Going on a bike ride on the local bike trail ![bike ride](https://lh3.googleusercontent.com/pw/ACtC-3ctEOtjGQ1VlV2BtIvDrA56UwAZl9aUum4uzSgAXe0WNw-cf4jRWb_bHex5LCk3aZpuhF5wW2aW0z33ApZD8RqRFfUbBEZSIGLvT3p33iTfiTsr3GmYz0CjjTaARqu6CijUGiqnCq0S8lZzonHc2nY10A=w600) 
-4. Going to the lake 15 minutes from our house that we've never gone to ![15 minutes or less]https://lh3.googleusercontent.com/pw/ACtC-3fgvJKGUfSPdG1wuw3UL7CyPzLViqjIvfkMEURoWhMHMlstH38Nwb0eXfN5fm9-z-DdOOiEgwfDY0_jhnb2fE2ajxVb5dQ71jHHqOO1iIVx8dYvyeVfzrvfw3UufGect4OR7IIBKS2gb-TjM0q9_Ow4Ow=w600)
+4. Going to the lake 15 minutes from our house that we've never gone to ![15 minutes or less](https://lh3.googleusercontent.com/pw/ACtC-3fgvJKGUfSPdG1wuw3UL7CyPzLViqjIvfkMEURoWhMHMlstH38Nwb0eXfN5fm9-z-DdOOiEgwfDY0_jhnb2fE2ajxVb5dQ71jHHqOO1iIVx8dYvyeVfzrvfw3UufGect4OR7IIBKS2gb-TjM0q9_Ow4Ow=w600)
 5. Going camping with the family ![camping](https://lh3.googleusercontent.com/pw/ACtC-3dV2JABWpCqz6Bk5Zf9JmC2-Zz1livf2eVX1pQcBfgPSRH6O9DawG2GcwPKGxnXFTKJAVVYrJ2E0lmR5ssxNbD7WmyhBUTVRHzJaeV7muo4NkI6C5stmKIQbS3hRCMYLOnj0U8hPn9hQbgz6fndfXLEjA=w600)
 {: reversed=“reversed”}
 
