@@ -1,6 +1,6 @@
 ---
-title:  “#394 - iOS is Android”
-excerpt: “A recap of Apple's 2020 WWDC, plus other stuff (like usual)”
+title:  #394 - iOS is Android
+excerpt: A recap of Apple's 2020 WWDC, plus other stuff (like usual)
 header:
   overlay_image: /assets/images/394-iOS-14.png
   teaser: /assets/images/394-iOS-14.png
@@ -66,14 +66,12 @@ My 30 Day Challenge this month was to institute Time Blocking. Supposedly, it's 
 
 {: style="color: green"}
 # Quotes
-{: style=“color: green”}
-> **The pork smells like old people farts and death**  
-<cite>Melissa</cite>
+
+> **The pork smells like old people farts and death.** <cite>Melissa</cite>
+{: style="color: green"}
 
 {: style="color: green"}
-> **Seems expensive and of minimal additional utility except ultrapreparedness... I'm in.**  
-<cite>Joe</cite>
-{: .small}
+> **Seems expensive and of minimal additional utility except ultrapreparedness... I'm in.** <cite>Joe</cite>
 
 {: style="color: green"}
 > **Jon put your butt back on, I have questions.**  
