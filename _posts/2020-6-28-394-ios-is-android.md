@@ -66,19 +66,20 @@ My 30 Day Challenge this month was to institute Time Blocking. Supposedly, it's 
 
 {: style="color: green"}
 # Quotes
-
-> **The pork smells like old people farts and death.** 
+> **The pork smells like old people farts and death.**   
 <cite>Melissa</cite>
-{: style="color: green"}
 
 {: style="color: green"}
-> **Seems expensive and of minimal additional utility except ultrapreparedness... I'm in.** <cite>Joe</cite>
+> **Seems expensive and of minimal additional utility except ultrapreparedness... I'm in.**  
+<cite>Joe</cite>
 
 {: style="color: green"}
-> **Jon put your butt back on, I have questions.** {: .small}<cite>Josh</cite>
+> **Jon put your butt back on, I have questions.**  
+<cite>Josh</cite>
 
 {: style="color: green"}
-> **I will die believing the most important technologic advance in history is being able to order food from my phone.**  <cite>Josh</cite> {: .small}
+> **I will die believing the most important technologic advance in history is being able to order food from my phone.**  
+<cite>Josh</cite>
 
 
 [^1]: Technically it also includes "no snacking" outside of the window between lunch and dinner... but yeah. "Intermittent Fasting" is an overly complicated name for an incredibly simple concept.
