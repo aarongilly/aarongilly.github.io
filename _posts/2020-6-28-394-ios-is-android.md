@@ -1,4 +1,4 @@
-—
+—--
 title:  “#394 - iOS is Android”
 excerpt: “A recap of Apple's 2020 WWDC, plus other stuff (like usual)”
 header:
@@ -10,7 +10,7 @@ tags:
   - GOOGLE
   - NONGOOGLETECH
   - 30DAYS
-—
+—--
 
 # Thoughts on Apple's WWDC Announcements  
 Apple's annual software developer's conference happened recently. Historically I'd be a *little* excited about their conference, but, since I switched teams roughly two years ago, this event has become **very** exciting. This year it did not disappoint - especially as someone who came from Android not too long ago, and would consider getting a Mac to replace my 6 year old desktop whenever it finally explodes.
