@@ -1,6 +1,6 @@
 ---
-title:  #394 - iOS is Android
-excerpt: A recap of Apple's 2020 WWDC, plus other stuff (like usual)
+title:  "#394 - iOS is Android"
+excerpt: "A recap of Apple's 2020 WWDC, plus other stuff (like usual)"
 header:
   overlay_image: /assets/images/394-iOS-14.png
   teaser: /assets/images/394-iOS-14.png
@@ -67,21 +67,18 @@ My 30 Day Challenge this month was to institute Time Blocking. Supposedly, it's 
 {: style="color: green"}
 # Quotes
 
-> **The pork smells like old people farts and death.** <cite>Melissa</cite>
+> **The pork smells like old people farts and death.** 
+<cite>Melissa</cite>
 {: style="color: green"}
 
 {: style="color: green"}
 > **Seems expensive and of minimal additional utility except ultrapreparedness... I'm in.** <cite>Joe</cite>
 
 {: style="color: green"}
-> **Jon put your butt back on, I have questions.**  
-{: .small}
-<cite>Josh</cite>
+> **Jon put your butt back on, I have questions.** {: .small}<cite>Josh</cite>
 
+{: style="color: green"}
+> **I will die believing the most important technologic advance in history is being able to order food from my phone.**  <cite>Josh</cite> {: .small}
 
-> **I will die believing the most important technologic advance in history is being able to order food from my phone.**  
-
-<cite>Josh</cite>
-{: .small}
 
 [^1]: Technically it also includes "no snacking" outside of the window between lunch and dinner... but yeah. "Intermittent Fasting" is an overly complicated name for an incredibly simple concept.
