@@ -55,6 +55,7 @@ My 30 Day Challenge this month was to institute Time Blocking. Supposedly, it's 
 
 {: style=“color: red”}
 # Top 5: Most Recent Books I've Ready
+{: style=“color: red”}
 1. The Organized Mind - Daniel Levitin
 2. The Body - Bill Bryson
 3. The Practical Guide to Business Process Reengineering Using IDEF0 - Clarence Feldmann
