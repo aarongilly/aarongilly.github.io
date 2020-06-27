@@ -58,16 +58,17 @@ Test
 {: style=“color: red”}
 # Top 5: Most Recent Books I've Ready
 
-{: style=“color: red”}
 1. The Organized Mind - Daniel Levitin
 2. The Body - Bill Bryson
 3. The Practical Guide to Business Process Reengineering Using IDEF0 - Clarence Feldmann
 4. Homo Deus - Yoval Noah Harari
 5. (reading now) Zen and the Art of Motorcycle Maintenance - Robert Pirsig
+{: style="color: red"}
 {: reversed=“reversed”}
 
 {: style="color: green"}
 # Quotes
+
 {: style="color: green"}
 > **The pork smells like old people farts and death.**   
 <cite>Melissa</cite>
