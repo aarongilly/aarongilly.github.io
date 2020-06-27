@@ -19,7 +19,7 @@ Apple's annual software developer's conference happened recently. Historically I
 Most of the headline features of the forthcoming iOS 14 are *straight* out of the Android playbook.  
 - We're getting home screen widgets.  
 - We're getting the ability to hide apps we don't use.  
-- We're getting the ability to set a default mail client and browser.
+- We're getting the ability to set a default mail client and browser.  
 Honestly, these were the only meaningful differences between the standard, day-to-day operations between running Android and iOS.  
 
 Android die-hards will argue with me that the lack of the "back" button is a meaningful difference, but I  don't miss it. **Every case** in which "back" was actually *useful* on Android you will find one on iOS - usually as a button in the top-left corner. The "back" button on Android existed as a crutch to try to "get out of" screens your phone got into that you weren't really sure what else to do with. Sometimes pressing it would help, sometimes it would do nothing - which leads to a bad user experience. The other use for the "back" button was as a means to take out your frustration when the phone got slow and laggy - and that's just not a thing that happens on iPhones. Again, this is coming from an Android enthusiast.
