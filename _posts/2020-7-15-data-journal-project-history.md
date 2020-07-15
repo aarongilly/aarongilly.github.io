@@ -38,55 +38,55 @@ So. I wrote it down. Rather than bore you to death with paragraphs of details th
 
 ## V1
 
-![One](https://lh3.googleusercontent.com/pw/ACtC-3eje4GpR6pYZm5NO1MLOGy2T3zKVuX5hJfJYjCwZKA0InRqbqrfgGaNj-RY8aDDnNDznuY_0O23NZkw2i3u-wGY3S5Uw2EKcT7XxN0D02skDKbIAXpUVH8t9b2rkOSKD0AsCdkmIoiwfYmgs23toTvGqQ=w600)
+![One](https://lh3.googleusercontent.com/pw/ACtC-3eje4GpR6pYZm5NO1MLOGy2T3zKVuX5hJfJYjCwZKA0InRqbqrfgGaNj-RY8aDDnNDznuY_0O23NZkw2i3u-wGY3S5Uw2EKcT7XxN0D02skDKbIAXpUVH8t9b2rkOSKD0AsCdkmIoiwfYmgs23toTvGqQ=w800)
 
 ## V2
 
 Reason for new version: no need to carry around (and sometimes lose) a piece of paper and a pen.
 
-![Two](https://lh3.googleusercontent.com/pw/ACtC-3d_OabeMync1e9merFsgDpbzodHwkW0kZ_QWAon06nAKKIAHaEyX0bWCinXVqwxoNOna_wVd3iKZ1m7ef3MS_aFJM85oETzI202UfvYLNGwCAQF6CJExtfSs0zHD6-5h4V50SCChmNyRugTvmc9QsjssQ=w600)
+![Two](https://lh3.googleusercontent.com/pw/ACtC-3d_OabeMync1e9merFsgDpbzodHwkW0kZ_QWAon06nAKKIAHaEyX0bWCinXVqwxoNOna_wVd3iKZ1m7ef3MS_aFJM85oETzI202UfvYLNGwCAQF6CJExtfSs0zHD6-5h4V50SCChmNyRugTvmc9QsjssQ=w800)
 
 ## V3
 
 Reason for new version: I got tired of typing in my daily food summaries, sleep details, and other things.
 
-![Three](https://lh3.googleusercontent.com/pw/ACtC-3e1-749IqQ6qbboX_hFmeQvK1cWSCpXXQwgwzD9T4VVOuBtIvaGjWsRSlRYhCbZi9n1YWPKo_CB6eB6PkBPJ16bnRn_J_QvqFT4e8qWMYg_vz3p-G7sCFDduCZ7pJxmtTOAd6rvj5KTUqJtZmJHwkfLSw=w600)
+![Three](https://lh3.googleusercontent.com/pw/ACtC-3e1-749IqQ6qbboX_hFmeQvK1cWSCpXXQwgwzD9T4VVOuBtIvaGjWsRSlRYhCbZi9n1YWPKo_CB6eB6PkBPJ16bnRn_J_QvqFT4e8qWMYg_vz3p-G7sCFDduCZ7pJxmtTOAd6rvj5KTUqJtZmJHwkfLSw=w800)
 
 ## V4
 
 Reason for new version: I got tired of tracking the same 25 Daily Goals after 5 years. Was ready for what's next. Also I figured out how to use a free weather API.
 
-![Four](https://lh3.googleusercontent.com/pw/ACtC-3eyXV-TzREBKjnycr7xkK_lTD11qhjhCWBiX_DAEbUSkmHzu6t_TJpF0d1ATSSVqCD17PYP8abNK75ButoUgVXmTPD2H5Ykd_tBEGGXqwPYLAjQCVpMj8mxAlmDGo369tD8XX3jd8kHeBRU7F7VQOjaqg=w600)
+![Four](https://lh3.googleusercontent.com/pw/ACtC-3eyXV-TzREBKjnycr7xkK_lTD11qhjhCWBiX_DAEbUSkmHzu6t_TJpF0d1ATSSVqCD17PYP8abNK75ButoUgVXmTPD2H5Ykd_tBEGGXqwPYLAjQCVpMj8mxAlmDGo369tD8XX3jd8kHeBRU7F7VQOjaqg=w800)
 
 ## V5
 
 Reason for new version: A couple more data points I thought might be nice.
 
-![Five](https://lh3.googleusercontent.com/pw/ACtC-3fz1Vn-saWHKQyaiH2ID0lpJq14ulwjmW9rNPzyxH3wnjRROp7ADlulfmINtizyaAFo00sGN4DWw-PXe3audI9YhwQdqWqAfImszzujpcGST7GYT4hLavLa1xIzNFBvJMCW-8oMTMIB2gTT2lKp8VDTZg=w600)
+![Five](https://lh3.googleusercontent.com/pw/ACtC-3fz1Vn-saWHKQyaiH2ID0lpJq14ulwjmW9rNPzyxH3wnjRROp7ADlulfmINtizyaAFo00sGN4DWw-PXe3audI9YhwQdqWqAfImszzujpcGST7GYT4hLavLa1xIzNFBvJMCW-8oMTMIB2gTT2lKp8VDTZg=w800)
 
 ## V6
 
 Reason for new version: A redefinition/refinement of the new data points.
 
-![Six](https://lh3.googleusercontent.com/pw/ACtC-3fjuZCFBOhEFroeGqLgm98KpIVcWALUppKb9GtnE_0pJsBgTWO8PJO1hx2r4GQW5c4MaqIWtPoHlhYw2Z1-HLf3N7gPArMO58kysaW_CK4Ys_eqwdxWlYLm0Mijo9ZP6u1r152tGw04XIbBIKSLkX6lkg=w600)
+![Six](https://lh3.googleusercontent.com/pw/ACtC-3fjuZCFBOhEFroeGqLgm98KpIVcWALUppKb9GtnE_0pJsBgTWO8PJO1hx2r4GQW5c4MaqIWtPoHlhYw2Z1-HLf3N7gPArMO58kysaW_CK4Ys_eqwdxWlYLm0Mijo9ZP6u1r152tGw04XIbBIKSLkX6lkg=w800)
 
 ## V7
 
 Reason for new version: Accommodating the switch from Android to iOS & getting into tracking at a finer granularity than "day".  
 
-![Seven](https://lh3.googleusercontent.com/pw/ACtC-3c4wk6XgXIfNhXTo_WSRy69SG5JMEF3ic2VSiyDswzf2nzYKEfhXsYCHfCEDkiSDcMWU9zdveMxHNCqUc_AramqYjiNOqPhI__yLHXxTZJB5CTcQzawzjR3XA4oV8i5NgeieaOOfeB5NDQd-rtBR8eB5g=w600)
+![Seven](https://lh3.googleusercontent.com/pw/ACtC-3c4wk6XgXIfNhXTo_WSRy69SG5JMEF3ic2VSiyDswzf2nzYKEfhXsYCHfCEDkiSDcMWU9zdveMxHNCqUc_AramqYjiNOqPhI__yLHXxTZJB5CTcQzawzjR3XA4oV8i5NgeieaOOfeB5NDQd-rtBR8eB5g=w800)
 
 ## V8
 
 Reason for new version: I realized I wasn't fat & that writing down what I ate wasn't really the reason why. I honed in more on self-actualization, rather than just self-sustainment.
 
-![Eight](https://lh3.googleusercontent.com/pw/ACtC-3ficaqGMEEYEr_5U1EPCH_rt9f_7bEKQTwgSynGfWa1ZyxmrmVwjpt-oYhoFWj4DEfsJID43dzIec0CK1W0XEqknj7Us93HMjXlpch4o9-C4khpgL8bxIrbYeay21eVJkBWJeSiapr-etTEgybdg1q6zg=w600)
+![Eight](https://lh3.googleusercontent.com/pw/ACtC-3ficaqGMEEYEr_5U1EPCH_rt9f_7bEKQTwgSynGfWa1ZyxmrmVwjpt-oYhoFWj4DEfsJID43dzIec0CK1W0XEqknj7Us93HMjXlpch4o9-C4khpgL8bxIrbYeay21eVJkBWJeSiapr-etTEgybdg1q6zg=w800)
 
 # The Present - V9
 
 Reason for new version: A house divided against itself cannot stand. Tracking at both the daily and "realtime" level was causing data conflicts that I believed I could resolve by way of refactor.
 
-![Nine](https://lh3.googleusercontent.com/pw/ACtC-3daRv-KAQhG2h5mZQNgKAoVqToGHIphW_LH6BbTYfeyAYECBQOl_cWy7xKAvjAlIrqdBl48M9cdeHGeDSctm6vRSXeuAo8dWz4aFhSgUsGtC9otav7RDLyAZH_JH1M7GcCD39J9WAADKcRSA8mJdRL5pw=w600)
+![Nine](https://lh3.googleusercontent.com/pw/ACtC-3daRv-KAQhG2h5mZQNgKAoVqToGHIphW_LH6BbTYfeyAYECBQOl_cWy7xKAvjAlIrqdBl48M9cdeHGeDSctm6vRSXeuAo8dWz4aFhSgUsGtC9otav7RDLyAZH_JH1M7GcCD39J9WAADKcRSA8mJdRL5pw=w800)
 
 This, though, doesn't tell the whole story. Version 9 has not worked yet. Today, I got to the point where I expected to fully "transition" from V8 to the new normal... and it just fully went sideways.
 
@@ -100,7 +100,7 @@ Each morning a script I wrote would run and create space for new data. Each nigh
 
 In a graphic:  
 
-![worked](https://lh3.googleusercontent.com/pw/ACtC-3fTTSAYbZm5NkcOFOz-nMeBC-XM0x3Wz0oEVHmcOKBZe2Fw8o9PslOROtOFOndKFlkK2yEZZqUpfY62zSnqFiu7hr1w4wthO-pvmu5oLN6VQTcxuw5-AmY3G_IB4T6EaSzqMxYpvBMKH7lAjA6Jztft3w=w600)
+![worked](https://lh3.googleusercontent.com/pw/ACtC-3fTTSAYbZm5NkcOFOz-nMeBC-XM0x3Wz0oEVHmcOKBZe2Fw8o9PslOROtOFOndKFlkK2yEZZqUpfY62zSnqFiu7hr1w4wthO-pvmu5oLN6VQTcxuw5-AmY3G_IB4T6EaSzqMxYpvBMKH7lAjA6Jztft3w=w800)
 
 ## How It Doesn't Work
 
@@ -111,7 +111,7 @@ As soon as you remove the foundational principle upon which everything else was 
 
 Or, in a graphic:  
 
-![doesn't](https://lh3.googleusercontent.com/pw/ACtC-3evHyyse4cEXV4Ll6wtGzYmSmukgnTvoRS9Ugg-bq8_mntcB06bgPSNEICF7VaXIEtX8648-beNqCOmA7SGi-z3p4NXePEbghtOckcKVa6k6eqEqAjGp6matBBTyyxHsQNIn88Nl7Ny5uL20R7VIdRhfA=w600)
+![doesn't](https://lh3.googleusercontent.com/pw/ACtC-3evHyyse4cEXV4Ll6wtGzYmSmukgnTvoRS9Ugg-bq8_mntcB06bgPSNEICF7VaXIEtX8648-beNqCOmA7SGi-z3p4NXePEbghtOckcKVa6k6eqEqAjGp6matBBTyyxHsQNIn88Nl7Ny5uL20R7VIdRhfA=w800)
 
 # The Future
 
