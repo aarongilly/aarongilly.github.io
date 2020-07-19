@@ -1,6 +1,6 @@
 ---
-title:  #395 - Data Journal Project History (Feature)
-excerpt: A deep dive on the evolution and related learnings from my biggest Project.
+title:  "#395 - Data Journal Project History"
+excerpt: "A deep dive on the evolution and related learnings from my biggest Project."
 header:
   overlay_image: https://lh3.googleusercontent.com/pw/ACtC-3ficaqGMEEYEr_5U1EPCH_rt9f_7bEKQTwgSynGfWa1ZyxmrmVwjpt-oYhoFWj4DEfsJID43dzIec0CK1W0XEqknj7Us93HMjXlpch4o9-C4khpgL8bxIrbYeay21eVJkBWJeSiapr-etTEgybdg1q6zg=w900
   teaser: https://lh3.googleusercontent.com/pw/ACtC-3ficaqGMEEYEr_5U1EPCH_rt9f_7bEKQTwgSynGfWa1ZyxmrmVwjpt-oYhoFWj4DEfsJID43dzIec0CK1W0XEqknj7Us93HMjXlpch4o9-C4khpgL8bxIrbYeay21eVJkBWJeSiapr-etTEgybdg1q6zg=w300
