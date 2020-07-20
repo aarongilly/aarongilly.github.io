@@ -1,7 +1,7 @@
 -   date: "7/19/2020"
     type: "webapp"
     desc: "Data Journal Receiver WebApp"
-    link: "https://github.com/aarongilly/simpleAppsScriptDataWriter/blob/master/webAppBase.js"
+    link: "https://github.com/aarongilly/simpleAppsScriptDataWriter/commit/b324aba3c5b40027d7a687f9e36748a3340f9336"
 -   date: "7/12/2020"
     type: "column"
     desc: "#395 - Data Journal Project History (Feature)"
