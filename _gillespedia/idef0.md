@@ -10,9 +10,7 @@ header:
 mathjax: true
 ---
 
-# IDEF0 - Functional Modeling
-
-The first IDEF (**I**ntegrated **DEF**inition) method deals with representing interrelated functions within an enterprise. They are an incredibly useful tool in situations ranging from Systems Engineering Analyses and Business Process Improvement efforts, down to more modest efforts such as "clarifying thought". Of all the IDEF methods, IDEF0 creates the most immediately-parsable results. A complete IDEF0 Functional system model looks like a series of basic flow charts, consisting (only) of numbered & labeled boxes with numbered & labeled lines between them. Each box represents a function. Each arrow may represent an input to that function, something to control the function, an output of the function, or a mechanism which must be in place for the function to work. Together the group of `Input`, `Control`, `Output`, and `Mechanism` lines are referred to as `ICOM Lines`. Usually, but not always, the ICOM lines refer to physical (or digital) objects, sometimes with a specific state. 
+The first IDEF (**I**ntegrated **DEF**inition) method deals with representing interrelated functions within an enterprise. They are an incredibly useful tool in situations ranging from Systems Engineering Analyses and Business Process Improvement efforts, down to more modest efforts such as "clarifying thought". Of all the IDEF methods, IDEF0 creates the most immediately-parsable results. A complete IDEF0 Functional system model looks like a series of basic flow charts, consisting (only) of numbered & labeled boxes with numbered & labeled lines between them. Each box represents a function. Each arrow may represent an input to that function, something to control the function, an output of the function, or a mechanism which must be in place for the function to work. Together the group of <span style="color: orange">Input</span>, <span style="color: orange">Control</span>, <span style="color: orange">Output</span>, and <span style="color: orange">Mechanism</span> lines are referred to as <span style="color: red">ICOM Lines</span>. Usually, but not always, the ICOM lines refer to physical (or digital) objects, sometimes with a specific state. 
 
 ## ICOM Definitions
 
@@ -28,7 +26,7 @@ Examples:
 
 ### Controls
 
-These are `what tell the function how to produce the correct output`. Controls can also be thought of as “constraints“ on the activity. They answer the question of `how`. **Each function requires at least one documented Control**. Controls are sometimes also consumed by the function, like inputs. In practice there is not a critical distinction between the two. Pick one and move on.
+These are <span style="color: orange">what tell the function how to produce the correct output</span>. Controls can also be thought of as “constraints“ on the activity. They answer the question of <span style="color: red">how</span>. **Each function requires at least one documented Control**. Controls are sometimes also consumed by the function, like inputs. In practice there is not a critical distinction between the two. Pick one and move on.
 
 Examples:
 
@@ -38,7 +36,7 @@ Examples:
 
 ### Outputs
 
-These are what the function exists to do. Creating the output is the implicit `why` for any given function. Outputs may be physical, or logical. **Each function requires at least one documented Output.** They may be the same as the inputs but with a modified state, such as in the case of “wiping the counters” which has input “dirty counters” and outputs “clean counters”. Outputs of one function may serve as inputs or controls of other functions, or they may circle around and feed back into the function itself, such as in the case of a Cruise Control Mechanism.
+These are what the function exists to do. Creating the output is the implicit <span style="color: red">why</span> for any given function. Outputs may be physical, or logical. **Each function requires at least one documented Output.** They may be the same as the inputs but with a modified state, such as in the case of “wiping the counters” which has input “dirty counters” and outputs “clean counters”. Outputs of one function may serve as inputs or controls of other functions, or they may circle around and feed back into the function itself, such as in the case of a Cruise Control Mechanism.
 
 Examples:
 
@@ -48,7 +46,7 @@ Examples:
 
 ### Mechanisms
 
-These are those things which the function needs to operate, but aren't modified by it. Mechanisms describe the `who` and `where` of the function.  
+These are those things which the function needs to operate, but aren't modified by it. Mechanisms describe the <span style="color: red">who</span> and <span style="color: red">where</span> of the function.  
 
 Examples:
 
@@ -143,7 +141,7 @@ A schematic is a view of the entire model in one, self-contained format. This is
 
 Not all models require the creation of a schematic. The schematic contains no information that cannot be ascertained through analysis of the pages of the model. However, it may be easier for some individuals to picture the system as a whole with a picture of the whole system. Also creating a schematic will help you find inter-diagram errors and whole-model "global" trends more easily.
 
-The schematic for the model above is presented here in a format that is not necessarily meant to be readable. To really read it you'd need a plotter (that's what they call those huge huge printers) and an [A0 size piece of paper](https://en.wikipedia.org/wiki/ISO_216#A_series) ("A0" not to be confused with the diagram "A0"... see the Wikipedia article link.).
+The schematic for the model above is presented here in a format that is not necessarily meant to be readable. To really read it you'd need a plotter (that's what they call those huge huge printers) and an A0[^1] size piece of paper.
 
 ![schematic](https://lh3.googleusercontent.com/pw/ACtC-3fIwPr6IC7aE22hZRC7zXEqwOGlMV4OPZsCCc8CR6QNDJ5i9MuOMmU8UTt6i0yY8Kxa_ZWjJZNFQdMXnKlSRtsO0z-DUnnmyxRHP_FhzKzYTTo_fJkj9QBRRo21501ENpaF64w5XU3xlketH271FWkFbw=w900)
 
@@ -152,3 +150,5 @@ The purpose of a schematic is meant to enable the presentation of an entire mode
 # Conclusion
 
 IDEF0 Functional Modeling is cool. The diagrams the method produces are easy to learn, easy to parse, and quick to understand. The system can be applied to describe arbitrarily complex topics, and those topics can be broken down into arbitrarily granular detail. It's a worthwhile skill to build, and a Inputs, Control, Output, and Mechanism mindset may help to serve you in all your problem solving endeavors.
+
+[^1]: "A0", not to be confused with the Diagram whose Node Number is A0, is a reference to the [A-series paper sizing standard](https://en.wikipedia.org/wiki/ISO_216#A_series) size "A0", which is short for "big ol' piece of paper".
