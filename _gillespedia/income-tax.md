@@ -10,7 +10,7 @@ header:
 
 # Federal & State Income Tax
 
-Everyone in the United States is subject to the Federal Income Tax. Most states also have their own version of income tax that you pay on top of the Federal Income Tax.
+Our government needs money for roads, schools, and tons of other things. Part of the way we give it money is as a percentage of our income. Everyone in the United States is subject to the Federal Income Tax. Most states also have their own version of income tax that you pay on top of the Federal Income Tax.
 
 They all follow the same basic model.
 
@@ -18,14 +18,8 @@ They all follow the same basic model.
 
 ![Book cover]({{ site.url }}{{ site.baseurl }}/assets/images/gillespedia/income-tax-chart.png){: .align-center}
 
-- Our government needs money for roads, schools, the military, etc.
-- Part of the way we give it money is as a percentage of income.
 - All the money you make in a given year is your <span style="color: #20C6EE">gross income</span>.
-- We decided some of the money you make shouldn't count toward you gross income. These <span style="color: #8D0D0D">deductions</span> are for things society values. Such as...
-   - Donations to charity
-   - Health insurance expenses
-   - Expenses looking for a job
-   - Paying other taxes
+- We decided some of the money you make shouldn't count toward you gross income. These <span style="color: #8D0D0D">deductions</span> are for personal expenses from things society values (e.g. health insurance, job seeking, charitable donations, and so on) 
 - Your <span style="color: #20C6EE">gross income</span> minus your <span style="color: #8D0D0D">deductions</span> is your <span style="color: #ECB927">taxable income</span>.
 - Your <span style="color: #F60E0E">taxes</span> are where your <span style="color: #ECB927">taxable income</span> means the <span style="color: #D4F327">T</span><span style="color: #ACF327">AX R</span><span style="color: #80D32E">ATE</span> <span style="color: #4C8612">LIN</span><span style="color: #C954DA">E</span>.
 - The <span style="color: #D4F327">T</span><span style="color: #ACF327">AX R</span><span style="color: #80D32E">ATE</span> <span style="color: #4C8612">LIN</span><span style="color: #C954DA">E</span> is piecewise linear, broken into "tax brackets" with different slopes (tax rates).
