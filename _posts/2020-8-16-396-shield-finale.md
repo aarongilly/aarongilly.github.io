@@ -1,9 +1,8 @@
 ---
-title:  “#396 - S.H.I.E.L.D. Finale”
+title:  “#396 - Agents of S.H.I.E.L.D. Finale”
 excerpt: “Another Show in the History Books”
 header:
   overlay_image: "https://lh3.googleusercontent.com/pw/ACtC-3ea6AiIHx2Hey9DEPCrLDJP85w_G3NM_H8Aw-Y2MzWVsK2XHioGPcKo9_6ofIu_b4DuWaklgmgb3ABPrlwcRwwoIcQPD0JDKkIGn5sjHu7ususiP2KXYPch8HUXFl1Jk0MLaZQYtq1fsn2s76Rjg7e9-Q=w800"
-  caption: “Photo credit: xxxremoveifnotnecessary.”
   teaser: "https://lh3.googleusercontent.com/pw/ACtC-3ea6AiIHx2Hey9DEPCrLDJP85w_G3NM_H8Aw-Y2MzWVsK2XHioGPcKo9_6ofIu_b4DuWaklgmgb3ABPrlwcRwwoIcQPD0JDKkIGn5sjHu7ususiP2KXYPch8HUXFl1Jk0MLaZQYtq1fsn2s76Rjg7e9-Q=w400"
 tags:
   - THOUGHTS
@@ -12,20 +11,20 @@ tags:
 
 This Wednesday (8/12/2020) was the series finale of Marvel's Agents of S.H.I.E.L.D. If you've never watched the show, which frankly is all of you (except maybe ~2?) just go ahead and skip riiiight down to that Top 5 and quote. They aren't related.
 
-The debut of Agents of S.H.I.E.L.D. on ABC back in 2013 was tied in with probably my highest Marvel Cinematic Universe hype. This was back when I was making spreadsheets to track the in-continuity storyline. This was back when I bugged my fiance about superhero shows incessantly. Believe it or not, things are actually very different now... but this Column isn't about now, it's about S.H.I.E.L.D., and my relationship to it.
+The debut of Agents of S.H.I.E.L.D. on ABC back in 2013 was tied in with probably my highest Marvel Cinematic Universe hype. This was back when I was making spreadsheets to track the in-continuity storyline. This was back when I bugged my fiancé about superhero shows incessantly. Believe it or not, things are actually very different now... but this Column isn't about now, it's about S.H.I.E.L.D., and my relationship to it.
 
 # A Multi-Platform Universe  
 The concept that came with this show was one of a television show that closely tied in with a series of movies, in real time. They were to play off each other, storylines weaving back and forth between them. For the first couple of seasons, that was still (essentially) the promise. Sometime around the introduction of the Netflix, it started to dawn on me... "it's all connected" had a huge asterisk.
 
 > It's All Connected*
 > 
-> *to the movies. Also the platforms will never recognize the existance of the other platforms. The ABC shows will never reference the Netflix shows. The Hulu shows will never reference ABC or Netflix. Netflix will never reference ABC or Hulu. 
+> *to the movies. Also the platforms will never recognize the existence of the other platforms. The ABC shows will never reference the Netflix shows. The Hulu shows will never reference ABC or Netflix. Netflix will never reference ABC or Hulu. 
 
 It was somewhere around this realization that I sort of "gave up" on caring *too much* about Agents of S.H.I.E.L.D., or Daredevil/Jessica Jones/Luke Cage/Iron Fist/The Defenders/The Punisher on Netflix, or The Runaways/Cloak and Dagger on Hulu.
 
 ![connections](https://lh3.googleusercontent.com/pw/ACtC-3emcMNdhYxJWvd5_ylgiyBsd9M-uqA8t3pOCmE7bvE8vN_47G60ZQ2l52n4pFRmt7x8-RJtIltSFs_es-JQp8El7nMOM8YcI792MentjwQ0L-pfy2rrFrS8vYTH_pUkg5vdYzbi98GnTF2ozIpQjs190A=w700)
 
-I want to see a graphic like that, but more detailed. All 23 movies and all 29 season TV shows, with arrows between them representing direct references. Something more substantial than a throwaway line. Nohting in Doctor Strange cares about Guardians of the Galaxy Vol 2, for example. Maybe I'll work on this in my spare time at some point. I've only seen 25 of those 29 seasons.
+I want to see a graphic like that, but more detailed. All 23 movies and all 29 season TV shows, with arrows between them representing direct references. Something more substantial than a throwaway line. Nothing in Doctor Strange cares about Guardians of the Galaxy Vol 2, for example. Maybe I'll work on this in my spare time at some point. I've only seen 25 of those 29 seasons.
 
 It LOOKS like the Disney+ shows are going to be first-class citizens of the MCU. I read somewhere that Kevin Feige outright said that plotlines from the shows will be addressed in later movies. So maybe I'll be on board for those.
 
@@ -36,7 +35,7 @@ Agents of S.H.I.E.L.D. was a dense show. One thing I always appreciated about it
 
 - **Monster of the week phase**. The show started with a dozen episodes that boiled down to a "monster of the week". It was chore to get through, but worthwhile.
 - **Project Centipede**. Hard meh.
-- **Who is the clarivoyant?** This bit was alright, it was the first major serial storyline. 
+- **Who is the clairvoyant?** This bit was alright, it was the first major serial storyline. 
 - **How did Coulson come back to life?** It was very interesting (this time) T.A.H.I.T.I. is a magical place.
 - **Who is Hydra, who is S.H.I.E.L.D.?** This was awesome.
 - **Coulson is drawing mysterious symbols**. Sure.
@@ -47,23 +46,23 @@ Agents of S.H.I.E.L.D. was a dense show. One thing I always appreciated about it
 - **Fitz has a broken brain**. Bummer to watch. First moments where we learn Iain De Caestecker is the best actor on the show.
 - **The Absorbing Man**. He was good - but underutilized.
 - **Daniel Whitehall** is looking to steal Inhuman abilities.
-- **Can Ward be redeemed?** Interesting. A worthwhile storyline. Utltimately they made the right call.
+- **Can Ward be redeemed?** Interesting. A worthwhile storyline. Ultimately they made the right call.
 - **Who are Skye's parents?** Meh. The answer was pretty alright, actually.
 - **Skye and Raina get superpowers.** That was super exciting at the time.
-- **Afterlife, the inhuman sanctuary.** Sort of a slow down. Some good character stuff with Skye... but also the introduciton of Lincoln.
+- **Afterlife, the inhuman sanctuary.** Sort of a slow down. Some good character stuff with Skye... but also the introduction of Lincoln.
 - **Lincoln**. Terrible. Not a good character. Not a direction the series needed to go. Skye crying about boys is not interesting or fun.
-- **Jaiyang wants to turn the whole world inhuman.** Completely forgot about this.
+- **Jaiying wants to turn the whole world inhuman.** Completely forgot about this.
 - **Coulson's robot hand.** Nice.
 
 ## Season 3
-- **What happend to Simmons when she got sucked into the big alien rock?** This was resolved in a few episodes, which I appreciated. It also had probably the most interesting episode ever, the offworld "let's see what happened to Jemma" episdoe. Remember when she fell in love with some other dude? That happened!
+- **What happened to Simmons when she got sucked into the big alien rock?** This was resolved in a few episodes, which I appreciated. It also had probably the most interesting episode ever, the offworld "let's see what happened to Jemma" episode. Remember when she fell in love with some other dude? That happened!
 - **There's Terrigen in Fish Oil pills!** This was very exciting. It sort of got forgotten about quickly, though.
 - **Yoyo is bad, then good.** Yoyo was fine. She was never given anything interesting to do, really.
 - **May's ex-husband is huge Inhuman-hunting Inhuman monster**. Not bad.
 - **What's the Monster on the planet that Simmons was stuck on?" This one had huge implications in the lore, but the whole "Hydra is actually a secret religion for an Inhuman monster that was banished to another planet" thing is definitely never getting brought back up. Hive is a zombie-making monster.
 - **Ward is Hive now**. Sure. Glad to see Brett Dalton given more to do.
 - **Ward is going to make the whole world Inhuman?** I have zero recollection of this.
-- **Who is going to be in the Quinjet when it explodes?"** This was a well-done TV Mystery. And it was great to get rid of Licoln. Dude sucked.
+- **Who is going to be in the Quinjet when it explodes?"** This was a well-done TV Mystery. And it was great to get rid of Lincoln. Dude sucked.
 
 ## Season 4
 - **The new S.H.I.E.L.D. directory, Jeffrey Mase, what's his deal? He good?** This was really well done. That character was very well written, the actor did a stellar job. Such a great character, in retrospect.
@@ -75,23 +74,23 @@ Agents of S.H.I.E.L.D. was a dense show. One thing I always appreciated about it
 - **Life Model Decoys are invented by Daniel Radcliffe and Fitz.**. Yes. Get pumped.
 - **The Superior. The Russian Watchdogs leader.** He was an alright character. He gets lost in the other parts of the season. I like how he wound up becoming a robot, which he hated so much. That reveal was cool.
 - **Slowly, we realize that the team has been replaced with L.M.D.s... who's real?** This was the beginning of the best part of the show. This part has by far and away the best episode of the series, season 4 episode 15, "Self Control".
-- **Everyone is put into "The Framework".** This continued the incredibly interesting and well done "who can we trust" storyline with a incredibly interesting and well done "what's the new world like" storyline. Season 4 is easily the best season. this is the best part of the best season. This show will be fondly rememberd largely because of the heavy lifting from the back half of Season 4.
-- **S.H.I.E.L.D. has been replaced by Hydra." Yes. Fitz leads it? Double yes. The whole thing was orchestrated by Aida who has a sort of weird robo crush of Fitz? Dude.
+- **Everyone is put into "The Framework".** This continued the incredibly interesting and well done "who can we trust" storyline with a incredibly interesting and well done "what's the new world like" storyline. Season 4 is easily the best season. this is the best part of the best season. This show will be fondly remembered largely because of the heavy lifting from the back half of Season 4.
+- **S.H.I.E.L.D. has been replaced by Hydra." Yes. Fitz leads it? Double yes. The whole thing was orchestrated by Aida who has a sort of weird robo-crush of Fitz? Dude.
 - **WARD IS BACK... AND SECRETLY S.H.I.E.L.D." YES. 
 - **Mack wants to stay in the Framework.** Again, this is the best writing in the show.
 - **Aida is a real girl... but with all the powers. And Ghost Rider is the only person who can stop her.** This I forgot about. There's a tiny lull right before the last episode of the season.
-- **Boom. Coulson took on the spirit of vengance to kill Aida, and sacrificed himself in the process.** This was such an awesome reveal. And a fitting end for Coulson.
+- **Boom. Coulson took on the spirit of vengeance to kill Aida, and sacrificed himself in the process.** This was such an awesome reveal. And a fitting end for Coulson.
 
 ## Season 5
 - **S.H.I.E.L.D. in Spaaaaace!". I was so high on the show at this point... it's a bummer this wound up sucking so hard.
 - **The introduction of Deke.** Weird that one of my favorite characters in the show was introduced at the same time the show started sucking.
 - **S.H.I.E.L.D. are actually in the future and possibly Daisy ruined the earth?** Could have been interesting. 
 - **Kasius, the new big bad.** This starts a trend of terrible villains that plague the show for the rest of its life. He was probably the worst one. This was uninteresting, unfun, and the beginning of me dropping from "huge fan, no reservations" to a "you just gotta appreciate it for what it is" status.
-- **The Introduciton of Chronicoms & Enoch.** I like Enoch. I hate the Chronicoms. I forgot they were introduced this early.
+- **The Introduction of Chronicoms & Enoch.** I like Enoch. I hate the Chronicoms. I forgot they were introduced this early.
 - **Can we change the future?** Minorly interesting.
 - **Deke is sent back to the past.** Great move. Kept a good character.
 - **Ruby is the big bad.** Completely forgot about her. 
-- **General Talbot is Graviton.** This was mostly fine. Him really wnating to be an Avenger and fight Thanos was pretty solid.
+- **General Talbot is Graviton.** This was mostly fine. Him really wanting to be an Avenger and fight Thanos was pretty solid.
 - **Quake fights Talbot.** She never gets even remotely close to this powerful again.
 - **Coulson retires to Tahiti to die**. Sure. Would have been an okay end the show. 
 
@@ -107,23 +106,27 @@ Agents of S.H.I.E.L.D. was a dense show. One thing I always appreciated about it
 - **Simmons from the future comes to take them back to the past.** This set up a fun, if terribly flawed season.
 - **Agents of S.H.I.E.L.D. time travel through the ages of the MCU.** This was a really fun bit. Set up a lot of niche one-off episodes that were good.
 - **The Chronicoms want to take over earth and Fitz is hiding.** The Chronicoms were so dumb. I really want to learn why the best actor in the show wasn't in the vast majority of its final season. Some brief research reveals no explanation. Surely it wasn't just "the best idea they had". That's garbage. It didn't even make sense in the story of the show.
-- **The final reveal, Fitz was in the origninal timeline**. I haven't figured out how any of this makes sense yet. I don't really care. The season had some fun moments. Ultimately, I'm very glad the show is over. It probably went on for 3 more seasons than it should have.
+- **The final reveal, Fitz was in the original timeline**. I haven't figured out how any of this makes sense yet. I don't really care. The season had some fun moments. Ultimately, I'm very glad the show is over. It probably went on for 3 more seasons than it should have.
 
 # Final Thoughts
 S.H.I.E.L.D. was such a weird show. A mix of really great twists you genuinely didn't see coming tossed in with the most obvious tropes ever. It's a shame the trajectory of the show was so inconsistent. 
 
 ## The Graphic this Whole Post Lead To  
-This was why I wanted to write this post. So I could draw this.
+This was why I wanted to write this post. So I could draw this:
 
-Alright. Done with Agents of S.H.I.E.L.D. forver now.
+![ratinggraph](https://lh3.googleusercontent.com/pw/ACtC-3duGZ4CDbPIp0rubRU9wgsCl7u5yzcP4UTQ1FWIThXgdO8YV-fY-T0-2x6OBNfHS90xauc9CYIE6w5ZDKKT7Hq-AnhAE60KGTui_dgcjcyfFoEl5OWXnq-Sv06hwDMImx48fmap_iVTCZ8S8GU1PtrgwA=w700)
 
-# Top 5: TOPIC
+The super high rating for the most recent episodes in that underlying graphic ([which is from this super handy website, by the way](https://www.ratingraph.com/tv-shows/agents-of-s-h-i-e-l-d-ratings-45167/)) is more of a reflection of the fact it's so new. They will tamper down over time.
+
+Alright. Done with Agents of S.H.I.E.L.D. forever now.
+
+# UNRELATED Top 5: Names Ruined by Pop Culture
 {: style="color: red"}
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Meg - ruined by Family Guy's Meg Griffin
+2. Karen - the latest victim of name-ruining. For whatever reason this has become representative of out-of-touch conservative middle-aged women.
+3. Larry - ruined by Parks and Rec's Larry Gergich
+4. Gary - ruined by Parks and Rec's Gary Gergich
+5. Jerry - ruined by Rick and Morty's Jerry Smith.... AND Parks and Rec's Jerry Gergich
 {: style="color: red"}
 {: reversed="reversed"}
 
@@ -131,11 +134,5 @@ Alright. Done with Agents of S.H.I.E.L.D. forver now.
 # Quotes
 
 {: style="color: green"}
-> **This is how to make quotes look good.**   
-<cite>Aaron</cite>
-
-{: style="color: green"}
-> **Quote2**  
-<cite>quoter</cite>
-
-[^1]: Footnote contents. This can be ^1 or ^A or ^Whatever, so long as its unique and one word
+> **Your habits aren't necessarily the best way to solve the problems you face; they are just the methods you learned to use.**   
+<cite>James Clear - random selection of wisdom from [Atomic Habits](https://jamesclear.com/atomic-habits), which I just finished re-reading</cite>
