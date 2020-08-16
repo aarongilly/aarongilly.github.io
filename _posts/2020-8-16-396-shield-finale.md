@@ -1,6 +1,6 @@
 ---
-title:  “#396 - Agents of S.H.I.E.L.D. Finale”
-excerpt: “Another Show in the History Books”
+title:  #396 - Agents of S.H.I.E.L.D. Finale
+excerpt: Another Show in the History Books
 header:
   overlay_image: "https://lh3.googleusercontent.com/pw/ACtC-3ea6AiIHx2Hey9DEPCrLDJP85w_G3NM_H8Aw-Y2MzWVsK2XHioGPcKo9_6ofIu_b4DuWaklgmgb3ABPrlwcRwwoIcQPD0JDKkIGn5sjHu7ususiP2KXYPch8HUXFl1Jk0MLaZQYtq1fsn2s76Rjg7e9-Q=w800"
   teaser: "https://lh3.googleusercontent.com/pw/ACtC-3ea6AiIHx2Hey9DEPCrLDJP85w_G3NM_H8Aw-Y2MzWVsK2XHioGPcKo9_6ofIu_b4DuWaklgmgb3ABPrlwcRwwoIcQPD0JDKkIGn5sjHu7ususiP2KXYPch8HUXFl1Jk0MLaZQYtq1fsn2s76Rjg7e9-Q=w400"
@@ -23,6 +23,8 @@ The concept that came with this show was one of a television show that closely t
 It was somewhere around this realization that I sort of "gave up" on caring *too much* about Agents of S.H.I.E.L.D., or Daredevil/Jessica Jones/Luke Cage/Iron Fist/The Defenders/The Punisher on Netflix, or The Runaways/Cloak and Dagger on Hulu.
 
 ![connections](https://lh3.googleusercontent.com/pw/ACtC-3emcMNdhYxJWvd5_ylgiyBsd9M-uqA8t3pOCmE7bvE8vN_47G60ZQ2l52n4pFRmt7x8-RJtIltSFs_es-JQp8El7nMOM8YcI792MentjwQ0L-pfy2rrFrS8vYTH_pUkg5vdYzbi98GnTF2ozIpQjs190A=w700)
+
+That dotted line between Agent Carter and the Avengers movies is Edwin Jarvis. The actor that was cast to play him in Agent Carter DID show up and have one speaking line in Avengers: Endgame.
 
 I want to see a graphic like that, but more detailed. All 23 movies and all 29 season TV shows, with arrows between them representing direct references. Something more substantial than a throwaway line. Nothing in Doctor Strange cares about Guardians of the Galaxy Vol 2, for example. Maybe I'll work on this in my spare time at some point. I've only seen 25 of those 29 seasons.
 
@@ -75,14 +77,14 @@ Agents of S.H.I.E.L.D. was a dense show. One thing I always appreciated about it
 - **The Superior. The Russian Watchdogs leader.** He was an alright character. He gets lost in the other parts of the season. I like how he wound up becoming a robot, which he hated so much. That reveal was cool.
 - **Slowly, we realize that the team has been replaced with L.M.D.s... who's real?** This was the beginning of the best part of the show. This part has by far and away the best episode of the series, season 4 episode 15, "Self Control".
 - **Everyone is put into "The Framework".** This continued the incredibly interesting and well done "who can we trust" storyline with a incredibly interesting and well done "what's the new world like" storyline. Season 4 is easily the best season. this is the best part of the best season. This show will be fondly remembered largely because of the heavy lifting from the back half of Season 4.
-- **S.H.I.E.L.D. has been replaced by Hydra." Yes. Fitz leads it? Double yes. The whole thing was orchestrated by Aida who has a sort of weird robo-crush of Fitz? Dude.
-- **WARD IS BACK... AND SECRETLY S.H.I.E.L.D." YES. 
+- **S.H.I.E.L.D. has been replaced by Hydra.**** Yes. Fitz leads it? Double yes. The whole thing was orchestrated by Aida who has a sort of weird robo-crush of Fitz? Dude.
+- **WARD IS BACK... AND SECRETLY S.H.I.E.L.D.** YES. SO HARD YES. THIS WAS THE BEST THING THIS SHOW EVER DID.
 - **Mack wants to stay in the Framework.** Again, this is the best writing in the show.
 - **Aida is a real girl... but with all the powers. And Ghost Rider is the only person who can stop her.** This I forgot about. There's a tiny lull right before the last episode of the season.
 - **Boom. Coulson took on the spirit of vengeance to kill Aida, and sacrificed himself in the process.** This was such an awesome reveal. And a fitting end for Coulson.
 
 ## Season 5
-- **S.H.I.E.L.D. in Spaaaaace!". I was so high on the show at this point... it's a bummer this wound up sucking so hard.
+- **S.H.I.E.L.D. in Spaaaaace!**"**. I was so high on the show at this point... it's a bummer this wound up sucking so hard.
 - **The introduction of Deke.** Weird that one of my favorite characters in the show was introduced at the same time the show started sucking.
 - **S.H.I.E.L.D. are actually in the future and possibly Daisy ruined the earth?** Could have been interesting. 
 - **Kasius, the new big bad.** This starts a trend of terrible villains that plague the show for the rest of its life. He was probably the worst one. This was uninteresting, unfun, and the beginning of me dropping from "huge fan, no reservations" to a "you just gotta appreciate it for what it is" status.
@@ -109,7 +111,7 @@ Agents of S.H.I.E.L.D. was a dense show. One thing I always appreciated about it
 - **The final reveal, Fitz was in the original timeline**. I haven't figured out how any of this makes sense yet. I don't really care. The season had some fun moments. Ultimately, I'm very glad the show is over. It probably went on for 3 more seasons than it should have.
 
 # Final Thoughts
-S.H.I.E.L.D. was such a weird show. A mix of really great twists you genuinely didn't see coming tossed in with the most obvious tropes ever. It's a shame the trajectory of the show was so inconsistent. 
+S.H.I.E.L.D. was such a weird show. A mix of really great twists you genuinely didn't see coming tossed in with the most obvious tropes ever. It would bounce back and forth between being genuinely great, and genuinely embarrassing. It was, on the whole, worth the watch. I don't know if I'll ever revisit all 136 It's a shame the trajectory of the show was so inconsistent. 
 
 ## The Graphic this Whole Post Lead To  
 This was why I wanted to write this post. So I could draw this:
@@ -122,11 +124,11 @@ Alright. Done with Agents of S.H.I.E.L.D. forever now.
 
 # UNRELATED Top 5: Names Ruined by Pop Culture
 {: style="color: red"}
-1. Meg - ruined by Family Guy's Meg Griffin
-2. Karen - the latest victim of name-ruining. For whatever reason this has become representative of out-of-touch conservative middle-aged women.
-3. Larry - ruined by Parks and Rec's Larry Gergich
-4. Gary - ruined by Parks and Rec's Gary Gergich
-5. Jerry - ruined by Rick and Morty's Jerry Smith.... AND Parks and Rec's Jerry Gergich
+1. **Meg** - ruined by Family Guy's Meg Griffin
+2. **Karen** - the latest victim of name-ruining. For whatever reason this has become representative of out-of-touch conservative middle-aged women.
+3. **Larry** - ruined by Parks and Rec's Larry Gergich
+4. **Gary** - ruined by Parks and Rec's Gary Gergich
+5. **Jerry** - ruined by Rick and Morty's Jerry Smith.... AND Parks and Rec's Jerry Gergich
 {: style="color: red"}
 {: reversed="reversed"}
 
