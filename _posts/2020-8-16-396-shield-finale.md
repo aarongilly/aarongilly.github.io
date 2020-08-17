@@ -1,6 +1,6 @@
 ---
-title:  #396 - Agents of S.H.I.E.L.D. Finale
-excerpt: Another Show in the History Books
+title:  "#396 - Agents of S.H.I.E.L.D. Finale"
+excerpt: "Another Show in the History Books"
 header:
   overlay_image: "https://lh3.googleusercontent.com/pw/ACtC-3ea6AiIHx2Hey9DEPCrLDJP85w_G3NM_H8Aw-Y2MzWVsK2XHioGPcKo9_6ofIu_b4DuWaklgmgb3ABPrlwcRwwoIcQPD0JDKkIGn5sjHu7ususiP2KXYPch8HUXFl1Jk0MLaZQYtq1fsn2s76Rjg7e9-Q=w800"
   teaser: "https://lh3.googleusercontent.com/pw/ACtC-3ea6AiIHx2Hey9DEPCrLDJP85w_G3NM_H8Aw-Y2MzWVsK2XHioGPcKo9_6ofIu_b4DuWaklgmgb3ABPrlwcRwwoIcQPD0JDKkIGn5sjHu7ususiP2KXYPch8HUXFl1Jk0MLaZQYtq1fsn2s76Rjg7e9-Q=w400"
