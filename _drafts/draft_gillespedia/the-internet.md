@@ -6,10 +6,7 @@ header:
 mathjax: true
 ---
 
-# History
-
-- **Financial Independence** - *noun* - a state in which passive income meets living expenses
-- **Financially Independent** - *adjective* - a person who doesn't need to work (but may choose to) to continue living their desired life indefinitely
+The Internet. We all live on it. We depend on it for so much; yet nobody knows how it works. Not even me. This is, to the best of my ability, an explanation of how the internet works in a metaphor. We'll do the metaphor, then we'll look at how it translates to the actual internet.
 
 # A Metaphor
 
