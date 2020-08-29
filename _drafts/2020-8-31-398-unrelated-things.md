@@ -16,7 +16,7 @@ NOTE TO SELF - maybe proof this. Also you need a quote and a picture of some sor
 
 ## Pronunciation & Parts-of-Speech
 
-The word "**niche**" is pronounced differently, depending on which part of speech it is. I don't know if this is a local phenomenon or not, but "niche" sometimes rhymes with "itch" and sometimes rhymes with "leash". 
+The word "**niche**" is pronounced differently depending on which part of speech it being used as. I don't know if this is a local phenomenon or not, but "niche" sometimes rhymes with "itch" and sometimes rhymes with "leash". 
 
 A product that serves a very specific need is a niche (rhymes with "leash") product.  
 If you like that product, it's your niche (rhymes with "itch").
@@ -27,15 +27,13 @@ It's a good practice to use citations, you should always attribute (at-TRIB-ute)
 
 ## English is Dumb  
 
-The above example is just one of a million little dumb things that "you just have to know" about English. Some quick-hitter examples:
+The above example is just one of a million little dumb things that "you just have to know" about English. It's truly a nonsensical language. A famous example: ["Fish" is spelled "Ghoti"](https://en.wikipedia.org/wiki/Ghoti). 
 
-- Cough, though, 
+If I were to construct a language ([which is a fool's errand](https://en.wikipedia.org/wiki/Constructed_language)), it would be an [atonal language](https://simple.wikipedia.org/wiki/Tone_language) with unique symbols for each [phoneme](https://en.wikipedia.org/wiki/Phoneme). Google tells me there's somewhere between 40 and 45 phonemes in English. Memorizing 45 letters would be easier than memorizing 26 different letters, most of which have multiple different forms/pronunciations. Moreover, my "letters" would all fit in the same basic shape, a square. It would be something like this:
 
- More famous example: ["Fish" is spelled "Ghoti"](https://en.wikipedia.org/wiki/Ghoti) 
+!!!insert picture here
 
-If I were to construct a language ([which is a fool's errand](https://en.wikipedia.org/wiki/Constructed_language)), it would be an [atonal language](https://simple.wikipedia.org/wiki/Tone_language) with unique symbols for each [phoneme](https://en.wikipedia.org/wiki/Phoneme). Moreover, my "letters" would all fit in the same basic shape, a square. It would be something like this:
-
-Then you could fit letters inside of neat rows and columns, you would always know exactly how to pronounce every word, even if you didn't know what it meant. Sounding it out 
+Then you could fit letters inside of neat rows and columns, you would always know exactly how to pronounce every word, even if you didn't know what it meant. Sounding it out.
 
 ## Salary Milestones
 
@@ -151,11 +149,5 @@ Each of these things *feels* like it takes a lot longer than 5 minutes... but I'
 # Quotes
 
 {: style="color: green"}
-> **This is how to make quotes look good.**   
-<cite>Aaron</cite>
-
-{: style="color: green"}
-> **Quote2**  
-<cite>quoter</cite>
-
-[^1]: Footnote contents. This can be ^1 or ^A or ^Whatever, so long as its unique and one word
+> **English is difficult because of the inconsistent, unintuitive, atypical, and nonobvious prefixes that mean 'not'.**   
+<cite>DadJokes09</cite>
