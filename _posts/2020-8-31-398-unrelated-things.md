@@ -1,6 +1,6 @@
 ---
-title:  #398 - Bunch of Unrelated Things
-excerpt: A smattering of little stuff
+title:  "#398 - Bunch of Unrelated Things"
+excerpt: "A smattering of little stuff"
 header:
   overlay_image: /assets/images/post-splash.jpg
   teaser: /assets/images/389-quarantine-tp.jpg
@@ -8,8 +8,6 @@ tags:
   - THOUGHTS
   - NERDCRED
 ---
-
-NOTE TO SELF - maybe proof this. Also you need a quote and a picture of some sort. Probably do your 30 day challenge doodle?
 
 # Random Little Things I've Wanted to Write About for a While
 
