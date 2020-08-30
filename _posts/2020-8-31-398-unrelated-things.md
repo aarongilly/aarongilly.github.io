@@ -1,9 +1,8 @@
 ---
 title:  #398 - Bunch of Unrelated Things
-excerpt: xxxsummaryofpostxxx
+excerpt: A smattering of little stuff
 header:
   overlay_image: /assets/images/post-splash.jpg
-  caption: “Photo credit: xxxremoveifnotnecessary.”
   teaser: /assets/images/389-quarantine-tp.jpg
 tags:
   - THOUGHTS
@@ -31,7 +30,7 @@ The above example is just one of a million little dumb things that "you just hav
 
 If I were to construct a language ([which is a fool's errand](https://en.wikipedia.org/wiki/Constructed_language)), it would be an [atonal language](https://simple.wikipedia.org/wiki/Tone_language) with unique symbols for each [phoneme](https://en.wikipedia.org/wiki/Phoneme). Google tells me there's somewhere between 40 and 45 phonemes in English. Memorizing 45 letters would be easier than memorizing 26 different letters, most of which have multiple different forms/pronunciations. Moreover, my "letters" would all fit in the same basic shape, a square. It would be something like this:
 
-!!!insert picture here
+![dumb idea](https://lh3.googleusercontent.com/pw/ACtC-3fLeX5ZuxpYmQJGybia-XM2brep0XVTRBDJ7tVw5JuGxCFunZmAOJ4GykxUiTZdrg4f0pD0BVnpC_xL5e_E5Bgpb3EsObBbuLOXGtE6RqJ0otqKBao64_MKg6c9KlSa6WS5HornkCfOshlDNvvzYqVvPw=w600)
 
 Then you could fit letters inside of neat rows and columns, you would always know exactly how to pronounce every word, even if you didn't know what it meant. Sounding it out.
 
