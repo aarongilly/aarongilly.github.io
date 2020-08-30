@@ -73,9 +73,9 @@ Not shown in that list, because it's personal to each of us, are the following t
 Note: see also my [Income Tax Overview Gillespedia article](https://aarongilly.com/gillespedia/income-tax/) for more on taxes.
 
 ## How much is an hour of my time worth?  
-I got this technique from Daniel Levitin's "[The Organized Mind](https://www.penguinrandomhouse.com/books/313653/the-organized-mind-by-daniel-j-levitin/".
+I got this technique from Daniel Levitin's "[The Organized Mind](https://www.penguinrandomhouse.com/books/313653/the-organized-mind-by-daniel-j-levitin/)".
 
-Pro Tip: in order to make some decisions easier, calculate the value of your time. Ask yourself, how much if an hour of my time worth? If someone asked me to do a menial (note: not particularly terrible, nor particularly fun) task for an hour... how much would they have to give you to make it "worth your time"?
+**Pro Tip**: in order to make some decisions easier, calculate the value of your time. Ask yourself, how much if an hour of my time worth? If someone asked me to do a menial (note: not particularly terrible, nor particularly fun) task for an hour... how much would they have to give you to make it "worth your time"?
 
 Figure that out. Once you know how much money you’d be willing to lose to gain an hour, you can apply that knowledge in a few different decision-making scenarios:
 
