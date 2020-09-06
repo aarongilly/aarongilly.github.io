@@ -20,7 +20,7 @@ If you like that product, it's your niche (rhymes with "itch").
 
 For a few weeks this was the only example of part-of-speech-dependent-pronunciations I could think of... until last night. 
 
-It's a good practice to use citations, you should always attribute (at-TRIB-ute) your source. Contentious people like to give credit where credit's due - and contentiousness is a good attribute (ATT-rib-ute).
+It's a good practice to use citations, you should always attribute (at-TRIB-ute) your source. conscientious people like to give credit where credit's due - and conscientiousness is a good attribute (ATT-rib-ute).
 
 ## English is Dumb  
 
