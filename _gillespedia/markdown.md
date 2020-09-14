@@ -8,21 +8,11 @@ header:
    teaser: https://lh3.googleusercontent.com/pw/ACtC-3evmk2lAqS1UmvcOfWgjCdlJrkVPCL0sh4JVY4x4nf6-8kBqgKy2LEQF-98RgZflgYrf5KR5ap5i7MJE0b1IoCWgjfiLOj_7arm-cv79EN-PW6PcBAKopwnUV1w2sdDhF-4Nqkz9_AI2nB7bg2-eRk03g=w250
 ---
 
-# What is Markdown
+Markdown is a text-based text styling language. In layman's terms, it is a couple of additional characters you put in your writing that the computer uses to change how it looks. It allows you to do things like **bold**, *italicize*, and [hyperlink](https://en.wikipedia.org/wiki/Hyperlink) your text without taking your hands off the keyboard. 
 
-Markdown is a text-based text styling language. In layman's terms, it is a couple of additional characters you put in your writing that the computer uses to change how it looks. It allows you to do things like **bold** and *italicize* your text without taking your hands off the keyboard. 
-
-## Some History
+# Some History
 
 Markdown was first codified into a standard in 2006 by a guy named John Gruber, whom I know nothing about, in collaboration with a guy named Aaron Swartz, whom I know enough about to say he died way too early and contributed more to the world of technology than I'll ever accomplish.
-
-## A Brief Aside on Text Styling
-
-Rest assured, dear reader, I'm certain this does not apply to you. I wanted to state that up front.
-
-Why does nobody use text styles? I have worked with multiple dozens of people in the context of Word and Google Docs, and almost *never* does anyone utilize proper "styling" options. Everybody who wants to create a new paragraph hits Enter twice. Everybody who wants a new header just makes the font bigger. The worst is when people who want a new page just enter a ton of blank lines until they get down to the next page. There are proper solutions for **all** of these situations, and they scale much more nicely.
-
-Aside over. Back to Markdown.
 
 # Why is it Popular?
 
@@ -31,19 +21,41 @@ Turns out people are both lazy and expressive. We want the ability to write with
 More than that, Markdown serves a purpose of creating a simple text formatting language that can be interpreted by a large number of clients in different environments. If you export your MicroSoft Word files and then try to open them with other applications, you'll find that there aren't a *ton* of available options for you. Moreover, all the available options will come with some sort of interpretation errors.  The core Markdown syntax notation is entirely portable, meaning you can copy your stylized text from one place and put it in another, and it will *probably* look like what you'd expect. Better yet, Markdown was designed to be human-readable. So, even if you look at **plain text Markdown** you'll not only be able to *read* it, you'll probably be able to read it almost as effectively as you would if it were stylized.
 
 ```
-This text is written in *Markdown*. Even if it's not 
-properly formatted you can **still** read it pretty 
-easily. 
-Even links are pretty simple. Read more [here](https://www.markdownguide.org)
+# Avengers Movies
+
+Marvel’s "The Avengers" came out in 2012 and changed the landscape of cinema. It combined heroes from **five** different movies that came before it into one super team. At the time it seemed like an impossible feat - but they’d go on to not only *repeat* that success, but to **blow it out of the water**.
+
+## Avengers at the Box Office
+
+Box office numbers don’t lie; The Avengers are **huge**:
+- Marvel’s The Avengers made $1.529B
+- Avengers: Age of Ultron made $1.403B
+- Captain America: Civil War made $1.153B
+  - This definitely counts
+- Avengers: Infinity War made $2.048B
+- Avengers: Endgame made **$2.798B** and is currently the highest-grossing movie of all time
+
+source: [Google](https://www.google.com/search?q=avengers+movies+box+office)
 ```
 
 Compare that to html...
 ```
-<p>This text is written in <i>HTML</i>. If it's not
-properly formatted it is <b>not as easy</b> to read.</p>
-<p>An easy example to see is with hyperlinks, they are much
-harder to read in HTML than they are in  
-<a href="http://www.markdownguide.org>Markdown</a></p>
+<h1 id="avengers-movies">Avengers Movies</h1>
+<p>Marvel’s "The Avengers" came out in 2012 and changed the landscape of cinema. It combined heroes from <strong>five</strong> different movies that came before it into one super team. At the time it seemed like an impossible feat - but they’d go on to not only <em>repeat</em> that success, but to <strong>blow it out of the water</strong>.</p>
+<h2 id="avengers-at-the-box-office">Avengers at the Box Office</h2>
+<p>Box office numbers don’t lie; The Avengers are <strong>huge</strong>:</p>
+<ul>
+<li>Marvel’s The Avengers made $1.529B</li>
+<li>Avengers: Age of Ultron made $1.403B</li>
+<li>Captain America: Civil War made $1.153B<ul>
+<li>This definitely counts</li>
+</ul>
+</li>
+<li>Avengers: Infinity War made $2.048B</li>
+<li>Avengers: Endgame made <strong>$2.798B</strong> and is currently the highest-grossing movie of all time</li>
+</ul>
+<p>source: <a href="https://www.google.com/search?q=avengers+movies+box+office">Google</a></p>
+
 ```
 
 # Where can you use it?
