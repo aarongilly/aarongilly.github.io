@@ -1,6 +1,9 @@
 ---
 title: Markdown
 excerpt: A portable shorthand for text styling.
+date: "2020-09-13"
+categories:
+- "techology"
 header:
    teaser: https://lh3.googleusercontent.com/pw/ACtC-3evmk2lAqS1UmvcOfWgjCdlJrkVPCL0sh4JVY4x4nf6-8kBqgKy2LEQF-98RgZflgYrf5KR5ap5i7MJE0b1IoCWgjfiLOj_7arm-cv79EN-PW6PcBAKopwnUV1w2sdDhF-4Nqkz9_AI2nB7bg2-eRk03g=w250
 ---
@@ -28,12 +31,19 @@ Turns out people are both lazy and expressive. We want the ability to write with
 More than that, Markdown serves a purpose of creating a simple text formatting language that can be interpreted by a large number of clients in different environments. If you export your MicroSoft Word files and then try to open them with other applications, you'll find that there aren't a *ton* of available options for you. Moreover, all the available options will come with some sort of interpretation errors.  The core Markdown syntax notation is entirely portable, meaning you can copy your stylized text from one place and put it in another, and it will *probably* look like what you'd expect. Better yet, Markdown was designed to be human-readable. So, even if you look at **plain text Markdown** you'll not only be able to *read* it, you'll probably be able to read it almost as effectively as you would if it were stylized.
 
 ```
-Markdown block of stylized text
+This text is written in *Markdown*. Even if it's not 
+properly formatted you can **still** read it pretty 
+easily. 
+Even links are pretty simple. Read more [here](https://www.markdownguide.org)
 ```
 
 Compare that to html...
 ```
-same block, but html
+<p>This text is written in <i>HTML</i>. If it's not
+properly formatted it is <b>not as easy</b> to read.</p>
+<p>An easy example to see is with hyperlinks, they are much
+harder to read in HTML than they are in  
+<a href="http://www.markdownguide.org>Markdown</a></p>
 ```
 
 # Where can you use it?
