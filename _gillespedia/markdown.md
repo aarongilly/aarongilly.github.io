@@ -3,7 +3,7 @@ title: Markdown
 excerpt: A portable shorthand for text styling.
 date: "2020-09-13"
 categories:
-- "techology"
+- "technology"
 header:
    teaser: https://lh3.googleusercontent.com/pw/ACtC-3evmk2lAqS1UmvcOfWgjCdlJrkVPCL0sh4JVY4x4nf6-8kBqgKy2LEQF-98RgZflgYrf5KR5ap5i7MJE0b1IoCWgjfiLOj_7arm-cv79EN-PW6PcBAKopwnUV1w2sdDhF-4Nqkz9_AI2nB7bg2-eRk03g=w250
 ---
@@ -71,7 +71,7 @@ The beauty of Markdown is that it *can* be used **anywhere**. You can open notep
 - Obsidian
 - Most coding README files
 
-All these services (and hundreds more) will turn '\**this\**' into '**this**'.
+All these services (and hundreds more) will turn '\*\*this\*\*' into '**this**'.
 
 # How do you Markdown?
 
