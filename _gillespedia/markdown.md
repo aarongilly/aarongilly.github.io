@@ -1,9 +1,8 @@
 ---
-title: "Markdown"
-excerpt: "A portable shorthand for text styling."
+title: Markdown
+excerpt: A portable shorthand for text styling.
 header:
-   teaser: "..."
-mathjax: true
+   teaser: https://lh3.googleusercontent.com/pw/ACtC-3evmk2lAqS1UmvcOfWgjCdlJrkVPCL0sh4JVY4x4nf6-8kBqgKy2LEQF-98RgZflgYrf5KR5ap5i7MJE0b1IoCWgjfiLOj_7arm-cv79EN-PW6PcBAKopwnUV1w2sdDhF-4Nqkz9_AI2nB7bg2-eRk03g=w250
 ---
 
 # What is Markdown
@@ -46,7 +45,11 @@ The beauty of Markdown is that it *can* be used **anywhere**. You can open notep
 - Notion
 - Dropbox Paper
 - Bear
-- 
+- Roam
+- Obsidian
+- Most coding README files
+
+All these services (and hundreds more) will turn '\**this\**' into '**this**'.
 
 # How do you Markdown?
 
@@ -54,23 +57,68 @@ The beauty of Markdown is that it *can* be used **anywhere**. You can open notep
 
 ### Basic Styling
 
-Bold
+The whole idea of Markdown is that you're not taking your hands off the keyboard.
 
-Italic
+Italic - surround the text to be italicized with single asterisks.
 
-Quote
+~~~
+This text is not italic, other than *these two* words.
+~~~
 
-Unordered List
+Bold - surround the text to be bolded with double asterisks.
 
-Ordered Lists
+~~~
+You can write like **this** if you're feeling **particularly bold**.
+~~~
+
+Block quote - start each line to included in the block quote with a greater-than sign. If you don't know what a block quote is...
+
+> A **Block Quote** looks like this.
+
+~~~
+I heard this awesome tip:
+> Block quotes are a good way to make something stand out.
+~~~
+
+Unordered List - start each line to be included in the unordered list with a hyphen (or asterisk), then a space.
+
+~~~
+Things Dwight enjoys:
+- Bears
+- Beats
+- Battlestar Gallactica
+~~~
+
+Ordered Lists - start each line to be included in the ordered list with a number... weirdly you can use *any* number, and it will automatically render with proper order.
+
+~~~
+Steps for making a sandwich:
+1. Get bread
+2. Get ingredients
+3. Text your mom for help
+~~~
 
 ### Other Things
 
-Hyperlinks
+Hyperlinks - in order to link text, put the text you want to display inside square brackets, and follow them with the hyperlink in parenthesis.
 
-Inline images
+~~~
+This is a [pretty okay website I guess](https://aarongilly.com)
+~~~
 
-To do lists
+Inline images - not *every* place you can use markdown will support inline images, but those that do will use the same syntax as hyperlinks, but with an exclamation point in front.
+
+~~~
+This is a picture of a dog:
+![this text will load if the link is broken](https://images.unsplash.com/photo-1561037404-61cd46aa615b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80)
+~~~
+
+To do lists - this is also not accepted *everywhere*, but places like GitHub and Notion will recognize any line starting with an open and close square bracket as to-do items.
+
+~~~
+[] this is an incomplete task
+[x] this is a completed task
+~~~
 
 ## The 20% of Stuff You Won't
 
@@ -85,3 +133,6 @@ Native markdown has no support for text color changing.
 ### Underlining
 
 Weirdly there is no support for underlining in the standard Markdown syntax. I suspect it's because the syntax was written with the expectation that underlined text would be resereved for links. Frankly I'm okay without underlined text. It's my least favorite *attention* **grabbing** stylization.
+
+# Other Resources
+- [The Official Markdown Guide](https://www.markdownguide.org)
