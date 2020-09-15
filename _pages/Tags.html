@@ -13,7 +13,7 @@ author_profile: true
 <div class="archive__item-teaser">
 <img src=
 {% if teaser contains "://" %}
-  "{{ teaser }}"
+  "{{ teaser | img_url: 'x200'}}"
 {% else %}
   "{{ teaser | relative_url }}"
 {% endif %}
