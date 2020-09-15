@@ -1,9 +1,9 @@
 ---
-title:  "#398 - Bunch of Unrelated Things"
+title:  "#397 - Bunch of Unrelated Things"
 excerpt: "A smattering of little stuff"
 header:
   overlay_image: /assets/images/post-splash.jpg
-  teaser: /assets/images/389-quarantine-tp.jpg
+  teaser: /assets/images/logo-small.PNG
 tags:
   - THOUGHTS
   - NERDCRED
