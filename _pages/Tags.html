@@ -4,13 +4,12 @@ permalink: /tags/
 layout: tags
 author_profile: true
 ---
+{% for post in site.posts limit:1 %}
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
-
-{% for post in site.posts limit:1 %}
 <div class="archive__item-teaser">
 <img src=
 {% if teaser contains "://" %}
