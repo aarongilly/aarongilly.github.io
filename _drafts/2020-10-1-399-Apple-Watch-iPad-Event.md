@@ -1,5 +1,5 @@
 ---
-title:  #399 - Life is Good
+title:  #399 - Apple Watch & iPad Event
 excerpt: A celebration of now.
 header:
   overlay_image: some-picture-from-google-photos-sunflower-edits
@@ -23,13 +23,16 @@ tags:
   - JOKES
 ---
 
-Intro bit if you like. Don’t forget to delete tags you’re not using & set the excerpt at the end. Remember the [kramdown ref](kramdown-ref.md)
+Eagle eyed readers will note this is the 2nd time I've posted a "#399" Column. I had my numbering off upon closer examination (in preparation for my 400th Column celebration... see next time). The number has since been fixed, which means you probably got duplicate email notifications for the same post on subsequent weeks. My bad. I get bothered by inconsistencyes and misteaks. That shou**ld**n't be a surpr*ise* to most of ewe.
 
-# Top Header  
-Some content. 
+# Apple One  
+Cool. So my last post ((about subscription service)[https://aarongilly.com/398-tools/#top-5-digital-subscriptions-i-dont-have-but-probably-should] didn't age well. 
 
-## Heading two  
-Blank lines between headers work well. Two spaces after every necessary line break is good.
+## Another Matrix of Technological Coverage
+Turns out I make these sorts of lists frequently ((example 0)[https://aarongilly.com/44-master-tech-comparison-column/], (example 1)[https://aarongilly.com/199-feature-tech-setup/], (example 2)[https://aarongilly.com/337-apple-icosystem/], (example 3)[https://aarongilly.com/378-macbook/), and (example 4)[https://aarongilly.com/392-jack-of-most-trades/]).
+
+Assumptions: you have a family of at least 3 people to consider & no pre-existing service lock-in.
+
 
 ![An image]({{ site.url }}{{ site.baseurl }}/assets/images/WHATEVER.png)
 
