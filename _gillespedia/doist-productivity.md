@@ -1,12 +1,12 @@
 ---
 title: Doist Productivity Articles
 excerpt: A summary of a summary of some great techniques.
-date: "2020-09-7"
+date: "2020-09-27"
 categories:
 - "productivity"
 - "personal development"
 header:
-   teaser: https://lh3.googleusercontent.com/pw/ACtC-3evmk2lAqS1UmvcOfWgjCdlJrkVPCL0sh4JVY4x4nf6-8kBqgKy2LEQF-98RgZflgYrf5KR5ap5i7MJE0b1IoCWgjfiLOj_7arm-cv79EN-PW6PcBAKopwnUV1w2sdDhF-4Nqkz9_AI2nB7bg2-eRk03g=w250
+   teaser: https://lh3.googleusercontent.com/pw/ACtC-3ft_4xtbvbluDkzDEyhp56pY6qc6AkIMcjerCI7-HV0F8blqFWjAN_LlaguI7bAwycykpr8RRCexvLFG4hTHc3YgaW9zfNPCO2CoRA5ZaTWTBSGnki-QQE2Gd88WIGcjkalqX9hVGg2RScMqDP8Jf38eA=w200
 ---
 
 This article is a summarization of the a [series of articles](https://todoist.com/productivity-methods) on a blog owned and run by the digital productivity company Doist. Their articles are much better and worth a read, but if you're in an hurry... here's a cross section of some really good ideas, triple distilled. 
