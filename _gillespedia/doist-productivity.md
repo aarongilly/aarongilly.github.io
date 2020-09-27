@@ -12,6 +12,8 @@ header:
 This article is a summarization of the a [series of articles](https://todoist.com/productivity-methods) on a blog owned and run by the digital productivity company Doist. Their articles are much better and worth a read, but if you're in an hurry... here's a cross section of some really good ideas, triple distilled. 
 {: .notice}
 
+![frog](https://lh3.googleusercontent.com/pw/ACtC-3fCn7QDQu3OgK4m5ieW5au54pcJvQoTx3N5sBjNKitPLeOPMmGT-uUj6xi1eU1ztBtLv7RJXzoicHNlrj-qb_9h61Arr45PMpX4Akjp7V8glg5QqRoM039ob0XW1R0RgScekN42nU6xybePMdNAYUAp6A=w400)
+
 # Eat the Frog
 
 *Author: Becky Kane*
@@ -41,6 +43,8 @@ Eating the frog ensures you’re putting first things first and giving them your
 Deep work. Focusing on what’s important & ensuring you take at least one step toward it every day. Being proactive, not reactive.
 
 Apparently Gina Trapani eats frogs. Neat.
+
+![commit](https://lh3.googleusercontent.com/pw/ACtC-3fvAugNE5y5y9XSeeuZHEiXOlmvePDvk-kGB62uM0X2pox_MX2yS6ai8Kwnp6qy8j5ON_PoaYkLTjYIQclpNSZAXZHcIUFns-EcqYeJtoNM3g2kAonmcJ71ndJbDMOBNkg_jq_saDhzEKNERoPoQ3jEcA=w400)
 
 # Commitment Inventory
 
@@ -74,6 +78,8 @@ Doing a commitment inventory serves to align the energy you spend with the relat
 
 This productivity method is focused on alignment of action with value. It’s one of several that serve to force you to question why you’re doing the things you’re doing. It attempts to boil down life into manageable categories, then break down the things you want to get done into those categories, and break down further still to the actual actions needed to do them.
 
+![medium](https://lh3.googleusercontent.com/pw/ACtC-3chMyFVmKw5x8oRKX4k8FkQriD9GAY-cn0pyZCbwvrqLsGkXe6d17xRs3S4WOme-zror3D0y7MnXb-IaL2oYqPgx5AIfGLZy_bfCTapw6DCmm4Kp0ryfUZod7GgFBHVYJANtbfz60QvEsHfB3MPycOngw=w400)
+
 # Medium Method
 
 *Author: Chad Hall*
@@ -93,6 +99,8 @@ This felt more appropriate...
 ## Themes
 
 Nightly review. Selectively transcribing what’s important through desired difficulty.
+
+![tomato](https://lh3.googleusercontent.com/pw/ACtC-3cl8yRKQI9FEze6z4y6wGvbEFfNRDJZ9_kN_MvJxLZBs61CvjypLhDu2lFDx5DX2-ejNzyqfjzSMgZU4_iIpacuN4Mfa_kbhPJTGtfHRhUNMl4VD2YfsP4nKcfcF62wD8Bqv34nN6wEQpmowpnFLEkHYg=w400)
 
 # The Pomodoro Technique
 
@@ -119,6 +127,8 @@ This technique also encourages thinking of your tasks in terms of the “Pomodor
 
 Focus on deep work. Not spending more time on tasks than they actually require. Planning & executing the plan. 
 
+![prez](https://lh3.googleusercontent.com/pw/ACtC-3ciqQQ40n-Awd2r_RD2Xlru0NYqd_wPKSWLmIEnDRGmkCr-oCe1r7X2hwRvYo34VevZ5zivoWE8AT95UWtyl5TXnrvMxMgprLKETDM_2syMh2oAK3ntSpXryMXM9q2fKELNHG8oXmS316mwBJ7IRZQFvw=w400)
+
 # Eisenhower Matrix
 
 *Author: Laura Scroggs*
@@ -141,6 +151,8 @@ Because long-term success means more than just focusing on the urgent, and that�
 ## Themes
 
 Thinking about what you’re working on. Aligning your efforts with what promotes long-term success.
+
+![system](https://lh3.googleusercontent.com/pw/ACtC-3cXMD5pzbKQiJx6cZRv1N9Zj372yzncbpE89c_vvifGDCvYdLQmQmLOkrP30sLuFq0Yub4iJ6DQn9Uf9mV05_yBYcmxKbeJGoZ3KUxEyD4tKsRNChX2SfVPyrioHnlYOx2_Nx-2fFFia2zC_e54lp51Mw=w400)
 
 # Systemist
 
@@ -167,6 +179,8 @@ I think this was included because Amir Salhefedic is a founder and CEO of Todois
 ## Themes
 
 Use Todoist... and the same basic productivity advice as anything else. Not bad, just not interesting.
+
+![week](https://lh3.googleusercontent.com/pw/ACtC-3dFhDfwXQ_9GbJrCEJwnZGZweZbB3VorN-JAjJdOacUjnc-G_YWiuBsX816FUFY3myj2bedGOSwJFd0odi_AvYQjQbi2yQXsgbnzlgl3RnjQr7CrkslrGL8Ocmuc90KjckLFDKWEKlnMosd032IzjgJSw=w400)
 
 # Weekly Review
 
@@ -207,6 +221,8 @@ The Weekly Review enables any other productivity habit, goal, or framework you w
 
 Integration. Planning. Goal-setting. Alignment. The Weekly Review is the backbone of everything else.
 
+![goals](https://lh3.googleusercontent.com/pw/ACtC-3e-sbDQH479Zyuxch3G4lZHd9plffOWW5Yn7lN6UG53cQAw-D6lXrFF9rgvHPdEKWlpu14yblL7fDfMcjVZtNUSZHbCuJQ4b2CNa4qzP-Fo_-Td6ToTPw732wDKluZi4BAxQ9WOz3wDAWOqTfsKrPf2iw=w400)
+
 # OKRs
 
 *Author: Becky Kane*
@@ -232,6 +248,8 @@ Aaron’s note: this article in the blog is subpar in terms of explaining “how
 
 Clarity. Alignment. Period reviews separated by focused sessions of activity.
 
+![gtd](https://lh3.googleusercontent.com/pw/ACtC-3fnf0SABRT3jW_505_L_DYWiYVOIy7iDgOAKc5q_vTNGDS_p0GaDWnHnpFVb8ucCgsZcH2oQygO1Qj6jliSd3TCr1eI-ul8QRJ_MoVlhKmU89wl1_dGhtCp0nvjVhUSt_kqjH49EBsTfWW3qDEmCIhCIg=w400)
+
 # GTD
 
 *Author: Laura Scruggs*
@@ -253,6 +271,8 @@ Getting Things Done is a cornerstone of general productivity. It is a set of beh
 ## Themes
 
 Getting things done is all about getting things out of your head so you can focus on the task at hand, and making time and space to get yourself urbanized. 
+
+![time block](https://lh3.googleusercontent.com/pw/ACtC-3eP4fO_9Ly0Qns7OpbuaUBo4Y2sQ2UIVv_izbSmXQf0Ymq0FhaVNgX9F4hOwrgNojL5mKA_G38yPJK6-_3OlN1fvO0KDStIz6VgTC7HnLUq2HXQPwiZg7X56WNBCoZD3aNx8cDGGzwgO0w_sUZBjRezHw=w400)
 
 # Time Blocking
 
