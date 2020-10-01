@@ -2,25 +2,12 @@
 title:  #399 - Apple Watch & iPad Event
 excerpt: A celebration of now.
 header:
-  overlay_image: some-picture-from-google-photos-sunflower-edits
-  caption: “Thanks largely to these two.”
-  teaser: same-picture-but-smaller
+  overlay_image: https://lh3.googleusercontent.com/pw/ACtC-3fFjx2S9wYwZNQ2dojEsfect3bKSUIfu5wwxTyltiRJFVCAWXkhrSbApsb-_zR9QoQ5Nm_KGUDJpMp__YTmIlJ4BIJWcsAZFKHOQngBExpXEW_CiXrQ6DbCEHbHjogYFI1Bo63E43aVk5-RZDFxaYXO8g=w900
+  teaser: https://lh3.googleusercontent.com/pw/ACtC-3fFjx2S9wYwZNQ2dojEsfect3bKSUIfu5wwxTyltiRJFVCAWXkhrSbApsb-_zR9QoQ5Nm_KGUDJpMp__YTmIlJ4BIJWcsAZFKHOQngBExpXEW_CiXrQ6DbCEHbHjogYFI1Bo63E43aVk5-RZDFxaYXO8g=w250
 tags:
   - THOUGHTS
   - NERDCRED
-  - STORYTIME
-  - PICTURES
-  - GOOGLE
-  - OUTLINE
-  - PROJECT
-  - VIDEO
   - NONGOOGLETECH
-  - META
-  - FEATURE
-  - 30DAYS
-  - DRAWINGS
-  - POETRY
-  - JOKES
 ---
 
 Eagle eyed readers will note this is the 2nd time I've posted a "#399" Column. I had my numbering off upon closer examination (in preparation for my 400th Column celebration... see next time). The number has since been fixed, which means you probably got duplicate email notifications for the same post on subsequent weeks. My bad. I get bothered by inconsistencyes and misteaks. That shou**ld**n't be a surpr*ise* to most of ewe.
@@ -47,9 +34,15 @@ If you don't know what they are.
 * Fitness+ - seemingly a competitor to Beachbody &/or Peloton in the space of workout classes you do at home... time well tell exactly what this is
 
 ## Another Matrix of Technological Coverage
-Turns out I make these sorts of lists frequently ((example 0)[https://aarongilly.com/44-master-tech-comparison-column/], (example 1)[https://aarongilly.com/199-feature-tech-setup/], (example 2)[https://aarongilly.com/337-apple-icosystem/], (example 3)[https://aarongilly.com/378-macbook/), and (example 4)[https://aarongilly.com/392-jack-of-most-trades/]). 
+Turns out I make these sorts of lists frequently ((example 0)[https://aarongilly.com/44-master-tech-comparison-column/], (example 1)[https://aarongilly.com/199-feature-tech-setup/], (example 2)[https://aarongilly.com/337-apple-icosystem/], (example 3)[https://aarongilly.com/378-macbook/), and (example 4)[https://aarongilly.com/392-jack-of-most-trades/]).
 
-Assumptions: you have a family of at least 3 people to consider & no pre-existing service lock-in.
+![matrix image](https://lh3.googleusercontent.com/pw/ACtC-3fFjx2S9wYwZNQ2dojEsfect3bKSUIfu5wwxTyltiRJFVCAWXkhrSbApsb-_zR9QoQ5Nm_KGUDJpMp__YTmIlJ4BIJWcsAZFKHOQngBExpXEW_CiXrQ6DbCEHbHjogYFI1Bo63E43aVk5-RZDFxaYXO8g=w900)
+
+Note 1: this assumes you have a family of at least 3 people to consider & no pre-existing service lock-in.
+
+Note 2: there are a ton of other details and decisions I had to make when putting that graphic together. For example, I elected NOT to include the $5/month Android Gaming service "Google Play Pass", because, well frankly it doesn't sound interesting to me personally. This is my blog get over it.
+
+Note 3: I intended to build a much bigger table than this, including things like Software-as-a-Service, specialty services like virtual fitness club membershipes (e.g. Beachbody), and potentially even physical goods (e.g. Blue Apron, Hello Fresh)... but then I ran into the logistical problem of graphics getting too big to be readable. So I had to draw a rather arbitrary line.
 
 ### Case Breakdown
 This whole post lead up to this analysis. I'm going to use it as the Top 5. See below.
@@ -61,21 +54,21 @@ I guess that's all I had to say about that. I'd like nab up one of these at some
 
 # Top 5: Best Subscription Service Combos, by Situation
 {: style="color: red"}
-## 5. If You're Rich
+## 5. The Rich
 {: style="color: red"}
-## 4. 
+Pick all the things. Why choose?
+## 4. The Well Off
 {: style="color: red"}
-## 3. The Life Tracker
+The Disney+, Hulu, ESPN Bundle & HBO MAX or Netflix. Apple's upcoming "One" subscription to cover music, storage, and the additional perks. And Amazon Prime.  
+## 3. The Everyman
 {: style="color: red"}
-The first date with any data in my Life Tracker/Data Journal/Whatever is April 
-
-## 2. A Second-a-Day
+Honestly the old standbys are the defecto solutions for a good reason. Get Netflix, Amazon Prime, Spotify, and use Google Photos and Google Drive.
+## 2. The Discerning Consumer
 {: style="color: red"}
-The first shot from my first Second-a-Day video
-
-## 1. **If You're Broke**
+Amazon Prime for movies, TV, and music. Google Photos and Drive. Two subscriptions. Covers most needs well enough. Not including YouTube Premium drops the Google services from 
+## 1. **The Broke**
 {: style="color: red"}
-There are a litany of free options available to everyone. Utilize Google Drive's generous 15GB of storage for your documents & non-media files. Utilize Google Photos "standard" resolution for your photos and videos. Utilize YouTube (with ads) for your streaming entertainment
+There are a litany of free options available to everyone that aren't included on my table. Utilize Google Drive's generous 15GB of storage for your documents & non-media files. Utilize Google Photos "standard" resolution for your photos and videos. Utilize YouTube (with ads) for your streaming entertainment. Utilize Libby and apps like that for access to Audiobooks. Utilize Spotify's free tier (or any music streamer, really). This and Amazon Prime. It's such a no-brainer. 
 
 {: style="color: green"}
 # Quotes
