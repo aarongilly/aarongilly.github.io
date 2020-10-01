@@ -60,7 +60,7 @@ Unless you have medical conditions that EKGs and/or Blood Oxygen readings are go
 
 I guess that's all I had to say about that. I'd like nab up one of these at some point. 
 
-# To*done*&ist
+# To*done*ist
 One last thing I wanted to mention - in my [previous post](https://aarongilly.com/398-tools/) about the tools I use, the 3rd digital tool on the list was "Todoist". It's a task management application, and frankly it's a *really* good one. 
 
 Yeah we stopped using it last week. The annual subscription was due, and I looked at the built-in "Reminders" app on my phone and thought "what does Todoist do that *this* app doesn't do?". Not much, honestly. That's *not* really to say that Todoist is *bad*, it's just that Apple made their Reminders app pretty *good*. 
@@ -71,7 +71,7 @@ Todoist is still my *main* recommendation for anyone who doesn't always have acc
 
 # Top 5: Best Subscription Service Combos, by Situation
 {: style="color: red"}
-## 5. The Rich _ $152/month
+## 5. The Rich - $152/month
 {: style="color: red"}
 Pick all the things. Why choose?
 ## 4. The Well Off - $76/month
