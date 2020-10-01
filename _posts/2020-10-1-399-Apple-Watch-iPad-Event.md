@@ -47,10 +47,27 @@ Note 3: I intended to build a much bigger table than this, including things like
 ### Case Breakdown
 This whole post lead up to this analysis. I'm going to use it as the Top 5. See below.
 
-# Apple Watch SE
-Unless you have medical conditions that EKGs and/or Blood Oxygen readings are good for, the Apple Watch SE seems like it's the Apple Watch to get. Call me crazy. Always on screens just aren't important enough.
+# Other Apple Announcements from the Event
+Since the introduction of the iPhone 11, Apple has been doing a new thing: they are putting out **really solid** "cheaper" alternatives to their top-of-the-line products. The iPhone 11 isn't as good as the iPhone 11 Pro, but it's darn good. Now the iPad and Apple Watch are getting theirs.
+
+## iPad Air
+The new 4th gen iPad Air is an iPad that *looks* like an iPad Pro, gets you a stellar processor, gets you the thinner bezel, grants you access to the Apple Pencil gen 2 (which is by far and away better than gen 1), and gets you USB C connectivity & charging. Although there are a few "gotchas" (see: 64gb base model, lower refresh rate, touch ID vs Face ID), the $600 iPad Air seems like it's *probably* "the iPad to get".
+
+I wouldn't be surprised to see this selling like absolute madness this holiday season.
+
+## Apple Watch SE
+Unless you have medical conditions that EKGs and/or Blood Oxygen readings are good for, the $279 Apple Watch SE seems like it's "the Apple Watch to get". Call me crazy. Always on screens just aren't important enough.
 
 I guess that's all I had to say about that. I'd like nab up one of these at some point. 
+
+# To*done*&ist
+One last thing I wanted to mention - in my [previous post](https://aarongilly.com/398-tools/) about the tools I use, the 3rd digital tool on the list was "Todoist". It's a task management application, and frankly it's a *really* good one. 
+
+Yeah we stopped using it last week. The annual subscription was due, and I looked at the built-in "Reminders" app on my phone and thought "what does Todoist do that *this* app doesn't do?". Not much, honestly. That's *not* really to say that Todoist is *bad*, it's just that Apple made their Reminders app pretty *good*. 
+
+We've been using Reminders exclusively for the past couple weeks and, I gotta say, there's really not much of a dip in my day to day GTD efficacy. The few things that Todoist does better (more nested projects, more integrations on the web, and the ability to filter based on task assignee) are basically offset by the things that Reminders does better (great integration with Siri, location-based reminders for free, legitimate integration with iOS Shortcuts). For now, I'm quite contented.
+
+Todoist is still my *main* recommendation for anyone who doesn't always have access to their phone... but if you *do*. I reckon the Reminders app is worth a shot.
 
 # Top 5: Best Subscription Service Combos, by Situation
 {: style="color: red"}
