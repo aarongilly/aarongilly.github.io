@@ -80,9 +80,12 @@ The Disney+, Hulu, ESPN Bundle & HBO MAX or Netflix. Apple's upcoming "One" subs
 ## 3. The Everyman - ~$46/month
 {: style="color: red"}
 Honestly the old standbys are the defecto solutions for a good reason. Rotate between Netflix, Hulu, and HBO Max each month. Get Amazon Prime, Spotify, and use Google Photos and Google Drive.
+## 3a. The Everyman Alt - $40/month
+{: style="color: red"}
+Pair the new "Apple One" subscription with Amazon Prime. You get music, storage, Apple TV, and some other neat perks from Apple, you get Amazon Prime Video to bolster the Apple TV catalog and get that 2-day shipping.
 ## 2. The Discerning Consumer - $18/month
 {: style="color: red"}
-Amazon Prime for movies, TV, and music. Google Photos and Drive. Two subscriptions. Covers most needs well enough. Not including YouTube Premium drops the Google services from 
+Amazon Prime for movies, TV, and music. Google Photos and Drive. Two subscriptions. Covers most needs well enough. Not including YouTube Premium drops the Google services from $31/month to just over $8/month.
 ## 1. **The Broke** - $0/month
 {: style="color: red"}
 There are a litany of free options available to everyone that aren't included on my table. Utilize Google Drive's generous 15GB of storage for your documents & non-media files. Utilize Google Photos "standard" resolution for your photos and videos. Utilize YouTube (with ads) for your streaming entertainment. Utilize Libby and apps like that for access to Audiobooks. Utilize Spotify's free tier (or any music streamer, really). This barely scratches the surface of the free options out there.
