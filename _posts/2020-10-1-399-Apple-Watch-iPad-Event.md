@@ -79,7 +79,7 @@ Pick all the things. Why choose?
 The Disney+, Hulu, ESPN Bundle & HBO MAX or Netflix. Apple's upcoming "One" subscription to cover music, storage, and the additional perks. And Amazon Prime.  
 ## 3. The Everyman - ~$46/month
 {: style="color: red"}
-Honestly the old standbys are the defecto solutions for a good reason. Get Netflix, Amazon Prime, Spotify, and use Google Photos and Google Drive.
+Honestly the old standbys are the defecto solutions for a good reason. Rotate between Netflix, Hulu, and HBO Max each month. Get Amazon Prime, Spotify, and use Google Photos and Google Drive.
 ## 2. The Discerning Consumer - $18/month
 {: style="color: red"}
 Amazon Prime for movies, TV, and music. Google Photos and Drive. Two subscriptions. Covers most needs well enough. Not including YouTube Premium drops the Google services from 
