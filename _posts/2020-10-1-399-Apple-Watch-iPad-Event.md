@@ -2,21 +2,24 @@
 title:  "#399 - Apple Watch & iPad Event"
 excerpt: Just immediately throw out that last post.
 header:
-  overlay_image: https://lh3.googleusercontent.com/pw/ACtC-3fFjx2S9wYwZNQ2dojEsfect3bKSUIfu5wwxTyltiRJFVCAWXkhrSbApsb-_zR9QoQ5Nm_KGUDJpMp__YTmIlJ4BIJWcsAZFKHOQngBExpXEW_CiXrQ6DbCEHbHjogYFI1Bo63E43aVk5-RZDFxaYXO8g=w900
-  teaser: https://lh3.googleusercontent.com/pw/ACtC-3fFjx2S9wYwZNQ2dojEsfect3bKSUIfu5wwxTyltiRJFVCAWXkhrSbApsb-_zR9QoQ5Nm_KGUDJpMp__YTmIlJ4BIJWcsAZFKHOQngBExpXEW_CiXrQ6DbCEHbHjogYFI1Bo63E43aVk5-RZDFxaYXO8g=w350
+  overlay_image: https://lh3.googleusercontent.com/pw/ACtC-3cey9sVUpPV7XuIRsXHksw0SiY_Kk5v2i9jle7mtgaZtB7S6GY781sDPYrHKRvifgmBLfTMjAz_sjPIEi4Bi3MDiRZg8dQZ7G5gIaHVFNnz2rszwiPGmkX0tdhVo4IC6tSIpwEUdcKI0Aayy3la7NKc1w=w900
+  teaser: https://lh3.googleusercontent.com/pw/ACtC-3cey9sVUpPV7XuIRsXHksw0SiY_Kk5v2i9jle7mtgaZtB7S6GY781sDPYrHKRvifgmBLfTMjAz_sjPIEi4Bi3MDiRZg8dQZ7G5gIaHVFNnz2rszwiPGmkX0tdhVo4IC6tSIpwEUdcKI0Aayy3la7NKc1w=w350
 tags:
   - THOUGHTS
   - NERDCRED
   - NONGOOGLETECH
 ---
 
+**EDITOR'S NOTE**: Suddenly all the images from the past (many) Columns are broken. My image host solution (Google Photos) is NOT working for me at the moment. I've attempted to fix the issue for THIS post, but the older posts will stay broken until I find a better fix going forward.
+{: .notice--warning} 
+
 Eagle eyed readers will note this is the 2nd time I've posted a "#399" Column. I had my numbering off upon closer examination (in preparation for my 400th Column celebration... see next time). The number has since been fixed, which means you probably got duplicate email notifications for the same post on subsequent weeks. My bad. I get bothered by inconsistencyes and misteaks. That shou**ld**n't be a surpr*ise* to most of ewe.
 
 # Apple One  
-Cool. So my last post ((about subscription service)[https://aarongilly.com/398-tools/#top-5-digital-subscriptions-i-dont-have-but-probably-should] didn't age well. Apple gone and done it. They've created an Apple subscription services bundle. They named it "Apple One", and the fact that nobody I've seen has called them on their complete replication of the "Google One" subscription service naming convention just goes to show how completely nonimpactful Google One has been.
+Cool. So my last post ([about subscription service](https://aarongilly.com/398-tools/#top-5-digital-subscriptions-i-dont-have-but-probably-should) didn't age well. Apple gone and done it. They've created an Apple subscription services bundle. They named it "Apple One", and the fact that nobody I've seen has called them on their complete replication of the "Google One" subscription service naming convention just goes to show how completely nonimpactful Google One has been.
 
 ## Apple One Tiers
-There are 3 levels of Apple One. All of them get you Music, Arcade, and TV+. They also each get you some level of iCloud storage, ranging from homopatheic[^1] amounts of storage, to legitimate amounts. The highest tier grants access to a couple other services as well.
+There are 3 levels of Apple One. All of them get you Music, Arcade, and TV+. They also each get you some level of iCloud storage, ranging from homeopathic[^1] amounts of storage, to legitimate amounts. The highest tier grants access to a couple other services as well.
 
 | Tier       | Price            | Music | Arcade | iCloud | TV+ | News+ | Fitness+ |
 |------------|------------------|-------|--------|--------|-----|-------|----------|
@@ -36,13 +39,13 @@ If you don't know what they are.
 ## Another Matrix of Technological Coverage
 Turns out I make these sorts of lists frequently ([example 0](https://aarongilly.com/44-master-tech-comparison-column/), [example 1](https://aarongilly.com/199-feature-tech-setup/), [example 2](https://aarongilly.com/337-apple-icosystem/), [example 3](https://aarongilly.com/378-macbook/), and [example 4](https://aarongilly.com/392-jack-of-most-trades/)).
 
-![matrix image](https://lh3.googleusercontent.com/pw/ACtC-3fFjx2S9wYwZNQ2dojEsfect3bKSUIfu5wwxTyltiRJFVCAWXkhrSbApsb-_zR9QoQ5Nm_KGUDJpMp__YTmIlJ4BIJWcsAZFKHOQngBExpXEW_CiXrQ6DbCEHbHjogYFI1Bo63E43aVk5-RZDFxaYXO8g=w900)
+![matrix image](https://lh3.googleusercontent.com/pw/ACtC-3cey9sVUpPV7XuIRsXHksw0SiY_Kk5v2i9jle7mtgaZtB7S6GY781sDPYrHKRvifgmBLfTMjAz_sjPIEi4Bi3MDiRZg8dQZ7G5gIaHVFNnz2rszwiPGmkX0tdhVo4IC6tSIpwEUdcKI0Aayy3la7NKc1w=w900)
 
 Note 1: this assumes you have a family of at least 3 people to consider & no pre-existing service lock-in.
 
 Note 2: there are a ton of other details and decisions I had to make when putting that graphic together. For example, I elected NOT to include the $5/month Android Gaming service "Google Play Pass", because, well frankly it doesn't sound interesting to me personally. This is my blog get over it.
 
-Note 3: I intended to build a much bigger table than this, including things like Software-as-a-Service, specialty services like virtual fitness club membershipes (e.g. Beachbody), videogame platforms (e.g. Xbox Game Pass), and potentially even physical goods (e.g. Blue Apron, Hello Fresh)... but then I ran into the logistical problem of graphics getting too big to be readable. So I had to draw a rather arbitrary line.
+Note 3: I intended to build a much bigger table than this, including things like Software-as-a-Service, specialty services like virtual fitness club memberships (e.g. Beachbody), videogame platforms (e.g. Xbox Game Pass), and potentially even physical goods (e.g. Blue Apron, Hello Fresh)... but then I ran into the logistical problem of graphics getting too big to be readable. So I had to draw a rather arbitrary line.
 
 ### Case Breakdown
 This whole post lead up to this analysis. I'm going to use it as the Top 5. See below.
@@ -79,7 +82,7 @@ Pick all the things. Why choose?
 The Disney+, Hulu, ESPN Bundle & HBO MAX or Netflix. Apple's upcoming "One" subscription to cover music, storage, and the additional perks. And Amazon Prime.  
 ## 3. The Everyman - ~$46/month
 {: style="color: red"}
-Honestly the old standbys are the defecto solutions for a good reason. Rotate between Netflix, Hulu, and HBO Max each month. Get Amazon Prime, Spotify, and use Google Photos and Google Drive.
+Honestly the old standbys are the defacto solutions for a good reason. Rotate between Netflix, Hulu, and HBO Max each month. Get Amazon Prime, Spotify, and use Google Photos and Google Drive.
 ## 3a. The Everyman Alt - $40/month
 {: style="color: red"}
 Pair the new "Apple One" subscription with Amazon Prime. You get music, storage, Apple TV, and some other neat perks from Apple, you get Amazon Prime Video to bolster the Apple TV catalog and get that 2-day shipping.
