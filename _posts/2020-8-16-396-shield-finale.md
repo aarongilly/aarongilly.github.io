@@ -61,7 +61,7 @@ Agents of S.H.I.E.L.D. was a dense show. One thing I always appreciated about it
 - **There's Terrigen in Fish Oil pills!** This was very exciting. It sort of got forgotten about quickly, though.
 - **Yoyo is bad, then good.** Yoyo was fine. She was never given anything interesting to do, really.
 - **May's ex-husband is huge Inhuman-hunting Inhuman monster**. Not bad.
-- **What's the Monster on the planet that Simmons was stuck on?" This one had huge implications in the lore, but the whole "Hydra is actually a secret religion for an Inhuman monster that was banished to another planet" thing is definitely never getting brought back up. Hive is a zombie-making monster.
+- **What's the Monster on the planet that Simmons was stuck on?** This one had huge implications in the lore, but the whole "Hydra is actually a secret religion for an Inhuman monster that was banished to another planet" thing is definitely never getting brought back up. Hive is a zombie-making monster.
 - **Ward is Hive now**. Sure. Glad to see Brett Dalton given more to do.
 - **Ward is going to make the whole world Inhuman?** I have zero recollection of this.
 - **Who is going to be in the Quinjet when it explodes?"** This was a well-done TV Mystery. And it was great to get rid of Lincoln. Dude sucked.
