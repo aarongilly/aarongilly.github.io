@@ -12,7 +12,7 @@ header:
 This article is a summarization of the a [series of articles](https://todoist.com/productivity-methods) on a blog owned and run by the digital productivity company Doist. Their articles are much better and worth a read, but if you're in an hurry... here's a cross section of some really good ideas, triple distilled. 
 {: .notice}
 
-![frog](https://lh3.googleusercontent.com/pw/ACtC-3fCn7QDQu3OgK4m5ieW5au54pcJvQoTx3N5sBjNKitPLeOPMmGT-uUj6xi1eU1ztBtLv7RJXzoicHNlrj-qb_9h61Arr45PMpX4Akjp7V8glg5QqRoM039ob0XW1R0RgScekN42nU6xybePMdNAYUAp6A=w400)
+![frog](https://lh3.googleusercontent.com/pw/ACtC-3dw3TyPhqgK9ucuhbPqeuBhR0d1GPpEa_WM9DixaL9JnjQNHbAJymKhuov0gtyue7RoA-o_9lhFF3zRxK11gMy6ODKUVWlY5o0BXjCXjNZ70zGoEvuzXENCjLpu6xxTmAMtCaIx3a3PGrMcryW2zUqHqg=w400)
 
 # Eat the Frog
 
