@@ -44,7 +44,7 @@ Deep work. Focusing on what’s important & ensuring you take at least one step 
 
 Apparently Gina Trapani eats frogs. Neat.
 
-![commit](https://lh3.googleusercontent.com/pw/ACtC-3fvAugNE5y5y9XSeeuZHEiXOlmvePDvk-kGB62uM0X2pox_MX2yS6ai8Kwnp6qy8j5ON_PoaYkLTjYIQclpNSZAXZHcIUFns-EcqYeJtoNM3g2kAonmcJ71ndJbDMOBNkg_jq_saDhzEKNERoPoQ3jEcA=w400)
+![commit](https://lh3.googleusercontent.com/pw/ACtC-3evThHD_w7XFGoKW4oZLkODyQSXauhiYfWKxdEWpNGzA07YL-UGUITz0F_IuapzlvPe0OGBT5jse6JjseZdt34M8GfWzhq-0f8QWj1gNJaVrzxMzPUYKnghaZ-KVshZLRb7y7s6Zj9wB9Zd3xLR9iy1Xw=w400)
 
 # Commitment Inventory
 
@@ -78,7 +78,7 @@ Doing a commitment inventory serves to align the energy you spend with the relat
 
 This productivity method is focused on alignment of action with value. It’s one of several that serve to force you to question why you’re doing the things you’re doing. It attempts to boil down life into manageable categories, then break down the things you want to get done into those categories, and break down further still to the actual actions needed to do them.
 
-![medium](https://lh3.googleusercontent.com/pw/ACtC-3chMyFVmKw5x8oRKX4k8FkQriD9GAY-cn0pyZCbwvrqLsGkXe6d17xRs3S4WOme-zror3D0y7MnXb-IaL2oYqPgx5AIfGLZy_bfCTapw6DCmm4Kp0ryfUZod7GgFBHVYJANtbfz60QvEsHfB3MPycOngw=w400)
+![medium]https://lh3.googleusercontent.com/pw/ACtC-3fCQKD_wiqRDeBaB8uvj2bSKaT9ExVHiZYyw3GXKLorhRrYw7T1FxPYycwnXgxp7RfBozxK2nFygmNUJ-gT_UKcBD1H8X8v8ZIpKHJvnYHnTYOqvxF5ATAg8Ue2CiyoieQlw_RmoSDcNZJM-Y0mhXPZxw=w400)
 
 # Medium Method
 
@@ -94,13 +94,13 @@ Some people work best with pen and paper. Almost everyone could benefit from usi
 
 This felt more appropriate...
 
-![a drawn-out version of notes](https://lh3.googleusercontent.com/pw/ACtC-3dVJhTu4kgsWSWqwQ8BR5LAd9LWL0n5189x6lTXw9sZZqevsYlV7MBIrq7pdc4EcUUaztUqT_ZB9nCtajXjl_1Ao3GniHlBSleRis4v6yooWjKABrDvLRoRheKfa0wusJZGv-Nrk1jS4M9_cZzlxX1KvA=w700)
+![a drawn-out version of notes](https://lh3.googleusercontent.com/pw/ACtC-3dc7dFNQ4wTaFJ4YcXAsskaf3_Loty_um-S_gV-DmUpbLzZmh4A50Nx6yq9dni5mg_efOBDURluN6Hi6tGk4kZc28aMP4aEgWoeFyx38I9Mcbbp6u46OX0qPs4u5GQ2onJgMXGTu2jP2rMMQrFCqjikoQ=w700)
 
 ## Themes
 
 Nightly review. Selectively transcribing what’s important through desired difficulty.
 
-![tomato](https://lh3.googleusercontent.com/pw/ACtC-3cl8yRKQI9FEze6z4y6wGvbEFfNRDJZ9_kN_MvJxLZBs61CvjypLhDu2lFDx5DX2-ejNzyqfjzSMgZU4_iIpacuN4Mfa_kbhPJTGtfHRhUNMl4VD2YfsP4nKcfcF62wD8Bqv34nN6wEQpmowpnFLEkHYg=w400)
+![tomato](https://lh3.googleusercontent.com/pw/ACtC-3cfSo2vGf5OohHj86fgaGJ3niDDDL8bmXs5UqK10piP8n7DhdoVUaqihI6mMSaNDTY1TbY7YKaAIh4xrCIGY1t_42XRUPefe2pgmFnjNv4gKjYJunROvSL0vMMN6zWztk6cz29Onph4gs3A3OvOip1YWA=w400)
 
 # The Pomodoro Technique
 
@@ -127,7 +127,7 @@ This technique also encourages thinking of your tasks in terms of the “Pomodor
 
 Focus on deep work. Not spending more time on tasks than they actually require. Planning & executing the plan. 
 
-![prez](https://lh3.googleusercontent.com/pw/ACtC-3ciqQQ40n-Awd2r_RD2Xlru0NYqd_wPKSWLmIEnDRGmkCr-oCe1r7X2hwRvYo34VevZ5zivoWE8AT95UWtyl5TXnrvMxMgprLKETDM_2syMh2oAK3ntSpXryMXM9q2fKELNHG8oXmS316mwBJ7IRZQFvw=w400)
+![prez](https://lh3.googleusercontent.com/pw/ACtC-3cfWn6P5O8esRXmz-x-pLZ5-colrgBoYgX_I6GOSOEUmLYn-m7jOtv0lztKjEThVreykv9p0hEBWMrsvFHGylJAIFQ-U_Wk9f4CoroOTdr53TU8p4hlz4PdLPsOiHiRkcfxb90D1yGzbkyWVTB6_BDNPg=w400)
 
 # Eisenhower Matrix
 
@@ -152,7 +152,7 @@ Because long-term success means more than just focusing on the urgent, and that�
 
 Thinking about what you’re working on. Aligning your efforts with what promotes long-term success.
 
-![system](https://lh3.googleusercontent.com/pw/ACtC-3cXMD5pzbKQiJx6cZRv1N9Zj372yzncbpE89c_vvifGDCvYdLQmQmLOkrP30sLuFq0Yub4iJ6DQn9Uf9mV05_yBYcmxKbeJGoZ3KUxEyD4tKsRNChX2SfVPyrioHnlYOx2_Nx-2fFFia2zC_e54lp51Mw=w400)
+![system](https://lh3.googleusercontent.com/pw/ACtC-3d0TTx4k4Z9gGqNBjfWIKRG6QZ_m5NZR8T_A0F-p25D3HM2SJJrJuUFk3f_1jZqKl14I6O3R_NCAYc6ugbPv8KNnX2rx4tmJAMwtO52_NWEP9VRNNnIzGLFfVSqdArIRF-RReQMsxNXiuP1amj7x7UVTg=w400)
 
 # Systemist
 
@@ -180,7 +180,7 @@ I think this was included because Amir Salhefedic is a founder and CEO of Todois
 
 Use Todoist... and the same basic productivity advice as anything else. Not bad, just not interesting.
 
-![week](https://lh3.googleusercontent.com/pw/ACtC-3dFhDfwXQ_9GbJrCEJwnZGZweZbB3VorN-JAjJdOacUjnc-G_YWiuBsX816FUFY3myj2bedGOSwJFd0odi_AvYQjQbi2yQXsgbnzlgl3RnjQr7CrkslrGL8Ocmuc90KjckLFDKWEKlnMosd032IzjgJSw=w400)
+![week](https://lh3.googleusercontent.com/pw/ACtC-3f3q349XsdUK-bDu-ZoHeALdiyR41igEsMe_ohVp-WaQ_CHneVkWZMq2XB5KtqNSu3oR6gYwGj3tfciCoSIzdYbhqHuv7WDnw7zUiX1jppA62D0D72FBDWrmghemHTxtQsj0-OcQBbH0-ChQniIN60JbQ=w400)
 
 # Weekly Review
 
@@ -221,7 +221,7 @@ The Weekly Review enables any other productivity habit, goal, or framework you w
 
 Integration. Planning. Goal-setting. Alignment. The Weekly Review is the backbone of everything else.
 
-![goals](https://lh3.googleusercontent.com/pw/ACtC-3e-sbDQH479Zyuxch3G4lZHd9plffOWW5Yn7lN6UG53cQAw-D6lXrFF9rgvHPdEKWlpu14yblL7fDfMcjVZtNUSZHbCuJQ4b2CNa4qzP-Fo_-Td6ToTPw732wDKluZi4BAxQ9WOz3wDAWOqTfsKrPf2iw=w400)
+![goals](https://lh3.googleusercontent.com/pw/ACtC-3e53fHvCIJaaWeh3wK2fN6DCeGOjzEAHZJGHe-59ssv2qF5oxWMOSREGZFl8uYH_iZr6HmO3IsKKs2e38q5xeTB3yUq1q4SzpbW1cUwVRYhbR2hijHjHSJLN2SumTDEqU2BJVbIai8dDaZh9FNUbwYgSQ=w400)
 
 # OKRs
 
@@ -248,7 +248,7 @@ Aaron’s note: this article in the blog is subpar in terms of explaining “how
 
 Clarity. Alignment. Period reviews separated by focused sessions of activity.
 
-![gtd](https://lh3.googleusercontent.com/pw/ACtC-3fnf0SABRT3jW_505_L_DYWiYVOIy7iDgOAKc5q_vTNGDS_p0GaDWnHnpFVb8ucCgsZcH2oQygO1Qj6jliSd3TCr1eI-ul8QRJ_MoVlhKmU89wl1_dGhtCp0nvjVhUSt_kqjH49EBsTfWW3qDEmCIhCIg=w400)
+![gtd]https://lh3.googleusercontent.com/pw/ACtC-3cF3Zn_nZv54BSRVg320zwfOswq6wrWWn8JsRaWjn7JjuASlmxsv1qToHbV6p6lMVr2SAirLyweulz7fGVEsTgenq_Q7bL2CD3fawDzsdwa-ufKo8iD_ieaMXIq9WyqP_bjx_EU7JHzJDBMooHB4eBeiw=w400)
 
 # GTD
 
@@ -272,7 +272,7 @@ Getting Things Done is a cornerstone of general productivity. It is a set of beh
 
 Getting things done is all about getting things out of your head so you can focus on the task at hand, and making time and space to get yourself urbanized. 
 
-![time block](https://lh3.googleusercontent.com/pw/ACtC-3eP4fO_9Ly0Qns7OpbuaUBo4Y2sQ2UIVv_izbSmXQf0Ymq0FhaVNgX9F4hOwrgNojL5mKA_G38yPJK6-_3OlN1fvO0KDStIz6VgTC7HnLUq2HXQPwiZg7X56WNBCoZD3aNx8cDGGzwgO0w_sUZBjRezHw=w400)
+![time block](https://lh3.googleusercontent.com/pw/ACtC-3cHNlGbLJJBsciy9NtR6d6bUZZqI_qTjxxQCTtcyJcVAIeHb6OCtORbbwVPkhpCvgIL2W9eHCojDP8VVxgMDFBiU4RQM7sMiB1UCBhd-cy81wvdPykjgm6eXhMOLVGiv4pBwv87h5t7OlUfoIEj9zjQxg=w400)
 
 # Time Blocking
 
@@ -303,3 +303,27 @@ Time blocking comes in a few different forms, all of which break down to this ge
 ## Themes
 
 Intentionality. Mono tasking. Control.
+
+![Notion](https://lh3.googleusercontent.com/pw/ACtC-3eOr9jJg7WFHfLinXPGWXF39Ak0Pd1bv1VjiH1-WLG2WlpuP7mdRf3FgF3B6G8uvNpAYyPMkkc9TPaGqAdEbqHJN3v9HxO15XihRV-lv2-fKrmkUmBQLUQ0uMOJeppDZ6vEEH1ZBz1QlTsmyEqf5bD-Gg=w400)
+
+# Kanban
+
+*Author: Fadeke Adegbuyi*
+
+Create a column-based visual representation of the tasks at hand & their statuses.
+
+## Why
+
+Kanban boards keep you focused on a manageable number of active tasks, while keeping the other potential work ready and at hand. The Kanban visual aligns with any linear workflow, and quickly gives an overall impression of the scope on your plate & where it's at in its lifecycle.
+
+## How To
+
+1. Pick a tool (e.g. whiteboard & sticky notes, mobile apps)
+2. Define columns based on workflow steps
+3. Create cards representing the tasks on your plate
+4. Move cards to the right as the work traverses its workflow
+5. Continuously update your board to keep it accurate
+
+## Themes
+
+Visualization. Management & prioritization of work.
