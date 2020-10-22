@@ -6,7 +6,7 @@ categories:
 - "productivity"
 - "personal development"
 header:
-   teaser: hhttps://lh3.googleusercontent.com/pw/ACtC-3dlrE82MrHsMg9aRYuA-WbJnmg2ix0XYbJV56XgCgNF9j3244joYtjkQPkqbzhoowichad0UNRKBoNLIjxh6MG24uneat8dSgQ3Yzk8Th3pNqK38qIGTzXFwxd8lVOPDx-qjaLTFhKFefI9nU3MN9fHlg=w200
+   teaser: https://lh3.googleusercontent.com/pw/ACtC-3dlrE82MrHsMg9aRYuA-WbJnmg2ix0XYbJV56XgCgNF9j3244joYtjkQPkqbzhoowichad0UNRKBoNLIjxh6MG24uneat8dSgQ3Yzk8Th3pNqK38qIGTzXFwxd8lVOPDx-qjaLTFhKFefI9nU3MN9fHlg=w200
 ---
 
 This article is a summarization of the a [series of articles](https://todoist.com/productivity-methods) on a blog owned and run by the digital productivity company Doist. Their articles are much better and worth a read, but if you're in an hurry... here's a cross section of some really good ideas, triple distilled. 
