@@ -5,7 +5,7 @@ date: "2020-09-13"
 categories:
 - "technology"
 header:
-   teaser: https://lh3.googleusercontent.com/pw/ACtC-3evmk2lAqS1UmvcOfWgjCdlJrkVPCL0sh4JVY4x4nf6-8kBqgKy2LEQF-98RgZflgYrf5KR5ap5i7MJE0b1IoCWgjfiLOj_7arm-cv79EN-PW6PcBAKopwnUV1w2sdDhF-4Nqkz9_AI2nB7bg2-eRk03g=w250
+   teaser: https://lh3.googleusercontent.com/pw/ACtC-3dgEqOP0Q_3HrsgcrS1vhNW_fEhTm-EYhJRB3B9qNMSxzBQHYUqsTLsTnP6Hr93Rt7xiEGvZpriwR7Vo_Fm48eHyfo7ShTiDbxD4j0P2GupXmno_QCxUAkx-r8b21OIjBfi9oUheMlDGDdI5gFekcQ76g=w250
 ---
 
 Markdown is a text-based text styling language. In layman's terms, it is a couple of additional characters you put in your writing that the computer uses to change how it looks. It allows you to do things like **bold**, *italicize*, and [hyperlink](https://en.wikipedia.org/wiki/Hyperlink) your text without taking your hands off the keyboard. 
