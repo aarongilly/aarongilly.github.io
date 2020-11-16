@@ -10,11 +10,9 @@ header:
    teaser: "https://lh3.googleusercontent.com/pw/ACtC-3cx42mSXX98qA11Ystkig-HZ41_PTAZDyfAjk7gxvCMbfENWP8kbXNoU7W5lpinYEaxfHNVg_ZdmcAt87ebpVkIpQtumxHEEs9LTvtXeCtkjJuBz9gLWWrgWJx1tGFyQc3gsAFkHiSB8SJatlrnYQYllg=w400"
 ---
 
-# Book Review
-
 Greg McKeowen's "Essentialism" is in the pantheon of most highly influential books on my life. It is blends practical, implementable wisdom with a consistent and convincing philosophical position: 
 
-Less, but better. 
+## Less, but better. 
 {: .notice--primary}
 
 Ironically, I took a TON of notes while reading this book about not doing so darn much.
@@ -79,7 +77,7 @@ Really clarify. When setting out to accomplish an endeavor, develop a statement 
 
 ### Examples
 Brad Pitt started an organization after Hurricane Katrina whose mission was "to build 150 affordable, green, storm-resistant homes for families living in the Lower 9th Ward."
-The marketing for the iPod wasn't "to a 1gb MP3 player" - it was "to put 1000 songs in your pocket". 
+The marketing for the iPod wasn't "to make a 1gb MP3 player" - it was "to put 1000 songs in your pocket". 
 
 ## Courage
 
