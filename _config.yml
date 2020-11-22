@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "http://eepurl.com/gNPOV9"
     - label: "Movie Podcast"
-      icon: "fab fa fa-podcast"
+      icon: "fab fa-fw fa-podcast"
       url: "https://we-scene-a-movie.pinecast.co/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
