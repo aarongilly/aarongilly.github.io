@@ -11,7 +11,7 @@ mathjax: true
 
 # Definition
 
-You know this. A triangle is a closed, three-sided polygon.
+A triangle is a closed, three-sided polygon. It's the easiest polygon to drawn.
 
 ## Components
 
