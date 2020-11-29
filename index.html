@@ -23,6 +23,25 @@ feature_row:
     url: https://www.notion.so/aarongilly/9e6c767be05a42c7ab438e4330658e2b?v=6d08d1c56ba24e97b75a60fc5dba073c
     btn_label: "View Creations"
     btn_class: "btn--inverse"
+feature_row2:
+  - image_path: /assets/images/splash-notes.png
+    alt: "Notes image"
+    excerpt: "A living body of Atomic notes on various topics, hosted in Notion"
+    url: https://www.notion.so/aarongilly/a7627b8ed78b4eab9e31364cb7b98eea?v=c957bb0ea6dd42e9a83df8338e11c786
+    btn_label: "Take Note"
+    btn_class: "btn--secondary"
+  - image_path: /assets/images/splash-principles.png
+    alt: "Principles image"
+    excerpt: "My General Operating Principles are a set of lessons I try to take into any given situation as a default behavior"
+    url: https://www.notion.so/aarongilly/General-Operating-Principles-95a182cba7fd44a893970d3a04b97cc2
+    btn_label: "Be Principled"
+    btn_class: "btn--secondary"
+  - image_path: /assets/images/splash-reviews.png
+    alt: "Reviews image"
+    excerpt: "My Annual Reviews are a quantified-self summarization of my life, posted publicly to keep me honest with myself."
+    url: /_pages/annualreviews
+    btn_label: "See How I Did"
+    btn_class: "btn--secondary"
 ---
 
 {% include figure image_path="/assets/images/index-banner.png" alt="a fun little hello image" %}
@@ -31,18 +50,7 @@ feature_row:
 <h1>Main Attractions</h1>
 {% include feature_row %}
 <h2>Secondary Features</h2>
-<a href="https://www.notion.so/aarongilly/a7627b8ed78b4eab9e31364cb7b98eea?v=c957bb0ea6dd42e9a83df8338e11c786">
-<img src="/assets/images/splash-notes.png" alt="notes doodle">
-<p>A living body of Atomic notes, on various topics hosted in Notion</p>
-</a>
-<a href="https://www.notion.so/aarongilly/General-Operating-Principles-95a182cba7fd44a893970d3a04b97cc2">
-<img src="/assets/images/splash-principles.png" alt="principles doodle">
-<p>My General Operating Principles are a set of lessons I try to take into any given situation by default.</p>
-</a>
-<a href="/_pages/annualreviews">
-<img src="/assets/images/splash-reviews.png" alt="review doodle">  
-<p>My Annual Reviews are a quantified-self summarization of my life, posted publicly to keep me honest.</p>
-</a>
+{% include feature_row id="feature_row2" %}
 <div style="color: grey; font-size: 10px;"> 
 </p>This website is hosted by GitHub Pages, utilizing the <a href="https://mmistakes.github.io/minimal-mistakes/">Minimal Mistakes</a> theme with almost no retooling.</p>
 </div>
