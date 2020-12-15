@@ -9,7 +9,7 @@ This is where my annual reviews will go. I need to fix this one.
 
 | Year |       Big Event      | Travel | Calories |  Fat % | Carbs % | Protein % | Workouts |   Bedtime  |    Wake   | Sleep Duration | Weight |
 |:----:|:--------------------:|:------:|:--------:|:------:|:-------:|:---------:|:---------:|:----------:|:---------:|:--------------:|:------:|
-| 2020 | Bennet was born    |       |       |       |      |      |           |            |          |                |        |
+| 2020 | Bennett was born    |       |       |       |      |      |           |            |          |                |        |
 | 2019 | Got a promotion    | 11.0% | 2,475 | 41%   |  33% | 26%  |    129    | 11:08   PM |  6:16 AM |      7:33      |  221.1 |
 | 2018 | Griffin was born   |  9.3% | 2,635 | 38%   |  41% | 21%  |     97    | 11:40   PM |  6:05 AM |      6:50      |  229.7 |
 | 2017 | Got pregnant       | 13.2% | 2,743 | 34%   |  42% | 21%  |    126    | 11:09   PM |  6:25 AM |      7:24      |  230.3 |
