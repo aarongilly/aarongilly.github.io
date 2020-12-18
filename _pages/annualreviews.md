@@ -1,6 +1,7 @@
 ---
 title:  "Annual Reviews"
 layout: single
+classes: wide
 ---
 
 This is where my annual reviews will go. I need to fix this one.
