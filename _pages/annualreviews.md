@@ -1,22 +1,23 @@
 ---
 title:  "Annual Reviews"
 layout: single
+classes: wide
 ---
 
 This is where my annual reviews will go. I need to fix this one.
 
 # Table
 
-| Year |       Big Event      | Travel | Calories |  Fat % | Carbs % | Protein % | Frequency |   Bedtime  |    Wake   | Sleep Duration | Weight |
+| Year |       Big Event      | Travel | Calories |  Fat  | Carbs  | Protein  | Workouts |   Bedtime  |    Wake   | Sleep Duration | Weight |
 |:----:|:--------------------:|:------:|:--------:|:------:|:-------:|:---------:|:---------:|:----------:|:---------:|:--------------:|:------:|
-| 2020 | Got   pregnant again |        |          |        |         |           |           |            |           |                |        |
-| 2019 | Big   Promotion      | 10.96% | 2,474.90 | 41.00% |  33.20% |   26.30%  |    129    |  1:26   PM |  12:37 PM |      7:33      |  221.1 |
-| 2018 | Griffin   was born   |  9.32% | 2,635.10 | 37.70% |  40.80% |   21.20%  |     97    |  5:20   AM |   3:47 PM |      6:50      |  229.7 |
-| 2017 | Got   pregnant       | 13.15% | 2,743.00 | 33.80% |  42.20% |   21.40%  |    126    | 11:08   PM |   6:29 AM |      7:24      |  230.3 |
-| 2016 | Bought   home        | 16.94% | 3,028.70 | 32.60% |  41.20% |   24.30%  |    159    | 11:17   PM |   6:31 AM |      7:22      |  228.2 |
-| 2015 | Switched   careers   | 19.02% | 2,831.90 | 31.20% |  43.40% |   23.80%  |     97    | 11:51   PM |   7:20 AM |      7:33      |  230.3 |
-| 2014 | Got   married        |        | 2,729.10 | 33.00% |  42.60% |   21.80%  |     85    | 12:13   AM | 7:32   AM |      7:29      |  229.6 |
-| 2013 | Got   engaged        |        | 2,744.20 | 33.80% |  47.10% |   19.40%  |     58    |            |           |                |        |
+| 2020 | Bennett was born    |       |       |       |      |      |           |            |          |                |        |
+| 2019 | Got a promotion    | 11.0% | 2,475 | 41%   |  33% | 26%  |    129    | 11:08p |  6:16a |      7:33      |  221.1 |
+| 2018 | Griffin was born   |  9.3% | 2,635 | 38%   |  41% | 21%  |     97    | 11:40p |  6:05a |      6:50      |  229.7 |
+| 2017 | Got pregnant       | 13.2% | 2,743 | 34%   |  42% | 21%  |    126    | 11:09p |  6:25a |      7:24      |  230.3 |
+| 2016 | Bought a home      | 16.9% | 3,029 | 33%   |  41% | 24%  |    159    | 11:17p |  6:31a |      7:22      |  228.2 |
+| 2015 | Switched careers   | 19.0% | 2,832 | 31%   |  43% | 24%  |     97    | 11:51p |  7:10a |      7:33      |  230.3 |
+| 2014 | Got married        |       | 2,729 | 33%   |  43% | 22%  |     85    | 11:56p |    -     |      7:29      |  229.6 |
+| 2013 | Got engaged        |       | 2,744 | 34%   |  47% | 19%  |     58    |            |          |                |        |
 
 # Links
 These Columns either tangentially or exclusively cover a year.
