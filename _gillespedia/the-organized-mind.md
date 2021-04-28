@@ -38,7 +38,7 @@ Highly successful people have a staff of individuals who are extensions of their
 
 ## Categorization
 
-Categorization is an incredibly use and important thing that we do all the time. 
+Categorization is an incredibly useful and important thing that we do all the time. 
 
 ### Categorization & Language
 
