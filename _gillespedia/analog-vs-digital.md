@@ -51,7 +51,7 @@ Well, there are a number of reasons.
 
 You can store analog signals, most definitely - but storing digital signals is so much cheaper, easier, and more durable in all sorts of ways.
 
-If I asked you to memorize the curve on the left, turn off your computer, wait 90 minutes, then re-draw it from memory, you'd likely have a hard time. However, if we do the same thing and I ask you about the discrete signal on the right, you can simple memorize the sequence of discrete values, then reproduce the signal perfectly using those numbers. 
+If I asked you to memorize the curve on the left up there, turn off your computer, wait 90 minutes, then re-draw it from memory, you'd likely have a hard time. However, if we do the same thing and I ask you about the discrete signal on the right, you could simply memorize the sequence of discrete values, then reproduce the signal perfectly using those numbers. 
 
 Beyond that, we humans have gotten *really* good at creating **tiny** transistors. These are the things that hold the "0"s and "1"s in your computer. So if your signal just so happens to be representable using a series of 0's and 1's (a.k.a. "if it's digital") we can put it into a storage drive alongside any other form of digital content. A digital storage device (e.g. your computer's hard drive) can store *any* kind of digital signal. You can't just mix and match analog storage & transmission devices. Try recording your voice on a mercury thermometer. It doesn't work.
 
