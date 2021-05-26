@@ -21,12 +21,13 @@ Columns cover whatever topic I feel like writing about at the time. As such, the
 # <a href="https://aarongilly.com/gillespedia/">Gillespedia</a>
 Gillespedia is a section of this website holding articles I wrote that fulfill a different role. Articles located in Gillespedia are not about my life, or current-day topics. They are, instead, book reviews, philosophical writings, and analyses of more general topics. Gillespedia is *not* two decades old. It's been around since roughly mid-2019, and has only existed in this form since April 2020.  It is a part of my application of [the Feynman Technique](https://doist.com/blog/feynman-technique/). 
 ## Typical Topics
-- Non-fiction book reviews
-- Science
-- Technology
-- Math
-- Productivity
-- Life, in general
+- [Book Reviews]({{ site.url }}{{ site.baseurl }}/categories/#book-review)
+- [Science]({{ site.url }}{{ site.baseurl }}/categories/#science)
+- [Technology]({{ site.url }}{{ site.baseurl }}/categories/#technology)
+- [Math]({{ site.url }}{{ site.baseurl }}/categories/#math)
+- [Productivity]({{ site.url }}{{ site.baseurl }}/categories/#productivity)
+- [Personal Development]({{ site.url }}{{ site.baseurl }}/categories/#personal-development)
+- [Life]({{ site.url }}{{ site.baseurl }}/categories/#life)
 
 # <a href="https://www.notion.so/aarongilly/9e6c767be05a42c7ab438e4330658e2b?v=6d08d1c56ba24e97b75a60fc5dba073c">Creation of the Week</a>
 In May 2020 I began cataloguing a "Creation of the Week". I like to think of myself as a well-rounded creative person, but as time has gone on, each of my little projects have gotten lost or forgotten about. The aim of the CotW is to be a repository of my creative efforts for posterity and to function as motivation to continue creating things. 
