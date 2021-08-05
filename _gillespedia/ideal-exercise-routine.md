@@ -56,9 +56,11 @@ old. You should spend an hour with your heart rate at around 120 bpm and another
 
 # Variation & Consistency
 
-When you do a particular thing a lot, your body adapts to doing that thing well, sometimes at the expense of other things. So if your goal is to be able to do a lot of different things well, you have to do a lot of different things often. Each of the people in this image below are elite athletes in their own regard. They fall across the big 3 dimensions of fitness[^1]: strength, endurance, and mobility. The athlete in the center is worse than those around the outside when it comes to their own speciality, but would trounce them when it comes to the other two dimensions at which they aren't specialized. That's not to say he's "the best", such a valuation is 100% subjective in accordance with each person's opinions about what it means to be "fit" and what they're goals are. At the end of the day they're all world-class athletes[^2].
+When you do a particular thing a lot, your body adapts to doing that thing well, sometimes at the expense of other things. So if your goal is to be able to do a lot of different things well, you have to do a lot of different things often. 
 
 ![https://lh3.googleusercontent.com/pw/AM-JKLVT2CciUr6thq3QZO9qLtT48hHZK2tYE8U0t5kYK0-IeOfM-N_dlcZoP7WWrHNwcdGgJfp1QL2uXrmzi1wESExEmxM8y0pPdhaz0cgtBMXpHUeavObgQKdWLwQ0r04P-phoMqGAegRab4in8VBRUjBLHw=w750](https://lh3.googleusercontent.com/pw/AM-JKLVT2CciUr6thq3QZO9qLtT48hHZK2tYE8U0t5kYK0-IeOfM-N_dlcZoP7WWrHNwcdGgJfp1QL2uXrmzi1wESExEmxM8y0pPdhaz0cgtBMXpHUeavObgQKdWLwQ0r04P-phoMqGAegRab4in8VBRUjBLHw=w750)
+
+Each of the people in the image above are elite athletes in their own regard. They fall across the big 3 dimensions of fitness[^1]: strength, endurance, and mobility. The athlete in the center is worse than those around the outside when it comes to their own speciality, but would trounce them when it comes to the other two dimensions at which they aren't specialized. That's not to say he's "the best", such a valuation is 100% subjective in accordance with each person's opinions about what it means to be "fit" and what they're goals are. At the end of the day they're all world-class athletes[^2].
 
 Even within a given domain it's a good idea to insert variation in your training. 
 
