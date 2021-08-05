@@ -18,7 +18,7 @@ Markdown was first codified into a standard in 2006 by a guy named John Gruber, 
 
 Turns out people are both lazy and expressive. We want the ability to write with *some* level of nuance, but developers don't necessarily want to go through the trouble of building full richtext editors, complete with buttons and menus that allow you to make things **bold** or make hyperlinks. Also such richtext editors expand the size of a webpage that your computer needs to download, interpret, and display. Even if the size is miniscule, there's no reason to take that hit when you've got an easy option that more and more people are learning.
 
-More than that, Markdown serves a purpose of creating a simple text formatting language that can be interpreted by a large number of clients in different environments. If you export your MicroSoft Word files and then try to open them with other applications, you'll find that there aren't a *ton* of available options for you. Moreover, all the available options will come with some sort of interpretation errors.  The core Markdown syntax notation is entirely portable, meaning you can copy your stylized text from one place and put it in another, and it will *probably* look like what you'd expect. Better yet, Markdown was designed to be human-readable. So, even if you look at **plain text Markdown** you'll not only be able to *read* it, you'll probably be able to read it almost as effectively as you would if it were stylized.
+More than that, Markdown serves a purpose of creating a simple text formatting language that can be interpreted by a large number of clients in different environments. If you export your Microsoft Word files and then try to open them with other applications, you'll find that there aren't a *ton* of available options for you. Moreover, all the available options will come with some sort of interpretation errors.  The core Markdown syntax notation is entirely portable, meaning you can copy your stylized text from one place and put it in another, and it will *probably* look like what you'd expect. Better yet, Markdown was designed to be human-readable. So, even if you look at **plain text Markdown** you'll not only be able to *read* it, you'll probably be able to read it almost as effectively as you would if it were stylized.
 
 ```
 # Avengers Movies
@@ -81,13 +81,13 @@ All these services (and hundreds more) will turn '\*\*this\*\*' into '**this**'.
 
 The whole idea of Markdown is that you're not taking your hands off the keyboard.
 
-Italic - surround the text to be italicized with single asterisks.
+*Italic* - surround the text to be italicized with single asterisks.
 
 ~~~
 This text is not italic, other than *these two* words.
 ~~~
 
-Bold - surround the text to be bolded with double asterisks.
+**Bold** - surround the text to be bolded with double asterisks.
 
 ~~~
 You can write like **this** if you're feeling **particularly bold**.
@@ -95,7 +95,7 @@ You can write like **this** if you're feeling **particularly bold**.
 
 Block quote - start each line to included in the block quote with a greater-than sign. If you don't know what a block quote is...
 
-> A **Block Quote** looks like this.
+> A Block Quote looks like this.
 
 ~~~
 I heard this awesome tip:
