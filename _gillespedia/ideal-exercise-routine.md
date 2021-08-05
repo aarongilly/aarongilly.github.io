@@ -60,7 +60,7 @@ When you do a particular thing a lot, your body adapts to doing that thing well,
 
 ![https://lh3.googleusercontent.com/pw/AM-JKLVT2CciUr6thq3QZO9qLtT48hHZK2tYE8U0t5kYK0-IeOfM-N_dlcZoP7WWrHNwcdGgJfp1QL2uXrmzi1wESExEmxM8y0pPdhaz0cgtBMXpHUeavObgQKdWLwQ0r04P-phoMqGAegRab4in8VBRUjBLHw=w750](https://lh3.googleusercontent.com/pw/AM-JKLVT2CciUr6thq3QZO9qLtT48hHZK2tYE8U0t5kYK0-IeOfM-N_dlcZoP7WWrHNwcdGgJfp1QL2uXrmzi1wESExEmxM8y0pPdhaz0cgtBMXpHUeavObgQKdWLwQ0r04P-phoMqGAegRab4in8VBRUjBLHw=w750)
 
-Each of the people in the image above are elite athletes in their own regard. They fall across the big 3 dimensions of fitness[^1]: strength, endurance, and mobility. The athlete in the center is worse than those around the outside when it comes to their own speciality, but would trounce them when it comes to the other two dimensions at which they aren't specialized. That's not to say he's "the best", such a valuation is 100% subjective in accordance with each person's opinions about what it means to be "fit" and what they're goals are. At the end of the day they're all world-class athletes[^2].
+Each of the people in the image above are elite athletes in their own regard. They fall across the big 3 domains of fitness[^1]: strength, endurance, and mobility. The athlete in the center is worse than those around the outside when it comes to their own speciality, but would trounce them when it comes to the other two domains in which they aren't specialized. That's not to say he's "the best", such a valuation is 100% subjective in accordance with each person's opinions about what "fit" means and what their goals are. At the end of the day they're all world-class athletes[^2].
 
 Even within a given domain it's a good idea to insert variation in your training. 
 
@@ -70,7 +70,7 @@ Within cardiovascular conditioning, don't just go jog the same circuit every day
 
 Within flexibility and coordination, don't just stretch your hamstrings every morning. Do different flexibility programs. Do yoga lead by multiple different instructors of different styles. Do pilates. Do dance and gymnastics. Do sports of all varieties. 
 
-Most important than specifically *what* you do, though, is that you do *something.* Something **is better than nothing. Take rest days, but don't take rest *months*. The key is to keep at it. You don't need to be going forward quickly, just don't stop going forward.
+Most important than specifically *what* you do, though, is that you do *something*. Something is better than nothing. Take rest days, but don't take rest *months*. The key is to keep at it. You don't have to be going forward quickly, just never stop going forward.
 
 # Example Weeks
 
