@@ -3,7 +3,7 @@ title:  "About"
 layout: single
 ---
 
-I'm Aaron Gillespie. I'm the guy in that picture down there (in blue, not in orange). This website is my internet-facing presence. I maintain it for fun and to keep myself producing creative content. I'm a married father of two. I am an Electrical Engineer by education, but have spent more energy learning to code since my graduation from college. I'm an advocate of self-tracking, knowing what's important to you, and getting things done.
+I'm Aaron Gillespie. I'm the guy in that picture down there (in blue, not in orange). This website is my internet-facing presence. I maintain it for fun and to keep myself producing creative content. I'm a married father of two. I am an Electrical Engineer by education, but have spent more energy learning to code since my graduation from college. I'm an advocate of self-tracking, knowing what's important to you, making life fun, and getting things done.
 
 ![About image]({{ site.url }}{{ site.baseurl }}/assets/images/about-image-smaller.jpg)
 
