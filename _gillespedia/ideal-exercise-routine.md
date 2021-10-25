@@ -128,7 +128,7 @@ Only because I'd be mad if I clicked on an article online with this title and th
 
 These are just *examples*. **I make no claim to be an expert in this arena**.  
 
-The whole point here is that there is no "one" approach, and numbers. possible approaches will get you where you want to go. There's nearly infinite depth you can take into research and practicing any particular discipline, what you choose to do is what works best for you, leaves you feeling the most energized and happy. If you look good on the beach, that's a fortunate side effect of living a healthy life.
+The whole point here is that there is no "one" approach. There's nearly infinite depth you can take into research and practicing any particular discipline, what you choose to do is what works best for you, leaves you feeling the most energized and happy. If you look good on the beach, that's a fortunate side effect of living a healthy life.
 
 [^1]: I'm using "mobility" as an umbrella term for flexability & coordination. The whole notion of "3 Dimensions of fitness" is something I'm essentially making up here. From what research I've done into the topic there isn't really a concise, widely-agreed upon list of the different, mutually-orthogonal [facets of fitness](https://aarongilly.notion.site/Facets-of-Fitness-59fc2311589d45dcbf2b8d4428f6f9ac), but that list seems like a valid enough way to draw up the lines. I may write more about this one day. Until then, see that link to my Note in Notion.
 
