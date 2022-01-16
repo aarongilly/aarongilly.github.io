@@ -15,17 +15,14 @@ should give myself some modicum of credit.
 
 # Preamble - What is Data Binding?
 
-When coding you're typically working on either the **front** end of an application (a.k.a. the part
-that users see), or the **back** end (a.k.a. the parts that users don't see that make everything
-work). In terms of web development, the front end is made up of HTML elements like the paragraph element
-*("<p>")*, inputs *("<input>")*, or any of [of other types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
+When coding you're typically working on either the **front** end of an application *(a.k.a. the part
+that users see)*, or the **back** end *(a.k.a. the parts that users don't see that make everything
+work)*. In terms of web development, the front end is made up of HTML elements like the paragraph element
+*("`<p>`")*, inputs *("`<input>`")*, or any of [of other types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
 Meanwhile, the back end is made up of, well, data. The back end is concerned with things like variables and
-objects. Somewhatsurprisingly, it is **not** a trivial task keeping the front end and the back end in sync with
-one-another. It's easy to set the text content of an element equal to the value of a variable. It's similarly easy to set a variable based on the value
-of some input element. But what if there are multiple ways the variable may be updated? This is actually a not-so-small part of the reason
-why many JavaScript frameworks exist.
+objects. Data binding is a means to keep them synchronized.
 
-But you don't **need** a framework for data binding. Implementing it yourself is a good way to "get it".
+![data-binding doodle](https://aarongilly.com/assets/images/logo-small.PNG)
 
 ## Benefits of Data Binding
 
@@ -37,14 +34,31 @@ This opens you up to things like state management, and the ability to implement 
 "redo" logic across the entire application.
 - Enables re-usability by maintaining a better separation of concerns. The front end takes care of itself.
 
+## How to Bind Elements to Data
+
+Somewhat surprisingly, it is **not** a trivial task keeping the front end and the back end in sync with
+one-another. It's easy to set the text content of an element equal to the value of a variable. It's similarly easy to set a variable based on the value
+of some input element. But maintain that relationship over time is difficult. ***Especially*** if there are multiple sources that may update the variable.
+Handling these uses cases is a not-so-small part of the reason why many JavaScript frameworks exist.
+
+### The "Easy Way"
+
+Utilize a framework like [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Angular](https://angular.io/), or [Svelte](https://svelte.dev/), 
+just to name a few.
+
+### The Manual Way
+
+But you don't **need** a framework for data binding. Implementing it yourself is a good way to "get it". That's what the rest of this article is about.
+
 # Example Implementation of Custom Data Binding
 
 ## Live Example
 
-You can update the value of `observedString`{:javascript} in either input box below.
+Below are two inputs and a div. All three of which reflect a variable called `observedString`{:javascript}.
+You can update the value of `observedString`{:javascript} either input box, and its current value will propagate to all 3 locations.
 
 <html>
-    <div style="border: solid">
+    <div style="border: solid padding: 20px">
     <div style="display: block">
         <label for="in-one">Input One</label>
         <input id="in-one" type="text" />
@@ -54,7 +68,7 @@ You can update the value of `observedString`{:javascript} in either input box be
         <input id="in-two" type="text" />
     </div>
     <div style="display: flex">
-        <label for="synced-read-only"> ← Variable Value</label>
+        <label for="synced-read-only">Variable Value = </label>
         <div id="synced-read-only" style="background-color: lightgrey"></div>
     </div>
     </div>
