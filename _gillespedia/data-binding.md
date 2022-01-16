@@ -44,18 +44,85 @@ This opens you up to things like state management, and the ability to implement 
 You can update the value of `observedString`{:javascript} in either input box below.
 
 <html>
-    <div style="display: block" style="border: solid">
+    <div style="border: solid">
+    <div style="display: block">
         <label for="in-one">Input One</label>
         <input id="in-one" type="text" />
     </div>
     <div style="display: block">
-        <input id="in-two" type="text" /><label for="in-two">Input Two</label>
+        <label for="in-two">Input Two</label>
+        <input id="in-two" type="text" />
     </div>
     <div style="display: flex">
-        <div id="synced-read-only" style="background-color: lightgrey"></div><label for="synced-read-only"> ← Variable Value</label>
+        <label for="synced-read-only"> ← Variable Value</label>
+        <div id="synced-read-only" style="background-color: lightgrey"></div>
+    </div>
     </div>
 </html>
   
+## Annotated Code
+
+This is what's driving the live example above.
+
+~~~ javascript
+<script>
+    //CUSTOM OBSERVABLE
+    class ObservableString {
+        constructor() {
+            this._subscribers = [];
+            this._value = ""; //initially blank
+        }
+        addSubscriber(observer) {
+            this._subscribers.push(observer);
+            return this._subscribers.length;
+        }
+        set(newValue) {
+            this._value = newValue;
+            this._subscribers.forEach(subscriber => { 
+                subscriber.handleChange(this._value)
+            });
+        }
+        get() {
+            return this._value;
+        }
+    }
+    //CUSTOM OBSERVER
+    class ObservingElement {
+        constructor(boundElement, observableToWatch) {
+            this._element = boundElement;
+            observableToWatch.addSubscriber(this);
+            this._element.textContent = observableToWatch.get();            
+        };
+        getElement() {
+            return this._element;
+        };
+        handleChange(newValue) {
+            if(this._element.tagName === "INPUT"){
+                this._element.value = newValue;
+            }else{
+                this._element.textContent = newValue;
+            }
+        }
+    }
+    //Obtaining References to Elements
+    let inOneElement = document.querySelector("#in-one");
+    let inTwoElement = document.querySelector("#in-two");
+    let readOnlyElement = document.querySelector("#synced-read-only");
+    
+    //CREATE CLASS INSTANCES TO HANDLE BINDING
+    let observedString = new ObservableString();
+    let one = new ObservingElement(inOneElement,observedString);
+    let two = new ObservingElement(inTwoElement, observedString);
+    let three = new ObservingElement(readOnlyElement, observedString);
+
+    //WIRE INPUTS TO OBSERVABLE STRING
+    inOneElement.addEventListener("input", ()=> observedString.set(inOneElement.value));
+    inTwoElement.addEventListener("input", ()=> observedString.set(inTwoElement.value));
+
+</script>
+~~~
+
+
 <script>
     //CUSTOM OBSERVABLE
     class ObservableString {
