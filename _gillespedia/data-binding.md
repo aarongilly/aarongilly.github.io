@@ -11,6 +11,8 @@ mathjax: true
     
 Before I get started - I didn't go to school for any of this. I feel like I'm still very much an amateur. That said, I'm an amateur who's been doing this sort of stuff as a hobby[^1] for 10 years now. So I guess I should give myself some modicum of credit.
 
+![data-binding doodle](https://aarongilly.com/assets/images/logo-small.PNG)
+
 ## What is Data Binding?
 
 When coding you're typically working on either the **front** end of an application *(a.k.a. the part
@@ -21,7 +23,27 @@ In terms of **web development**, the front end is made up of HTML elements like 
 *("`<p>`")*, divs *("`<div>`")*, inputs *("`<input>`")*, or any of the [other dozen+ types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
 Meanwhile, the back end is concerned with data - things like variables and objects. Data binding is a means to keep the front and back synchronized.
 
-![data-binding doodle](https://aarongilly.com/assets/images/logo-small.PNG)
+## Live Example
+
+Below are two inputs and a div. All three of which reflect a variable called `observedString`{:javascript}.
+You can update the value of `observedString`{:javascript} either input box, and its current value will propagate to all 3 locations.
+
+<html>
+    <div style="border: solid; padding: 20px;">
+    <div style="display: block">
+        <label for="in-one">Input One</label>
+        <input id="in-one" type="text" />
+    </div>
+    <div style="display: block">
+        <label for="in-two">Input Two</label>
+        <input id="in-two" type="text" />
+    </div>
+    <div style="display: block">
+        <label for="synced-read-only">Variable Value:</label>
+        <div id="synced-read-only" style="background-color: lightgrey"></div>
+    </div>
+    </div>
+</html>
 
 ## Benefits of Data Binding
 
@@ -51,28 +73,6 @@ just to name a few.
 But you don't **need** a framework for data binding. Implementing it yourself is a good way to "get it". That's what the rest of this article is about.
 
 # Implementation of Custom Data Binding
-
-## Live Example
-
-Below are two inputs and a div. All three of which reflect a variable called `observedString`{:javascript}.
-You can update the value of `observedString`{:javascript} either input box, and its current value will propagate to all 3 locations.
-
-<html>
-    <div style="border: solid; padding: 20px;">
-    <div style="display: block">
-        <label for="in-one">Input One</label>
-        <input id="in-one" type="text" />
-    </div>
-    <div style="display: block">
-        <label for="in-two">Input Two</label>
-        <input id="in-two" type="text" />
-    </div>
-    <div style="display: block">
-        <label for="synced-read-only">Variable Value:</label>
-        <div id="synced-read-only" style="background-color: lightgrey"></div>
-    </div>
-    </div>
-</html>
   
 ## Annotated Code
 
@@ -80,7 +80,7 @@ This is what's driving the live example above.
 
 ### Observable Class
 
-If you want data binding, you don't have the luxury of binding to primative variable types. An "Observable" is one that contains a value, but also maintains a list of *Observers*. Each time the value is set, the Observerable object takes care of notifying the Observers in its list by issuing them some sort of a function call with the new value.
+If you want data binding, you don't have the luxury of binding to primative variable types. An "Observable" is one that contains a value, but also maintains a list of *Observers*. Each time the value is set, the Observerable object takes care of notifying each of the Observers in its list by issuing them some sort of a function call with the new value. To be an Observer is to be an object that implements the function to be called.
 
 ~~~ javascript
 class ObservableString {
@@ -112,7 +112,57 @@ class ObservableString {
 }
 ~~~ 
 
-### Whole Code
+### Observer Class
+
+An Observer is something that implements a function that's called by the Observable each time its value is set. In my case, I've named that function 'handleChange'. For the purposes of data binding, the handleChange function updates the value of a displayed element.
+
+~~~ javascript
+class ObservingElement {
+    constructor(boundElement, observableToWatch) {
+        this._element = boundElement; //the div or input or paragraph element
+        observableToWatch.addSubscriber(this); //register this Observer instance with the Observable instance it cares about
+        this._element.textContent = observableToWatch.get(); //grab its current value            
+    };
+    //this is the function the Observable will call each time its value is set.
+    handleChange(newValue) {
+        //this if sets the visible text on the element, which may be an input
+        if(this._element.tagName === "INPUT"){
+            this._element.value = newValue;
+        }else{
+            this._element.textContent = newValue;
+        }
+    }
+}
+~~~
+
+### Creating Instances & Subscribing
+
+To bind elements to a data object, you need references to both things. Then you instantiate instances of the Observable & Observer classes.
+
+~~~ javascript
+//Obtaining References to Elements
+let inOneElement = document.querySelector("#in-one");
+let inTwoElement = document.querySelector("#in-two");
+let readOnlyElement = document.querySelector("#synced-read-only");
+
+//CREATE CLASS INSTANCES TO HANDLE BINDING
+let observedString = new ObservableString();
+let one = new ObservingElement(inOneElement,observedString);
+let two = new ObservingElement(inTwoElement, observedString);
+let three = new ObservingElement(readOnlyElement, observedString);
+~~~
+
+### Making Data Binding 2-Way
+
+Up to this point, you have everything you need for one-directional data binding. The elements will reflect the current value of the Observable every time it is set. However it's common that a bound element is *also* a mechanism for updating the Observable. To do that, simply have the elements call the "set" function on the Observable instance.
+
+~~~ javascript
+//WIRE INPUTS TO OBSERVABLE STRING
+inOneElement.addEventListener("input", ()=> observedString.set(inOneElement.value));
+inTwoElement.addEventListener("input", ()=> observedString.set(inTwoElement.value));
+~~~
+
+## Whole Code
 
 I get annoyed when I read articles like this and they don't have a section like this. Here you go copy/pasters:
 
@@ -145,17 +195,15 @@ class ObservableString {
     }
 }
 
-//CUSTOM OBSERVER
 class ObservingElement {
     constructor(boundElement, observableToWatch) {
-        this._element = boundElement;
-        observableToWatch.addSubscriber(this);
-        this._element.textContent = observableToWatch.get();            
+        this._element = boundElement; //the div or input or paragraph element
+        observableToWatch.addSubscriber(this); //register this Observer instance with the Observable instance it cares about
+        this._element.textContent = observableToWatch.get(); //grab its current value            
     };
-    getElement() {
-        return this._element;
-    };
+    //this is the function the Observable will call each time its value is set.
     handleChange(newValue) {
+        //this if sets the visible text on the element, which may be an input
         if(this._element.tagName === "INPUT"){
             this._element.value = newValue;
         }else{
@@ -163,6 +211,7 @@ class ObservingElement {
         }
     }
 }
+
 //Obtaining References to Elements
 let inOneElement = document.querySelector("#in-one");
 let inTwoElement = document.querySelector("#in-two");
