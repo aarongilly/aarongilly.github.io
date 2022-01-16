@@ -10,7 +10,7 @@ mathjax: true
 ---
     
 Before I get started, I didn't go to school for any of this. I feel like I'm still very much an amateur. That said,
-I'm an amateur who's been doing this sort of stuff as a hobby and sometimes for work for 10 years now. So I guess I
+I'm an amateur who's been doing this sort of stuff as a hobby[^1] for 10 years now. So I guess I
 should give myself some modicum of credit.
 
 # Preamble - What is Data Binding?
@@ -18,8 +18,7 @@ should give myself some modicum of credit.
 When coding you're typically working on either the **front** end of an application (a.k.a. the part
 that users see), or the **back** end (a.k.a. the parts that users don't see that make everything
 work). In terms of web development, the front end is made up of HTML elements like the paragraph element
-*("<p>")*, inputs
-*("<input>")*, or any of [of other types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
+*("<p>")*, inputs *("<input>")*, or any of [of other types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
 Meanwhile, the back end is made up of, well, data. The back end is concerned with things like variables and
 objects. Somewhat
 surprisingly, it is **not** a trivial task keeping the front end and the back end in sync with
@@ -33,19 +32,20 @@ exist.
 But you don't **need** to rely on a framework for data binding. And implementing it myself made me
 finally "get it".
 
-# Example: Data Binding via Implementation of a Custom-Built Observable Class</h2>
+# Example: Data Binding via Implementation of a Custom-Built Observable Class
 
 You can update the value of `observedString`{:javascript} in either input box below.
 
 <html>
     <div style="display: block">
-        <input id="in-one" type="text" /><label for="in-one">Input One</label>
+        <label for="in-one">Input One</label>
+        <input id="in-one" type="text" />
     </div>
     <div style="display: block">
         <input id="in-two" type="text" /><label for="in-two">Input Two</label>
     </div>
     <div style="display: flex">
-        <div id="synced-read-only"></div><label for="synced-read-only"> ← Variable Value</label>
+        <div id="synced-read-only" style="background-color: lightgrey"></div><label for="synced-read-only"> ← Variable Value</label>
     </div>
 </html>
 
@@ -114,3 +114,5 @@ This opens you up to things like state management, and the ability to implement 
     inTwoElement.addEventListener("input", ()=> observedString.set(inTwoElement.value));
 
 </script>
+
+[^1]: ...and sometimes work, when I can
