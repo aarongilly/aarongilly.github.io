@@ -35,9 +35,19 @@ finally "get it".
 
 # Example: Data Binding via Implementation of a Custom-Built Observable Class</h2>
 
-    <input id="in-one" type="text" /><label for="in-one">Input One</label>
-    <input id="in-two" type="text" /><label for="in-two">Input Two</label>
-    <div id="synced-read-only"></div><label for="synced-read-only">Variable Value</label>
+You can update the value of `observedString`{:javascript} in either input box below.
+
+<html>
+    <div style="display: block">
+        <input id="in-one" type="text" /><label for="in-one">Input One</label>
+    </div>
+    <div style="display: block">
+        <input id="in-two" type="text" /><label for="in-two">Input Two</label>
+    </div>
+    <div style="display: flex">
+        <div id="synced-read-only"></div><label for="synced-read-only"> ← Variable Value</label>
+    </div>
+</html>
 
 ## Benefits of Data Binding
 
