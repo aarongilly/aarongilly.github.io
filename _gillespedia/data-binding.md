@@ -9,9 +9,7 @@ header:
 mathjax: true
 ---
     
-Before I get started, I didn't go to school for any of this. I feel like I'm still very much an amateur. That said,
-I'm an amateur who's been doing this sort of stuff as a hobby[^1] for 10 years now. So I guess I
-should give myself some modicum of credit.
+Before I get started - I didn't go to school for any of this. I feel like I'm still very much an amateur. That said, I'm an amateur who's been doing this sort of stuff as a hobby[^1] for 10 years now. So I guess I should give myself some modicum of credit.
 
 ## What is Data Binding?
 
@@ -19,40 +17,40 @@ When coding you're typically working on either the **front** end of an applicati
 that users see)*, or the **back** end *(a.k.a. the parts that users don't see that make everything
 work)*. 
 
-In terms of web development, the front end is made up of HTML elements like the paragraph element
-*("`<p>`")*, inputs *("`<input>`")*, or any of the [other dozen+ types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
-Meanwhile, the back end is made up of, well, data. The back end is concerned with things like variables and
-objects. Data binding is a means to keep them synchronized.
+In terms of **web development**, the front end is made up of HTML elements like paragraph elements
+*("`<p>`")*, divs *("`<div>`")*, inputs *("`<input>`")*, or any of the [other dozen+ types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
+Meanwhile, the back end is concerned with data - things like variables and objects. Data binding is a means to keep the front and back synchronized.
 
 ![data-binding doodle](https://aarongilly.com/assets/images/logo-small.PNG)
 
 ## Benefits of Data Binding
 
 Most of the benefits of data binding are fairly obvious, but here's a list anyway!
-- You can focus more on developing the back end, and less on worrying about the logic that keeps the front end up-to-date.
+- You can focus more on developing the back end, making the front end prettier, and worrying less about the logic that keeps them in sync.
 - Because the UI updating takes care of itself, applications become more scalable.
-- Enables you to think about the application in terms of the "state" of a (series of) variable(s). 
-This opens you up to things like state management, and the ability to implement "undo" and
-"redo" logic across the entire application.
-- Enables re-usability by maintaining a better separation of concerns. The front end takes care of itself.
+- Enables you to think about the application in terms of the "state" of a *(series of)* variable *(s)*. This opens you up to things like state management, and the ability to implement "undo" and "redo" logic across the entire application.
+- Enables re-usability by maintaining a better separation of concerns.
 
 ## How to Bind Elements to Data
 
-Somewhat surprisingly, it is **not** a trivial task keeping the front end and the back end in sync with
-one-another. It's easy to set the text content of an element equal to the value of a variable. It's similarly easy to set a variable based on the value
-of some input element. But maintain that relationship over time is difficult. ***Especially*** if there are multiple sources that may update the variable.
+Perhaps somewhat surprisingly, it is **not** a trivial task keeping the front end and the back end in sync with one-another. 
+
+It's easy to set the text content of an element equal to the value of a variable.  
+It's similarly easy to set a variable based on the value of some input element.  
+
+But maintaining that relationship over time is difficult. ***Especially*** if there are multiple sources that may update the variable.
 Handling these uses cases is a not-so-small part of the reason why many JavaScript frameworks exist.
 
 ### The "Easy Way"
 
-Utilize a framework like [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Angular](https://angular.io/), or [Svelte](https://svelte.dev/), 
+Utilize a framework that provides data binding mechanisms, like [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Angular](https://angular.io/), or [Svelte](https://svelte.dev/), 
 just to name a few.
 
 ### The Manual Way
 
 But you don't **need** a framework for data binding. Implementing it yourself is a good way to "get it". That's what the rest of this article is about.
 
-# Example Implementation of Custom Data Binding
+# Implementation of Custom Data Binding
 
 ## Live Example
 
@@ -80,65 +78,127 @@ You can update the value of `observedString`{:javascript} either input box, and 
 
 This is what's driving the live example above.
 
+### Observable Class
+
+If you want data binding, you don't have the luxury of binding to primative variable types. An "Observable" is one that contains a value, but also maintains a list of *Observers*. Each time the value is set, the Observerable object takes care of notifying the Observers in its list by issuing them some sort of a function call with the new value.
+
 ~~~ javascript
-<script>
-    //CUSTOM OBSERVABLE
-    class ObservableString {
-        constructor() {
-            this._subscribers = [];
-            this._value = ""; //initially blank
-        }
-        addSubscriber(observer) {
-            this._subscribers.push(observer);
-            return this._subscribers.length;
-        }
-        set(newValue) {
-            this._value = newValue;
-            this._subscribers.forEach(subscriber => { 
-                subscriber.handleChange(this._value)
-            });
-        }
-        get() {
-            return this._value;
+class ObservableString {
+    constructor() {
+        this._subscribers = []; //list of "Observers" watching this value
+        this._value = ""; //the value itself
+    }
+    addSubscriber(observer) {
+        //in order to bind to the Observable, an Observer must add itself
+        //to a 'subscriber' list that's maintained by the Observable.
+        this._subscribers.push(observer); 
+    }
+    set(newValue) {
+        //setter must be used to set the Observed value. This is what
+        //lets the Observable know it needs to notify its subscribers
+        this._value = newValue;
+        this._subscribers.forEach(subscriber => { 
+            //in order to be an Observer, you *must* implement a 'handleChange'
+            //function on the Observer. 
+            //(Note 'handleChange' is just what I called it, really
+            //any name works so long as all Observers have it)
+            subscriber.handleChange(this._value)
+        });
+    }
+    get() {
+        //simple getter. No need to notify anybody that value is being read.
+        return this._value;
+    }
+}
+~~~ 
+
+### Whole Code
+
+I get annoyed when I read articles like this and they don't have a section like this. Here you go copy/pasters:
+
+~~~ javascript
+class ObservableString {
+    constructor() {
+        this._subscribers = []; //list of "Observers" watching this value
+        this._value = ""; //the value itself
+    }
+    addSubscriber(observer) {
+        //in order to bind to the Observable, an Observer must add itself
+        //to a 'subscriber' list that's maintained by the Observable.
+        this._subscribers.push(observer); 
+    }
+    set(newValue) {
+        //setter must be used to set the Observed value. This is what
+        //lets the Observable know it needs to notify its subscribers
+        this._value = newValue;
+        this._subscribers.forEach(subscriber => { 
+            //in order to be an Observer, you *must* implement a 'handleChange'
+            //function on the Observer. 
+            //(Note 'handleChange' is just what I called it, really
+            //any name works so long as all Observers have it)
+            subscriber.handleChange(this._value)
+        });
+    }
+    get() {
+        //simple getter. No need to notify anybody that value is being read.
+        return this._value;
+    }
+}
+
+//CUSTOM OBSERVER
+class ObservingElement {
+    constructor(boundElement, observableToWatch) {
+        this._element = boundElement;
+        observableToWatch.addSubscriber(this);
+        this._element.textContent = observableToWatch.get();            
+    };
+    getElement() {
+        return this._element;
+    };
+    handleChange(newValue) {
+        if(this._element.tagName === "INPUT"){
+            this._element.value = newValue;
+        }else{
+            this._element.textContent = newValue;
         }
     }
-    //CUSTOM OBSERVER
-    class ObservingElement {
-        constructor(boundElement, observableToWatch) {
-            this._element = boundElement;
-            observableToWatch.addSubscriber(this);
-            this._element.textContent = observableToWatch.get();            
-        };
-        getElement() {
-            return this._element;
-        };
-        handleChange(newValue) {
-            if(this._element.tagName === "INPUT"){
-                this._element.value = newValue;
-            }else{
-                this._element.textContent = newValue;
-            }
-        }
-    }
-    //Obtaining References to Elements
-    let inOneElement = document.querySelector("#in-one");
-    let inTwoElement = document.querySelector("#in-two");
-    let readOnlyElement = document.querySelector("#synced-read-only");
-    
-    //CREATE CLASS INSTANCES TO HANDLE BINDING
-    let observedString = new ObservableString();
-    let one = new ObservingElement(inOneElement,observedString);
-    let two = new ObservingElement(inTwoElement, observedString);
-    let three = new ObservingElement(readOnlyElement, observedString);
+}
+//Obtaining References to Elements
+let inOneElement = document.querySelector("#in-one");
+let inTwoElement = document.querySelector("#in-two");
+let readOnlyElement = document.querySelector("#synced-read-only");
 
-    //WIRE INPUTS TO OBSERVABLE STRING
-    inOneElement.addEventListener("input", ()=> observedString.set(inOneElement.value));
-    inTwoElement.addEventListener("input", ()=> observedString.set(inTwoElement.value));
+//CREATE CLASS INSTANCES TO HANDLE BINDING
+let observedString = new ObservableString();
+let one = new ObservingElement(inOneElement,observedString);
+let two = new ObservingElement(inTwoElement, observedString);
+let three = new ObservingElement(readOnlyElement, observedString);
 
-</script>
+//WIRE INPUTS TO OBSERVABLE STRING
+inOneElement.addEventListener("input", ()=> observedString.set(inOneElement.value));
+inTwoElement.addEventListener("input", ()=> observedString.set(inTwoElement.value));
 ~~~
 
 
+# What the Live Example Doesn't Do
+
+This is a minimal example. I initially made some bits of it fancier and more complicated, but wound up removing anything that wasn't
+strictly for the benefit of making data binding work. Even within that context, though, there are some things I didn't do[^2].
+
+- Lifecycle Management 
+    - There is no mechanism in that code snippet to *unsubscribe* an element from the bound string. You can imagine a scenario where you'd want to de-couple an element from its source.
+- Asyncronous Support
+    - This is an example of the "Observable" pattern. There's another pattern called 
+    "pub/sub" that includes a "Broker" in the middle that keeps track of publishing parties and their subscribers. This allows for binding across sources & asycnronous binding.
+- Validation Logic
+    - You could implement an "`maybeSet()`{:javascript}" function that checks the input against some criteria. If the input is valid, it propagates the change. If the input is rejected, it returns an error condition and doesn't propagate.
+- State Management
+    - Like validation - this is sort of a separate from data binding, but made easier by it. You could keep a queue of previous states in the Observable Class. Then implement functions to "undo", "redo", and "go to" specific points in history.
+
+[^1]: ...and sometimes work, when I can  
+[^2]: ...for now
+
+
 <script>
     //CUSTOM OBSERVABLE
     class ObservableString {
@@ -148,7 +208,6 @@ This is what's driving the live example above.
         }
         addSubscriber(observer) {
             this._subscribers.push(observer);
-            return this._subscribers.length;
         }
         set(newValue) {
             this._value = newValue;
@@ -194,5 +253,3 @@ This is what's driving the live example above.
     inTwoElement.addEventListener("input", ()=> observedString.set(inTwoElement.value));
 
 </script>
-
-[^1]: ...and sometimes work, when I can
