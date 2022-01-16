@@ -13,12 +13,14 @@ Before I get started, I didn't go to school for any of this. I feel like I'm sti
 I'm an amateur who's been doing this sort of stuff as a hobby[^1] for 10 years now. So I guess I
 should give myself some modicum of credit.
 
-# Preamble - What is Data Binding?
+## What is Data Binding?
 
 When coding you're typically working on either the **front** end of an application *(a.k.a. the part
 that users see)*, or the **back** end *(a.k.a. the parts that users don't see that make everything
-work)*. In terms of web development, the front end is made up of HTML elements like the paragraph element
-*("`<p>`")*, inputs *("`<input>`")*, or any of [of other types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
+work)*. 
+
+In terms of web development, the front end is made up of HTML elements like the paragraph element
+*("`<p>`")*, inputs *("`<input>`")*, or any of the [other dozen+ types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
 Meanwhile, the back end is made up of, well, data. The back end is concerned with things like variables and
 objects. Data binding is a means to keep them synchronized.
 
@@ -58,7 +60,7 @@ Below are two inputs and a div. All three of which reflect a variable called `ob
 You can update the value of `observedString`{:javascript} either input box, and its current value will propagate to all 3 locations.
 
 <html>
-    <div style="border: solid padding: 20px">
+    <div style="border: solid; padding: 20px;">
     <div style="display: block">
         <label for="in-one">Input One</label>
         <input id="in-one" type="text" />
@@ -67,8 +69,8 @@ You can update the value of `observedString`{:javascript} either input box, and 
         <label for="in-two">Input Two</label>
         <input id="in-two" type="text" />
     </div>
-    <div style="display: flex">
-        <label for="synced-read-only">Variable Value = </label>
+    <div style="display: block">
+        <label for="synced-read-only">Variable Value:</label>
         <div id="synced-read-only" style="background-color: lightgrey"></div>
     </div>
     </div>
