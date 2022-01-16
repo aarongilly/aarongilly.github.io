@@ -39,7 +39,7 @@ You can update the value of `observedString`{:javascript} either input box, and 
         <input id="in-two" type="text" />
     </div>
     <div style="display: block">
-        <label for="synced-read-only">Value of observedString:</label>
+        <label for="synced-read-only">Value of <span style="font-family: monospace; color: darkgrey;">observedString</span>:</label>
         <div id="synced-read-only" style="background-color: lightgrey"></div>
     </div>
     </div>
