@@ -167,6 +167,27 @@ inTwoElement.addEventListener("input", ()=> observedString.set(inTwoElement.valu
 I get annoyed when I read articles like this and they don't have a section like this. Here you go copy/pasters:
 
 ~~~ javascript
+
+/*
+This script assumes you have inputs named "in-one" and "in-two" and a div named "synced-read-only". Like so:
+<html>
+    <div style="border: solid; padding: 20px;">
+    <div style="display: block">
+        <label for="in-one">Input One:</label>
+        <input id="in-one" type="text" />
+    </div>
+    <div style="display: block">
+        <label for="in-two">Input Two:</label>
+        <input id="in-two" type="text" />
+    </div>
+    <div style="display: block">
+        <label for="synced-read-only">Value of observedString:</label>
+        <div id="synced-read-only" style="background-color: lightgrey"></div>
+    </div>
+    </div>
+</html>
+*/
+
 class ObservableString {
     constructor() {
         this._subscribers = []; //list of "Observers" watching this value
@@ -249,76 +270,49 @@ strictly for the benefit of making data binding work. Even within that context, 
 
 
 <script>
-    /*
-    This script assumes you have inputs named "in-one" and "in-two" and a div named "synced-read-only". Like so:
-    <html>
-        <div style="border: solid; padding: 20px;">
-        <div style="display: block">
-            <label for="in-one">Input One:</label>
-            <input id="in-one" type="text" />
-        </div>
-        <div style="display: block">
-            <label for="in-two">Input Two:</label>
-            <input id="in-two" type="text" />
-        </div>
-        <div style="display: block">
-            <label for="synced-read-only">Value of observedString:</label>
-            <div id="synced-read-only" style="background-color: lightgrey"></div>
-        </div>
-        </div>
-    </html>
-    */
-
-    //CUSTOM OBSERVABLE
     class ObservableString {
-        constructor() {
-            this._subscribers = [];
-            this._value = ""; //initially blank
-        }
-        addSubscriber(observer) {
-            this._subscribers.push(observer);
-        }
-        set(newValue) {
-            this._value = newValue;
-            this._subscribers.forEach(subscriber => { 
-                subscriber.handleChange(this._value)
-            });
-        }
-        get() {
-            return this._value;
+    constructor() {
+        this._subscribers = [];
+        this._value = "";
+    }
+    addSubscriber(observer) {
+        this._subscribers.push(observer); 
+    }
+    set(newValue) {
+        this._value = newValue;
+        this._subscribers.forEach(subscriber => { 
+            subscriber.handleChange(this._value)
+        });
+    }
+    get() {
+        return this._value;
+    }
+}
+
+class ObservingElement {
+    constructor(boundElement, observableToWatch) {
+        this._element = boundElement;
+        observableToWatch.addSubscriber(this);
+        this._element.textContent = observableToWatch.get();
+    };
+    handleChange(newValue) {
+        if(this._element.tagName === "INPUT"){
+            this._element.value = newValue;
+        }else{
+            this._element.textContent = newValue;
         }
     }
-    //CUSTOM OBSERVER
-    class ObservingElement {
-        constructor(boundElement, observableToWatch) {
-            this._element = boundElement;
-            observableToWatch.addSubscriber(this);
-            this._element.textContent = observableToWatch.get();            
-        };
-        getElement() {
-            return this._element;
-        };
-        handleChange(newValue) {
-            if(this._element.tagName === "INPUT"){
-                this._element.value = newValue;
-            }else{
-                this._element.textContent = newValue;
-            }
-        }
-    }
-    //Obtaining References to Elements
-    let inOneElement = document.querySelector("#in-one");
-    let inTwoElement = document.querySelector("#in-two");
-    let readOnlyElement = document.querySelector("#synced-read-only");
-    
-    //CREATE CLASS INSTANCES TO HANDLE BINDING
-    let observedString = new ObservableString();
-    let one = new ObservingElement(inOneElement,observedString);
-    let two = new ObservingElement(inTwoElement, observedString);
-    let three = new ObservingElement(readOnlyElement, observedString);
+}
 
-    //WIRE INPUTS TO OBSERVABLE STRING
-    inOneElement.addEventListener("input", ()=> observedString.set(inOneElement.value));
-    inTwoElement.addEventListener("input", ()=> observedString.set(inTwoElement.value));
+let inOneElement = document.querySelector("#in-one");
+let inTwoElement = document.querySelector("#in-two");
+let readOnlyElement = document.querySelector("#synced-read-only");
 
+let observedString = new ObservableString();
+let one = new ObservingElement(inOneElement,observedString);
+let two = new ObservingElement(inTwoElement, observedString);
+let three = new ObservingElement(readOnlyElement, observedString);
+
+inOneElement.addEventListener("input", ()=> observedString.set(inOneElement.value));
+inTwoElement.addEventListener("input", ()=> observedString.set(inTwoElement.value));
 </script>
