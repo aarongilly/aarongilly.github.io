@@ -4,6 +4,7 @@ excerpt: A portable shorthand for text styling.
 date: "2020-09-13"
 categories:
 - "technology"
+- "coding"
 header:
    teaser: https://lh3.googleusercontent.com/pw/ACtC-3dgEqOP0Q_3HrsgcrS1vhNW_fEhTm-EYhJRB3B9qNMSxzBQHYUqsTLsTnP6Hr93Rt7xiEGvZpriwR7Vo_Fm48eHyfo7ShTiDbxD4j0P2GupXmno_QCxUAkx-r8b21OIjBfi9oUheMlDGDdI5gFekcQ76g=w250
 ---

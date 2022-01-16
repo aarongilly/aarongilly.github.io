@@ -12,3 +12,5 @@
     image: "/assets/images/gillespedia/tag-life.png"
 -   tag: "science"
     image: "/assets/images/gillespedia/tag-science.png"
+-   tag: "coding"
+    image: "/assets/images/gillespedia/tag-coding.png"

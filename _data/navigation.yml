@@ -26,5 +26,8 @@ gillespedia-sidebar:
     url: https://aarongilly.com/categories/#science
   - title: "Technology"
     url: https://aarongilly.com/categories/#technology
+  - title: "Coding"
+    url: https://aarongilly.com/categories/#coding
   - title: "Life"
     url: https://aarongilly.com/categories/#life
+  
