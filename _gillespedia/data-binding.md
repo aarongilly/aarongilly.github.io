@@ -31,15 +31,15 @@ You can update the value of `observedString`{:javascript} either input box, and 
 <html>
     <div style="border: solid; padding: 20px;">
     <div style="display: block">
-        <label for="in-one">Input One</label>
+        <label for="in-one">Input One:</label>
         <input id="in-one" type="text" />
     </div>
     <div style="display: block">
-        <label for="in-two">Input Two</label>
+        <label for="in-two">Input Two:</label>
         <input id="in-two" type="text" />
     </div>
     <div style="display: block">
-        <label for="synced-read-only">Variable Value:</label>
+        <label for="synced-read-only">Value of observedString:</label>
         <div id="synced-read-only" style="background-color: lightgrey"></div>
     </div>
     </div>
@@ -80,7 +80,7 @@ This is what's driving the live example above.
 
 ### Observable Class
 
-If you want data binding, you don't have the luxury of binding to primative variable types. An "Observable" is one that contains a value, but also maintains a list of *Observers*. Each time the value is set, the Observerable object takes care of notifying each of the Observers in its list by issuing them some sort of a function call with the new value. To be an Observer is to be an object that implements the function to be called.
+If you want data binding, you don't have the luxury of binding to primative variable types. An "Observable" is one that contains a value, but also maintains a list of subscribed *Observers*. Each time its value is set, the Observerable object takes care of notifying each of the Observers in its list by issuing them a function call passing it the new value. To be an Observer is to be an object that implements the function to be called.
 
 ~~~ javascript
 class ObservableString {
@@ -238,17 +238,37 @@ strictly for the benefit of making data binding work. Even within that context, 
     - There is no mechanism in that code snippet to *unsubscribe* an element from the bound string. You can imagine a scenario where you'd want to de-couple an element from its source.
 - Asyncronous Support
     - This is an example of the "Observable" pattern. There's another pattern called 
-    "pub/sub" that includes a "Broker" in the middle that keeps track of publishing parties and their subscribers. This allows for binding across sources & asycnronous binding.
+    "pub/sub" that includes a "Broker" in the middle that keeps track of publishing parties and their subscribers. This allows for binding across sources, asycnronous binding, and for bound instances to remain ignorant of each other.
 - Validation Logic
     - You could implement an "`maybeSet()`{:javascript}" function that checks the input against some criteria. If the input is valid, it propagates the change. If the input is rejected, it returns an error condition and doesn't propagate.
 - State Management
-    - Like validation - this is sort of a separate from data binding, but made easier by it. You could keep a queue of previous states in the Observable Class. Then implement functions to "undo", "redo", and "go to" specific points in history.
+    - Like validation - this is sort of separate from data binding, but made easier by it. You could keep a queue of previous states in the Observable Class. Then implement functions to "undo", "redo", and "go to" specific points in history and your UI would update accordingly.
 
 [^1]: ...and sometimes work, when I can  
 [^2]: ...for now
 
 
 <script>
+    /*
+    This script assumes you have inputs named "in-one" and "in-two" and a div named "synced-read-only". Like so:
+    <html>
+        <div style="border: solid; padding: 20px;">
+        <div style="display: block">
+            <label for="in-one">Input One:</label>
+            <input id="in-one" type="text" />
+        </div>
+        <div style="display: block">
+            <label for="in-two">Input Two:</label>
+            <input id="in-two" type="text" />
+        </div>
+        <div style="display: block">
+            <label for="synced-read-only">Value of observedString:</label>
+            <div id="synced-read-only" style="background-color: lightgrey"></div>
+        </div>
+        </div>
+    </html>
+    */
+
     //CUSTOM OBSERVABLE
     class ObservableString {
         constructor() {
