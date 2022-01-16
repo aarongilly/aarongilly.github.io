@@ -20,34 +20,12 @@ that users see), or the **back** end (a.k.a. the parts that users don't see that
 work). In terms of web development, the front end is made up of HTML elements like the paragraph element
 *("<p>")*, inputs *("<input>")*, or any of [of other types of elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element").
 Meanwhile, the back end is made up of, well, data. The back end is concerned with things like variables and
-objects. Somewhat
-surprisingly, it is **not** a trivial task keeping the front end and the back end in sync with
-one-another. It's easy to set the text
-content of an element equal to the value of a variable. It's similarly easy to set a variable based on the value
-of some input element. But
-what if there are multiple ways the variable may be updated? This is actually a not-so-small part of the reason
-why many JavaScript frameworks
-exist.
+objects. Somewhatsurprisingly, it is **not** a trivial task keeping the front end and the back end in sync with
+one-another. It's easy to set the text content of an element equal to the value of a variable. It's similarly easy to set a variable based on the value
+of some input element. But what if there are multiple ways the variable may be updated? This is actually a not-so-small part of the reason
+why many JavaScript frameworks exist.
 
-But you don't **need** to rely on a framework for data binding. And implementing it myself made me
-finally "get it".
-
-# Example: Data Binding via Implementation of a Custom-Built Observable Class
-
-You can update the value of `observedString`{:javascript} in either input box below.
-
-<html>
-    <div style="display: block">
-        <label for="in-one">Input One</label>
-        <input id="in-one" type="text" />
-    </div>
-    <div style="display: block">
-        <input id="in-two" type="text" /><label for="in-two">Input Two</label>
-    </div>
-    <div style="display: flex">
-        <div id="synced-read-only" style="background-color: lightgrey"></div><label for="synced-read-only"> ← Variable Value</label>
-    </div>
-</html>
+But you don't **need** a framework for data binding. Implementing it yourself is a good way to "get it".
 
 ## Benefits of Data Binding
 
@@ -58,6 +36,25 @@ Most of the benefits of data binding are fairly obvious, but here's a list anywa
 This opens you up to things like state management, and the ability to implement "undo" and
 "redo" logic across the entire application.
 - Enables re-usability by maintaining a better separation of concerns. The front end takes care of itself.
+
+# Example Implementation of Custom Data Binding
+
+## Live Example
+
+You can update the value of `observedString`{:javascript} in either input box below.
+
+<html>
+    <div style="display: block" style="border: solid">
+        <label for="in-one">Input One</label>
+        <input id="in-one" type="text" />
+    </div>
+    <div style="display: block">
+        <input id="in-two" type="text" /><label for="in-two">Input Two</label>
+    </div>
+    <div style="display: flex">
+        <div id="synced-read-only" style="background-color: lightgrey"></div><label for="synced-read-only"> ← Variable Value</label>
+    </div>
+</html>
   
 <script>
     //CUSTOM OBSERVABLE
