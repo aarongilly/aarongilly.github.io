@@ -5,13 +5,13 @@ date: "2022-01-16"
 categories: 
 - "coding"
 header:
-   teaser: "https://lh3.googleusercontent.com/pw/AM-JKLVT2CciUr6thq3QZO9qLtT48hHZK2tYE8U0t5kYK0-IeOfM-N_dlcZoP7WWrHNwcdGgJfp1QL2uXrmzi1wESExEmxM8y0pPdhaz0cgtBMXpHUeavObgQKdWLwQ0r04P-phoMqGAegRab4in8VBRUjBLHw=w300"
+   teaser: "/assets/images/gillespedia/data-binding.jpeg"
 mathjax: true
 ---
     
 Before I get started - I didn't go to school for any of this. I feel like I'm still very much an amateur. That said, I'm an amateur who's been doing this sort of stuff as a hobby[^1] for 10 years now. So I guess I should give myself some modicum of credit.
 
-![data-binding doodle](https://aarongilly.com/assets/images/logo-small.PNG)
+![data-binding doodle](/assets/images/gillespedia/data-binding.jpeg)
 
 ## What is Data Binding?
 
