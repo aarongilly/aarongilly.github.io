@@ -32,11 +32,11 @@ You can update the value of `observedString`{:javascript} either input box, and 
     <div style="border: solid; padding: 20px;">
     <div style="display: block">
         <label for="in-one">Input One:</label>
-        <input id="in-one" type="text" />
+        <input id="in-one" type="text" style="background-color: white;" />
     </div>
     <div style="display: block">
         <label for="in-two">Input Two:</label>
-        <input id="in-two" type="text" />
+        <input id="in-two" type="text"  style="background-color: white;"/>
     </div>
     <div style="display: block">
         <label for="synced-read-only">Value of <span style="font-family: monospace; color: darkgrey;">observedString</span>:</label>
