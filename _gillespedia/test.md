@@ -12,6 +12,7 @@ mermaid: true
 ---
 
 ```mermaid
+   graph
    a --> b   
    a --> c
    b --> d
