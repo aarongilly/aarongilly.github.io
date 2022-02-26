@@ -12,5 +12,8 @@ mermaid: true
 ---
 
 ```mermaid
-   a --helps--> b   
+   a --> b   
+   a --> c
+   b --> d
+   c --> d
 ```
