@@ -15,12 +15,10 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 
 “Diagrams as Code” is exactly what it sounds like: illustrated diagrams that are created using code.
 
+	
 ```mermaid
-flowchart LR
-	a("Set up Environment") -->	d(write code)  --> diagram --> b{"Diagram Good?"}
-	b --no--> d
-	b --yes--> c("Save Image and/or Code")
-```	
+   a --helps--> b   
+```
 
 Click this button to see what's behind that diagram:
 
