@@ -5,7 +5,7 @@ date: "2022-02-25"
 categories: 
 - "coding"
 header:
-   teaser: "https://lh3.googleusercontent.com/pw/AM-JKLWQUBntJ8hptbj_6v8UD7LeUczuLka4ntjzKwsm5d32hTMyL__FojCBZJ586_cDHjrRnaly9YlEgDDp3QB3SsmhZQ27F25ukA_eWzW_xej6Q4TxEG_x01hdDJ3XHk6eWa4OGLaeuWd3g1X3k9XijcAzsg=w200"
+   teaser: "https://lh3.googleusercontent.com/pw/AM-JKLWQUBntJ8hptbj_6v8UD7LeUczuLka4ntjzKwsm5d32hTMyL__FojCBZJ586_cDHjrRnaly9YlEgDDp3QB3SsmhZQ27F25ukA_eWzW_xej6Q4TxEG_x01hdDJ3XHk6eWa4OGLaeuWd3g1X3k9XijcAzsg=w500"
 mathjax: false
 mermaid: true
 ---
@@ -16,11 +16,13 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 
 “Diagrams as Code” is exactly what it sounds like: illustrated diagrams that are created using code.
 
-<div id='target' class="language-meramid">
+<div id="target">
+```mermaid
 flowchart LR
 	a("Set up Environment") -->	d(write code)  --> diagram --> b{"Diagram Good?"}
 	b --no--> d
 	b --yes--> c("Save Image and/or Code")
+```	
 </div>
 
 Click this button to see what's behind that diagram:
