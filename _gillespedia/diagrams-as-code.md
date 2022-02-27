@@ -17,7 +17,10 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 
 	
 ```mermaid
-   a --helps--> b   
+   flowchart LR
+	a("Set up Environment") -->	d(write code) --> diagram --> b{"Diagram Good?"}
+	b --no--> d
+	b --yes--> c("Save Image and/or Code")
 ```
 
 Click this button to see what's behind that diagram:
