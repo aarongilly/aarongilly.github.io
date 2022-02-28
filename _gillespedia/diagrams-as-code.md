@@ -23,19 +23,33 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 	b --yes--> c("Save Image and/or Code")
 ```
 
+<div id='target'>
+```
+  flowchart LR
+    a("Set up Environment") -->	d(write code) --> diagram --> b{"Diagram Good?"}
+    b --no--> d
+    b --yes--> c("Save Image and/or Code")
+```
+</div>
+
+
 Click this button to see what's behind that diagram:
 
 <button onclick="toggle()">Toggle Code/Diagram</button>
 
 <script>
-    function toggle(){
-        let el = document.querySelector("code");
-        if (el.className === 'language-mermaid'){
-  el.className = 'hi-dev-person';
-} else {
-  el.className = 'language-mermaid';
-}
+  function toggle(){
+    console.log('ran')
+    let elTwo = document.querySelector("#target")
+    let el = document.querySelector("code");
+    if (elTwo.getAttribute('display')=='none'){
+      elTwo.setAttribute('display':'block');    
+      el.setAttribute('display':'none');
+    } else {
+      elTwo.setAttribute('display':'none');
+      el.setAttribute('display':'block');    
     }
+  }
 </script>
 
 Most diagrams you can draw using code fall under the umbrella of UML, the Unified Modeling Language. UML was designed to support software development, and software developers are the ones to write code. Thus UML Diagrams as code was a natural fit.
