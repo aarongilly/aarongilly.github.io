@@ -29,12 +29,13 @@ Click this button to see what's behind that diagram:
 
 <script>
     function toggle(){
-        let el = document.querySelector("#target");
+        let el = document.querySelector("code");
         if (el.className === 'language-mermaid'){
   el.className = 'hi-dev-person';
 } else {
   el.className = 'language-mermaid';
 }
+    }
 </script>
 
 Most diagrams you can draw using code fall under the umbrella of UML, the Unified Modeling Language. UML was designed to support software development, and software developers are the ones to write code. Thus UML Diagrams as code was a natural fit.
