@@ -14,7 +14,6 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 # What
 
 “Diagrams as Code” is exactly what it sounds like: illustrated diagrams that are created using code.
-
 	
 ```mermaid
    flowchart LR
@@ -43,11 +42,11 @@ Click this button to see what I mean:
     console.log('ran')
     let el = document.querySelector("code");
     if (elTwo.getAttribute('style')=='display:none'){
-      elTwo.setAttribute('style':'display:block');    
-      el.setAttribute('style':'display:none');
+      elTwo.setAttribute('style','display:block');    
+      el.setAttribute('style','display:none');
     } else {
-      elTwo.setAttribute('style':'display:none');
-      el.setAttribute('style':'display:block');    
+      elTwo.setAttribute('style','display:none');
+      el.setAttribute('style','display:block');    
     }
   }
 </script>
