@@ -23,7 +23,7 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 	b --yes--> c("Save Image and/or Code")
 ```
 
-<div id='target'>
+<div id='target' style="display:none">
 ```
   flowchart LR
     a("Set up Environment") -->	d(write code) --> diagram --> b{"Diagram Good?"}
@@ -33,7 +33,7 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 </div>
 
 
-Click this button to see what's behind that diagram:
+Click this button to see what I mean:
 
 <button onclick="toggle()">Toggle Code/Diagram</button>
 
@@ -42,12 +42,12 @@ Click this button to see what's behind that diagram:
     console.log('ran')
     let elTwo = document.querySelector("#target")
     let el = document.querySelector("code");
-    if (elTwo.getAttribute('display')=='none'){
-      elTwo.setAttribute('display':'block');    
-      el.setAttribute('display':'none');
+    if (elTwo.getAttribute('style')=='display:none'){
+      elTwo.setAttribute('style':'display:block');    
+      el.setAttribute('style':'display:none');
     } else {
-      elTwo.setAttribute('display':'none');
-      el.setAttribute('display':'block');    
+      elTwo.setAttribute('style':'display:none');
+      el.setAttribute('style':'display:block');    
     }
   }
 </script>
@@ -379,7 +379,9 @@ Depending on *where* you want to use your diagrams, you shouldn’t fight what�
 
 ## Stylistic Preference
 
-Lastly, you might just prefer one diagramming platforms code syntax or diagrams over the other. Going into this article I heavily favored Mermaid. Now I’m firmly on the fence. What we need is [a third diagramming platform that covers both their use cases](https://xkcd.com/927)!
+Lastly, you might just prefer one diagramming platforms code syntax or diagrams over the other. Going into this article I heavily favored Mermaid. Now I’m firmly on the fence. Some use cases I like Mermaid, some I like PlantUML...
+
+...What we need is [a third diagramming platform that covers both their use cases](https://xkcd.com/927)!
 
 # Post Script: SysML 2.0
 
