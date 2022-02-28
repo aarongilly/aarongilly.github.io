@@ -14,6 +14,8 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 # What
 
 “Diagrams as Code” is exactly what it sounds like: illustrated diagrams that are created using code.
+
+Click the button below to see what I mean:
 	
 ```mermaid
    flowchart LR
@@ -33,8 +35,6 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
     b --yes--> c("Save Image and/or Code")
 </code>
 </div>
-
-Click this button to see what I mean:
 
 <script>
   let elTwo = document.querySelector("#target");
