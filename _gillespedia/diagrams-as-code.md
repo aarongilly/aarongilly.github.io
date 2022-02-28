@@ -23,12 +23,15 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 ```
 
 <div id='target' style="display:none">
-```
+<code>
   flowchart LR
+  
     a("Set up Environment") -->	d(write code) --> diagram --> b{"Diagram Good?"}
+    
     b --no--> d
+    
     b --yes--> c("Save Image and/or Code")
-```
+</code>
 </div>
 
 Click this button to see what I mean:
