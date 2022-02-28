@@ -32,15 +32,15 @@ A picture is worth 1000 words. So if you can create a picture using a few lines 
 ```
 </div>
 
-
 Click this button to see what I mean:
 
-<button onclick="toggle()">Toggle Code/Diagram</button>
-
 <script>
-  function toggle(){
+  let elTwo = document.querySelector("#target");
+  let btn = document.createElement('button');
+  btn.innerText = "Toggle Code/Diagram";
+  elTwo.after(btn);
+  btn.onclick = ()=>{
     console.log('ran')
-    let elTwo = document.querySelector("#target")
     let el = document.querySelector("code");
     if (elTwo.getAttribute('style')=='display:none'){
       elTwo.setAttribute('style':'display:block');    
