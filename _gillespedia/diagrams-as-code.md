@@ -25,7 +25,6 @@ Click the button below to see what I mean:
 ```
 
 <div id='target' style="display:none">
-<code>
   flowchart LR
   
     a("Set up Environment") -->	d(write code) --> diagram --> b{"Diagram Good?"}
@@ -33,7 +32,6 @@ Click the button below to see what I mean:
     b --no--> d
     
     b --yes--> c("Save Image and/or Code")
-</code>
 </div>
 
 <script>
