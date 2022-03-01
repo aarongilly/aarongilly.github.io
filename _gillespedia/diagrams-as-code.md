@@ -231,6 +231,8 @@ Observer -- Observable : Bindable To v
 Observer -- Wrapper : Bindable To >
 ```
 
+Mermaid code ⬆️ yields Mermaid diagram ⬇️
+
 ![https://lh3.googleusercontent.com/pw/AM-JKLUwnQU9U7jBos3ZugQ8ASbD21g9Gge_UklzxEDwHjWg9NeIbZIh7dwVp1Nl8xwdtC6_vDCdXGLGIKtXtbIs2B2MpABo0IX5yFwgxeptnA2_gHMuulwpeE13JRH0VdogsJdbQyBo5oaQnZZhWGGjohNrBA=w612-h941-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLUwnQU9U7jBos3ZugQ8ASbD21g9Gge_UklzxEDwHjWg9NeIbZIh7dwVp1Nl8xwdtC6_vDCdXGLGIKtXtbIs2B2MpABo0IX5yFwgxeptnA2_gHMuulwpeE13JRH0VdogsJdbQyBo5oaQnZZhWGGjohNrBA=w612-h941-no?authuser=0)
 
 ```
@@ -276,6 +278,8 @@ Observer -- Wrapper : Bindable To >
 @enduml
 ```
 
+PlantUML code ⬆️ yields PlantUML diagram ⬇️
+
 ![https://lh3.googleusercontent.com/pw/AM-JKLUmgv-j4dB_Z7yOREHSJKIGmRuZBWCnvTraraxR-LWLM8FifUfuwFdfIdxtTrv-4mizfkkoODFSD-pGZVstV2xcgq87K6JyGmC-htbJELoZelB-JD4u56RpNYYOlLnc2U2ox59RS6E1kd248xtCGLjIbw=w609-h685-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLUmgv-j4dB_Z7yOREHSJKIGmRuZBWCnvTraraxR-LWLM8FifUfuwFdfIdxtTrv-4mizfkkoODFSD-pGZVstV2xcgq87K6JyGmC-htbJELoZelB-JD4u56RpNYYOlLnc2U2ox59RS6E1kd248xtCGLjIbw=w609-h685-no?authuser=0)
 
 ### Sequence Diagram
@@ -302,6 +306,8 @@ sequenceDiagram
     end
 ```
 
+Mermaid code ⬆️ yields Mermaid diagram ⬇️
+
 ![https://lh3.googleusercontent.com/pw/AM-JKLWH2dTDal4GfmNj7fIp1HVGq_RRwY6A2OKtAvyxmCukmw0IB9ubFiuxEPrSquY0HmhQLGRNORqaXwN0jbYxPhA3xWmixNrHn6aT3EGg6TB6kTzB_7Ru-hDi3Ce-f06vJ85Ib3q6RdVUfqe8U4qaCHeRaw=w660-h808-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLWH2dTDal4GfmNj7fIp1HVGq_RRwY6A2OKtAvyxmCukmw0IB9ubFiuxEPrSquY0HmhQLGRNORqaXwN0jbYxPhA3xWmixNrHn6aT3EGg6TB6kTzB_7Ru-hDi3Ce-f06vJ85Ib3q6RdVUfqe8U4qaCHeRaw=w660-h808-no?authuser=0)
 
 ```
@@ -325,6 +331,8 @@ sequenceDiagram
 @enduml
 ```
 
+PlantUML code ⬆️ yields PlantUML diagram ⬇️
+
 ![https://lh3.googleusercontent.com/pw/AM-JKLW6Cz7Tw1VPFJfMoiQigtEZ0k4p6ydly0oPOBq4GmX_rIHwQOtyVCg0MuSS0-gpYeXg795zhOiOyQNH44FIwFfksd-e7EcXgiKOuPpo6tQkKPITvHD5Qwa2yB-jzm57JjymQLnN5uxAvcH8V1dExFWIRw=w402-h534-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLW6Cz7Tw1VPFJfMoiQigtEZ0k4p6ydly0oPOBq4GmX_rIHwQOtyVCg0MuSS0-gpYeXg795zhOiOyQNH44FIwFfksd-e7EcXgiKOuPpo6tQkKPITvHD5Qwa2yB-jzm57JjymQLnN5uxAvcH8V1dExFWIRw=w402-h534-no?authuser=0)
 
 ### Flow Chart/Activity Chart
@@ -346,6 +354,8 @@ a-->b-->c-->d-->e-->f-->g
 style c fill:#bbf
 ```
 
+Mermaid code ⬆️ yields Mermaid diagram ⬇️
+
 ![https://lh3.googleusercontent.com/pw/AM-JKLW0zf-cHk9BbXcxcsWlG0x4AKFBMV3f7-_AQfWedEbLRHoQm9yBTZokC8Bm4EZaEhEolPjCbIZojNNWFnCE6PFZsjXqZkpzoQ9UCbd6nPYEoQBS_hZcOAIloKMg5LmUh5VJqsqqJQD-3n33MCVP1t632A=w465-h682-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLW0zf-cHk9BbXcxcsWlG0x4AKFBMV3f7-_AQfWedEbLRHoQm9yBTZokC8Bm4EZaEhEolPjCbIZojNNWFnCE6PFZsjXqZkpzoQ9UCbd6nPYEoQBS_hZcOAIloKMg5LmUh5VJqsqqJQD-3n33MCVP1t632A=w465-h682-no?authuser=0)
 
 ```
@@ -360,6 +370,8 @@ floating note left: Where I've been for 1.5 years
 :iPhone/iPad;
 @enduml
 ```
+
+PlantUML code ⬆️ yields PlantUML diagram ⬇️
 
 ![https://lh3.googleusercontent.com/pw/AM-JKLV4WBxCBLjBMtmf11Q2EZMm5UAm4l-b4bkiy4d18ArQm399u_20P1B1UX2OAQA-7f9gsTC5WcyQNNWDyRRyuC0hJ3nk-gfrim0BxyUoIMTtMta3hNm0sLH0FWMt8iw9ifuBUreP7jbkJy4hxNeLHljRtg=w558-h378-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLV4WBxCBLjBMtmf11Q2EZMm5UAm4l-b4bkiy4d18ArQm399u_20P1B1UX2OAQA-7f9gsTC5WcyQNNWDyRRyuC0hJ3nk-gfrim0BxyUoIMTtMta3hNm0sLH0FWMt8iw9ifuBUreP7jbkJy4hxNeLHljRtg=w558-h378-no?authuser=0)
 
