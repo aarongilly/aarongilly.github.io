@@ -24,7 +24,7 @@ Click the button below to see what I mean:
 	b --yes--> c("Save Image and/or Code")
 ```
 
-<div id='target' style="display:none">
+<pre id='target' style="display:none">
   flowchart LR
   
     a("Set up Environment") -->	d(write code) --> diagram --> b{"Diagram Good?"}
@@ -32,7 +32,7 @@ Click the button below to see what I mean:
     b --no--> d
     
     b --yes--> c("Save Image and/or Code")
-</div>
+</pre>
 
 <script>
   let elTwo = document.querySelector("#target");
@@ -138,9 +138,9 @@ Installing **PlantUML** involves downloading & installing:
 
 Interestingly it looks like PlantUML is *also* available [via NPM](https://www.npmjs.com/package/plantuml) - it’s just not officially supported.
 
-**Mermaid’s** intended application is via inclusion as a <script> tag using a CDN, or through local install using NPM... both of which are much easier. You could simply copy/paste the below into a text file on your computer, save it with a ‘.html’ suffix, then open it in your browser to see your diagram.
+**Mermaid’s** intended application is via inclusion as a script tag using a CDN, or through local install using NPM... both of which are much easier. You could simply copy/paste the below into a text file on your computer, save it with a ‘.html’ suffix, then open it in your browser to see your diagram.
 
-```
+```html
 <html>
   <script src="<https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js>"></script>
   <body>
@@ -158,7 +158,7 @@ Interestingly it looks like PlantUML is *also* available [via NPM](https://ww
 </html>
 ```
 
-Both Mermaid and PlantUML enjoy wide application support. You can utilize them to create diagrams with minimalvi configuration (and sometimes *no configuration*) in the following environments[^3]:
+Both Mermaid and PlantUML enjoy wide application support. You can utilize them to create diagrams with minimal configuration (and sometimes *no configuration*) in the following environments[^3]:
 
 | Platform | PlantUML | Mermaid |
 | --- | --- | --- |
