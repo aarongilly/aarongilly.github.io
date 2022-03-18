@@ -381,17 +381,25 @@ Coke or Pepsi. McDonald’s or Burger King. Apple or Google. Team Edward or Team
 
 How do you choose?
 
-### Specific diagram type coverage
+### Specific diagram type or feature coverage
 
 PlantUML covers more of the UML Core Diagrams. Mermaid offers Requirement diagrams (from SysML). If you absolutely **need** to make Activity Diagrams, PlantUML is your only choice.
+
+Mermaid takes a more **lean** approach when it comes to adding features. On the whole, PlantUML offers features (e.g. native "Notes" on diagrams, like the note on the last diagram above).
 
 ### Ease-of-implementation in your environment
 
 Depending on *where* you want to use your diagrams, you shouldn’t fight what’s easiest. Check out the compatibility table here (which I probably won’t maintain over time).
 
-## Stylistic Preference
+### Syntactic Preferences
 
-Lastly, you might just prefer one diagramming platforms code syntax or diagrams over the other. Going into this article I heavily favored Mermaid. Now I’m firmly on the fence. Some use cases I like Mermaid, some I like PlantUML...
+One diagramming method may be your preferred syntax. Sequence diagrams are (or at least *can be*) the same syntax for both, but they take very different approaches for things like simple flowcharts. Mermaid's syntax feels less daunting to me. Mermaid code blocks are practically readable by themselves. PlantUML is a bit less intuitive, from my perspective.
+
+### Stylistic Preferences
+
+Lastly, you might just prefer one the look of platform's diagrams over the other. Going into this article I heavily favored Mermaid. Now I’m firmly on the fence. PlantUML diagrams are less "aesthetic", but perhaps this makes them more *readable*. The bolder, higher contrast default for PlantUML looks a bit clunkier, but also easier to parse.
+
+Some use cases I like Mermaid, some I like PlantUML...
 
 ...What we need is [a third diagramming platform that covers both their use cases](https://xkcd.com/927)!
 
