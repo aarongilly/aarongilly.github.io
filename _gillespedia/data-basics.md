@@ -1,12 +1,12 @@
 ---
 title: "Data Basics"
 excerpt: "The Zeroes and Ones of it All"
-date: "2020-07-22"
+date: "2022-07-22"
 categories: 
 - "math"
 - "coding"
 header:
-   teaser: "/assets/images/gillespedia/mult.PNG"
+   teaser: "/assets/images/gillespedia/data.PNG"
 mathjax: true
 ---
 
