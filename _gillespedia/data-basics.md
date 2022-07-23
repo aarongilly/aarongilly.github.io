@@ -6,7 +6,7 @@ categories:
 - "math"
 - "coding"
 header:
-   teaser: "/assets/images/gillespedia/data.PNG"
+   teaser: "/assets/images/gillespedia/data-basics.PNG"
 mathjax: true
 ---
 
