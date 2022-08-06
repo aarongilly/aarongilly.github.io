@@ -12,7 +12,7 @@ mathjax: true
 
 Upfront: "data" is the plural of "datum". It is not a singular noun, it is plural. I will refer to it as such.
 
-## What are Data?
+# What are Data?
 
 Data are information encoded into a form suitable for storage, transmission, or processing. If you Google the definition of "data", you get:
 
