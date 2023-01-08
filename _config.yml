@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "http://eepurl.com/gNPOV9"
     - label: "Get in to Win"
-      icon: "fas fa-fw fa-key-skeleton"
+      icon: "fas fa-fw fa-key"
       url: "https://getinto.win" 
     - label: "Movie Podcast"
       icon: "fas fa-fw fa-podcast"
