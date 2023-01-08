@@ -6,13 +6,13 @@ categories:
 - "math"
 - "coding"
 header:
-   teaser: "/assets/images/gillespedia/data-basics.PNG"
+   teaser: "/assets/images/gillespedia/data-basics.png"
 mathjax: true
 ---
 
 Upfront: "data" is the plural of "datum". It is not a singular noun, it is plural. I will refer to it as such.
 
-## What are Data?
+# What are Data?
 
 Data are information encoded into a form suitable for storage, transmission, or processing. If you Google the definition of "data", you get:
 
@@ -120,7 +120,7 @@ See [my previous article](https://aarongilly.com/gillespedia/analog-vs-digital/)
 
 We have special names for different quantities of zeros and ones:
 
-![https://lh3.googleusercontent.com/pw/AM-JKLV5jkihBxr4Wgtoc7xyfJvfrCGf_PL3D0uQT5eTS1hswW7pbJI1ckoY2LXtTjEgSahY9PdIY5Jk6VD2WWF9oIIPpTDsvPrEE6C2y2jqWaOeotHGptkM0Bj8d1md7ttPsdPzLljtj9uiyCtxTjJIo9zKYA=w600](a table of names for quantities of zeros and ones)
+![a table of zeros and ones](https://lh3.googleusercontent.com/pw/AM-JKLV5jkihBxr4Wgtoc7xyfJvfrCGf_PL3D0uQT5eTS1hswW7pbJI1ckoY2LXtTjEgSahY9PdIY5Jk6VD2WWF9oIIPpTDsvPrEE6C2y2jqWaOeotHGptkM0Bj8d1md7ttPsdPzLljtj9uiyCtxTjJIo9zKYA=w600)
 
 There are a number of ways in which you can turn zeroes and ones into meaningful information. The translation of data into information is dependent on *context* and *convention*.
 
