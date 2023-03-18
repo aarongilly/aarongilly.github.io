@@ -110,13 +110,13 @@ author:
   name             : "Aaron Gillespie"
   avatar           : "/assets/images/Mugshot.PNG"
   bio              : "In no particular order: 
-    person, engineer, bad-joke-maker, data geek, father, husband, movie fan, writer, and project-doer"
+    person, engineer, purveryor of bad jokes, coder, father, puzzle maker husband, movie fan, writer, and project-doer"
   location         : "Lawrence, KS"
   links:
     - label: "Subscribe"
       icon: "fas fa-fw fa-envelope-square"
       url: "http://eepurl.com/gNPOV9"
-    - label: "Get in to Win"
+    - label: "My Puzzle Boxes"
       icon: "fas fa-fw fa-key"
       url: "https://getinto.win" 
     - label: "Movie Podcast"
