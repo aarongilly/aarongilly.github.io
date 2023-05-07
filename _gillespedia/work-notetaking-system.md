@@ -6,7 +6,6 @@ categories:
 - "productivity"
 header:
    teaser: "/assets/images/gillespedia/work-notes-header.jpg"
-mathjax: true
 ---
 
 While I prefer digital notetaking systems for creating a continuous and searchable repository of notes, digital notetaking isn't possible in all businesses or classrooms. I have experimented with different physical notetaking systems for years. I've used a standard notebook, a 3-ring binder, a dedicated planner, and a number of "padfolios". For the past year or so, I've settled in on a system that works very well to balance the dynamic nature of a standard day and the benefits of a structured set of notes.
@@ -79,6 +78,6 @@ Whether contained in a block of related notes or not, my notes tend to follow a 
 
 I keep at my desk a large 3-ring binder. Every so often I will transfer pages that contain notes that are sufficiently old. Sufficiently old depends on the nature of your job, for me they are things from 30+ days ago.
 
-In practice, most often information is linked to time. Time is the universal index. If you need to reference something you wrote down in a note a few weeks or months ago, but aren't sure exactly which day it was on, you can do one of two things. You can flip back through pages, quickly scanning for Day Headers and looking at the meetings for that day, OR you can utilize your calendar to find the appropriate date, then flip straight to that day's notes. This technique works best for notes that are closely bound to time. 
+In practice, most often information is linked to a certian *time*. Time is the universal index. If you need to reference something you wrote down in a note a few weeks or months ago, but aren't sure exactly which day it was on, you can do one of two things. You can flip back through pages, quickly scanning for Day Headers and looking at the meetings for that day, OR you can utilize your calendar to find the appropriate date, then flip straight to that day's notes. This technique works best for notes that are closely bound to time. 
 
-For notes such as those brainstorming a Project Plan, where which specific day the brainstorming took place isn't of real value, I will utilize a divider section dedicated to that project. These
+Each week as part of my weekly review I go through the week's notes to ensure I've transferred all my to-dos to a dedicated task management system. After the week's notes are reviewed, no open task boxes remain. The page is effectively served its purpose. It will remain in the binder, slowly moving backwards as new pages are placed in front of it, until such a time as it gets transferred to the long-term storage big binder.
