@@ -109,8 +109,7 @@ analytics:
 author:
   name             : "Aaron Gillespie"
   avatar           : "/assets/images/Mugshot.PNG"
-  bio              : "In no particular order: 
-    person, engineer, purveryor of bad jokes, coder, father, puzzle maker husband, movie fan, writer, and project-doer"
+  bio              : "In no particular order: engineer, purveryor of bad jokes, coder, father, puzzle maker, husband, movie fan, writer, and project-doer"
   location         : "Lawrence, KS"
   links:
     - label: "Subscribe"
