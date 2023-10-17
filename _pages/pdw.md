@@ -1,7 +1,7 @@
 ---
 title: Personal Data Warehouse Project
 permalink: /PDW/
-layout: archive
+layout: single
 author_profile: true
 ---
 
