@@ -1,6 +1,6 @@
 ---
 title: Personal Data Warehouse Project
-permalink: /PDW/
+permalink: /pdw/
 layout: single
 author_profile: true
 ---
@@ -122,13 +122,13 @@ Or, if you prefer, a table:
 
 | Version & Date | Tracking Triggers | Data Store | Data Transfer Mechanism | Language |
 | --- | --- | --- | --- | --- |
-| V1 | 2013-04-22 | Manual | Excel | Pen & Paper | N/A |
+| V1 |  Manual | Excel | Pen & Paper | N/A |
 | v2  | Nightly | Google Sheets | Google Forms | Google Apps Script for  |
 | v3 - v6 | Nightly | Google Sheets | Google Forms + Google Apps Script | Google Apps Script |
 | v7 - v8 | Continual | Google Sheets | Google Forms + Google Apps Script | Google Apps Script |
 | v9 | Continual | MongoDB | Google Apps Script + NodeJS Web App hosted on Glitch | JavaScript (general) |
 | v10 | Continual | Firestore | Firebase Functions | TypeScript  |
-| v11 | Continual | Firestore + others | http://PDW.one & API | TypeScript |
+| v11 | Continual | Firestore + others | http://pdw.one API | TypeScript |
 
 ## How I Do it Now
 
