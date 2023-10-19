@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-So, you’re interested in my life tracking thing. This page will hopefully answer your questions.
+I have done a life-tracking project since 2013. If you're interested in that, this page is for you. Hopefully it will answer your questions.
 
 # Who
 
@@ -13,18 +13,7 @@ I did this, which means you could do it too.
 
 # What
 
-The Personal Data Warehouse[^1] is a system I built to help me keep track of stuff that happens in my life. It is an integrated, time-indexed ledger of anything I want to keep track of and measure. It is the low-friction system of inputs, storage location(s), and query/reporting mechanisms that allow me to capture and interact with any time-bound data I can think of that might seem interesting. It's a web app, code library & some plugins, few dozen Siri Shortcuts, some IFTTT Applets, and a few microservices I built. It enables automated data inputs from anything that can generate arbitrary web requests, manual inputs through a web interface, or bulk file imports. It provides structured data via my own home-grown API to access, collate, and ultimately benefit from all the entries it houses. It’s nothing more than you could do with spreadsheets, but it’s mine[^2].
-
-Examples of some of the measurements I’ve collected:
-
-- My location
-- A daily journal entry
-- My workouts
-- Movies I’ve watched
-- Date nights
-- Pains & illnesses
-- All the sleep data my Oura Ring gives me
-- …and on and on
+The Personal Data Warehouse[^1] is a system I built to help me keep track of stuff that happens in my life. It is an integrated, time-indexed ledger of anything I want to keep track of and measure. It is the low-friction system of inputs, storage location(s), and query/reporting mechanisms that allow me to capture and interact with any time-bound data that might seem interesting. It's a web app, code library & some plugins, few dozen Siri Shortcuts, some IFTTT Applets, some data structures, a couple of Scriptable scripts, and a few microservices I built. It enables automated data inputs from anything that can generate arbitrary web requests, manual inputs through a web interface or bulk file imports. It provides structured data via my own home-grown API to access, collate, and ultimately benefit from all the entries it houses. It’s nothing more than you could do with spreadsheets, but it’s mine[^2].
 
 This loop shows an overview of what I tracked over the years: 
 
@@ -38,6 +27,10 @@ The PDW allows me to answer questions like:
 - “How many drinks have I had the past few weeks?”
 - “Have I eaten out more or exercised more this month?”
 - “Have I met this goal I set for myself?”
+
+## What it Does
+
+ 
 
 # When
 
@@ -68,35 +61,49 @@ There are a bunch of reasons “why”…
 - having a framework around which future goals can be built and maintained
 - specifically in my case - having a **great** testbed application and reason to learn to code, system design, and how to make things work
 
-…but honestly, my best response to the question of “why” is “*why not?”* It's a hobby. I enjoy it.
+…but honestly, my best response to the question of “why” is “*why not?”* 
 
 # How
 
-This is why I made this page at all. This is what separates this page from my 5 year, 7 year, and 10 year retrospectives on the project.
+This is why I made this page at all. This is what separates this page from my [5 year](https://aarongilly.com/339/), [7 year](https://aarongilly.com/391/), and [10 year](https://aarongilly.com/444/) retrospectives on the project.
 
-If even one person reads this and benefits from it, I will be very pleased. 
+If even one person benefits from reading this I will be very pleased.
 
-I am going to cover how my thing works, but also how I’d recommend someone who's interested in this concept get started. Spoilers: I don’t recommend doing everything I’ve done. There’s a strong argument to make the system is *worse* now than when it was all one fancy spreadsheet.
+I am going to cover how my thing works, but also how I’d recommend someone who's interested in this concept get started. 
+
+{: .notice--primary}
+**Spoilers:** I don’t recommend doing everything I’ve done. There’s a strong argument to make the system is *worse* now than when it was all one fancy spreadsheet. There's a sweet spot and I passed it.
 
 ## How I’d Recommend Starting
 
-First, think about what you want to capture. Think about what you want to *do* with what you capture. What technical skills do you have now, and what are you interested in learning about? 
+Ask yourself: What you want to capture? What you want to *do* with what you capture? What technical skills do you have now, and what skills are you interested in developing?
 
-### If You’re Just Dabbling
+### If You’re Just Getting Started
 
-If you’re vaguely interested in tracking things - there are plenty of options. I’m not going to go into any of them in detail, but try any of these.
+There are plenty of options to get you started. I’m not going to go into any of them in detail, but try any of these to begin with before trying to make something fancy.
 
+- Use a Google Sheet, or a few Google Sheets, maybe along with Google Forms and/or IFTTT
 - Spin up a Notion database based off some habit tracking or journaling template that you like.
-- Use a Google Sheet, or a few Google Sheets, along with Google Forms and/or IFTTT
+- If you're mostly interested in habit tracking, I'll plug one of my favorite apps [Streaks on iOS](https://streaksapp.com).
 - Just carry around a notebook and a pen. I tracked with a pen and paper for a year, manually transcribing to Excel, that worked fine.
 
-Track things to the best of your ability, maybe just at night before bed try to fill it out. Put it in your calendar or to-do list. Review after a month or so. Make adjustments.
+Track things to the best of your ability, either throughout the day or just at night before bed. Put it in your calendar or to-do list. Review after a month or so. Make adjustments.
 
-### If You’re a Bit More Serious
+This is the best place to start. Don't jump in and try to perfect things out the gate. You won't know what's working until you try it,so just get started with something basic. You can evolve your system from there.
 
-If you’re a bit more serious about it, the best bang for your buck toolset is **Google Sheets + Google Apps Script** *(Google’s macro-like scripting engine behind Google’s productivity suite)*. It’s been the best tool for the past 9 years, and has only gotten *stronger* since I started using it.
+### Once You’re a Bit More Serious
 
-I recommend creating a single Master Workbook, setting up one sheet per each level of granularity you care to track (see below), and a folder of scrubbed files that conform to a more common data structure.
+If you decide to get a bit more serious about it, the best bang for your buck toolset is **Google Sheets + Google Apps Script** *(Google’s macro-like scripting engine behind Google’s productivity suite)*. It’s been the best tool for the past 9 years, and has only gotten *stronger* since I started using it.
+
+I recommend creating a single Master Workbook, setting up one sheet per each level of granularity you care to track. At a minimum I'd recommend `Daily`, `Weekly`, `Monthly`, and `Yearly` sheets. Each row in these sheets corresponds to one period of time. Create columns for each type of data you want to track in whatever sheet it belongs in. Create a Google Apps Script [like this one](https://gist.github.com/aarongilly/78e9ea6380d1bdb3b3d23abf52b3f3e4), and set up a nightly Trigger that auto-generate rows for you each day/week/month/year. This is a relatively simple process that makes the whole thing much less tedious.
+
+If you decide some things you want to track don't natively correspond well on a 1:1 basis with any given period, then you have a decision to make. For example - you want to track the names of movies you watch, but you might watch 2 or more movies in any given day.You can do one of 3 things:
+
+1. Figure out a way to put the multiple entries into a single cell (use your own delimiter scheme)
+2. Create one sheet per type of thing you want to track, then add the data in new rows there
+3. Create a separate Google Sheet workbook and reference it via formulas (or Apps Script automations)
+
+Those options are presented from "easiest but least scalable" to "hardest but most scalable". Option 3 allows you to use Google Forms and "If This Then That" (or related services) pretty quickly and easily. The graphic below presents option 3, which I like best.  
 
 ![recommened-approach.jpeg](/assets/images/pdw-recommened-approach.jpeg)
 
