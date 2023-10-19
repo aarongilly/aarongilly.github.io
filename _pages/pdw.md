@@ -28,10 +28,6 @@ The PDW allows me to answer questions like:
 - “Have I eaten out more or exercised more this month?”
 - “Have I met this goal I set for myself?”
 
-## What it Does
-
- 
-
 # When
 
 I started with a pen & paper back in 2013 and haven't stopped since. You could start *today*. 
@@ -74,11 +70,11 @@ I am going to cover how my thing works, but also how I’d recommend someone who
 {: .notice--primary}
 **Spoilers:** I don’t recommend doing everything I’ve done. There’s a strong argument to make the system is *worse* now than when it was all one fancy spreadsheet. There's a sweet spot and I passed it.
 
-## How I’d Recommend Starting
+## How I’d Recommend Tracking
 
 Ask yourself: What you want to capture? What you want to *do* with what you capture? What technical skills do you have now, and what skills are you interested in developing?
 
-### If You’re Just Getting Started
+### When You’re Just Getting Started
 
 There are plenty of options to get you started. I’m not going to go into any of them in detail, but try any of these to begin with before trying to make something fancy.
 
@@ -113,6 +109,7 @@ This gives you a one-stop shop for overviewing all your time-bound data. It work
 
 If you’re really serious, build something from scratch. See “How I Do It Now” below.
 
+{: .notice--warning}
 *Note: I recommend **not** doing this. Do the “If you’re a bit more serious” thing from above. This represents several orders of magnitude harder challenge, and in the end you’ll end up with a result that’s probably no better than a good spreadsheet.*
 
 ## How I Have Done It
