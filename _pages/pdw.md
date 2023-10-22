@@ -103,7 +103,7 @@ Those options are presented from "easiest but least scalable" to "hardest but mo
 
 ![recommened-approach.jpeg](/assets/images/pdw-recommened-approach.jpeg)
 
-This gives you a one-stop shop for overviewing all your time-bound data. It works well with PivotTables and charts. It provides the most natural interface for data import, compatible with copy/pasting files, copy/pasting data, using Google Forms, or IFTTT.
+This gives you a one-stop shop for overviewing all your time-bound data. It works well with PivotTables and charts. It provides the most natural interface for data import, compatible with copy/pasting files, copy/pasting data, using Google Forms, or IFTTT. You can write a relatively small chunk of code to receive HTTP Requests, parse them, find the workbook associated with the request, and append a row to it. [Like a surprisingly small chunk of code](https://github.com/aarongilly/simpleAppsScriptDataWriter/blob/master/webAppBase.js).
 
 ### If You’re Really Serious
 
