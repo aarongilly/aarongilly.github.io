@@ -144,7 +144,7 @@ Here’s a graph describing the data in the system.
 
 ![digraph.jpeg](/assets/images/pdw-digraph.jpeg)
 
-*Note: I’ve created a proper ERD, a couple UML models, and a SysML model for this. The fact that I’m choosing to share a hand-drawn digraph because it’s more fun.*
+*Note: I’ve created a proper ERD, a couple UML models, and a SysML model for this. The fact that I’m choosing to share a hand-drawn digraph is because I never made a model of what the **final** design looked like.*
 
 ### System Architecture
 
@@ -180,14 +180,48 @@ Making the PDW was a continual process of learning, refinement, and optimization
 
 [^3]: Highly recommend if you’re doing this to have a single “write to the tracker” shortcut that all the other shortcuts call. Originally every shortcut had its own “send to the cloud” step… then I changed the logic in the cloud and I had to change ~30 shortcuts individually. I switched them all to point towards a common “middleware”, which then handled security stuff, then the middleware points to the “Set Entry” shortcut which actually writes data to the cloud via the *“Get contents of URL”* shortcut action.
 
-# Short List of Things I’ve Learned Thanks to this Project
+# Short List of Technical Things I’ve Learned Thanks to this Project
 
-Basic Web Development: JavaScript, HTML, CSS.
-
-Siri Shortcuts - a surprisingly powerful tool.
-
-REST API consumption & OAuth: Google Fit, OpenWeatherMap. Oura.
-
-REST API creation: Node + Express + MongoDB. Firebase Functions + Firestore.
-
-Higher-level software concepts. Architecture. Separation of concerns. Standardization. What being “highly cohesive and loosely coupled” means. Documentation. Modularization of components via interfaces. Packaging plugins.
+Here's an incomplete list of the technical things I've learned thanks to this project.
+- Basic Web Development
+    - JavaScript
+    - HTML
+    - CSS
+- Slightly less basic web dev
+    - TypeScript
+    - Svelte
+    - Tailwind
+    - I wrote my own JavaScript Framework NPM Package *(that you shouldn't use)*
+    - NPM publishing
+- Local development
+    - NodeJS
+- Siri Shortcuts - a surprisingly powerful tool.
+    - Siri Automations
+- Scriptable App
+    - Custom widget creation
+- REST API consumption
+    - Google Fit
+    - OpenWeatherMap
+    - Oura
+    - Google Sheets
+- REST API creation
+    - Node + Express
+    - SvelteKit
+    - Google Apps Script Webapps
+- Authorization implementation
+    - Firebase + Firestore
+    - Custom tokens
+- NoSQL Databases
+    - MongoDB
+    - Firestore
+- Serverless compute
+    - Vercel serverless functions
+    - Firebase Functions
+- Unit Testing
+    - And why/when it's worthwhile
+- High-level software concepts
+    - Architecture
+    - Separation of concerns
+    - Standardization & interface-orientation
+    - Documentation
+    - Designing & packaging plugins
