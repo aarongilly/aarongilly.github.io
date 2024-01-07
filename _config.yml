@@ -117,13 +117,13 @@ author:
       url: "http://eepurl.com/gNPOV9"
     - label: "My Puzzle Boxes"
       icon: "fas fa-fw fa-key"
-      url: "https://getinto.win" 
+      url: "https://aaronspuzzles.com" 
     - label: "Movie Podcast"
       icon: "fas fa-fw fa-podcast"
-    #  url: "https://we-scene-a-movie.pinecast.co/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://shows.acast.com/we-scene-a-movie"
+    - label: "My Notes"
+      icon: "fab fa-fw fa-notes"
+      url: "https://notes-aarongilly.vercel.app"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -287,9 +287,9 @@ collections:
   gillespedia:
     output: true
     permalink: /:collection/:path/
-  creations:
-    output: true
-    permalink: /creations/
+  # creations:
+  #   output: true
+  #   permalink: /creations/
 
 # Defaults
 defaults:
