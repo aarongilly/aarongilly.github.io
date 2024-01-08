@@ -104,7 +104,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Aaron Gillespie"
@@ -122,7 +121,7 @@ author:
       icon: "fas fa-fw fa-podcast"
       url: "https://shows.acast.com/we-scene-a-movie"
     - label: "My Notes"
-      icon: "fab fa-fw fa-notes"
+      icon: "fas fa-edit"
       url: "https://notes-aarongilly.vercel.app"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
